@@ -8,6 +8,7 @@ dijalankan ulang di sesi Kaggle berikutnya (simpan folder runs/ sebagai output).
       [--external kermany=/kaggle/working/external/kermany/kermany.csv]
 
 Grup:
+  baseline : S1_all x efficientnet_b0 x seed 0,1,2                         (3 run, Progress 3)
   core     : S1_all, S2_AP_matched, S3_PA_matched  x 2 model x seed 0,1,2  (18 run)
   natural  : S2_AP_natural, S3_PA_natural          x 2 model x seed 0      (4 run)
   s4       : S4_*_f1/f5/f10                        x 2 model x seed 0      (12 run)
@@ -24,6 +25,7 @@ from pathlib import Path
 MODELS = ["efficientnet_b0", "swin_tiny_patch4_window7_224"]
 
 GROUPS = {
+    "baseline": [("S1_all", "efficientnet_b0", sd, []) for sd in (0, 1, 2)],  # Progress 3
     "core": [(s, m, sd, []) for s in ["S1_all", "S2_AP_matched", "S3_PA_matched"]
              for m in MODELS for sd in (0, 1, 2)],
     "natural": [(s, m, 0, []) for s in ["S2_AP_natural", "S3_PA_natural"] for m in MODELS],

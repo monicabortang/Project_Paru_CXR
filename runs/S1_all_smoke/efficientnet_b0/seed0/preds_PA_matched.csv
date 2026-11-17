@@ -1,0 +1,1267 @@
+patientId,img_path,label,class3,view,age,sex,boxes,orig_h,orig_w,prob
+cf3b5e4b-043c-4fcf-81b5-c11898dcefe8,images/cf3b5e4b-043c-4fcf-81b5-c11898dcefe8.png,0,Normal,PA,25.0,M,[],1024,1024,0.089502946
+62ba66c2-7154-4b82-af96-09feb7b91e00,images/62ba66c2-7154-4b82-af96-09feb7b91e00.png,0,Normal,PA,26.0,M,[],1024,1024,0.7333935
+4a61e100-d111-4ab3-ac10-29a2c8d035c0,images/4a61e100-d111-4ab3-ac10-29a2c8d035c0.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.00024736658
+d94616df-2f92-4612-b86b-ba5b18d423ca,images/d94616df-2f92-4612-b86b-ba5b18d423ca.png,0,Normal,PA,13.0,M,[],1024,1024,0.99240255
+cbe2cae7-00e2-4255-bc97-84a9a5059ec5,images/cbe2cae7-00e2-4255-bc97-84a9a5059ec5.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,4.565578e-06
+d512ef16-ff52-492f-bf9d-897840d1efdc,images/d512ef16-ff52-492f-bf9d-897840d1efdc.png,0,No Lung Opacity / Not Normal,PA,75.0,M,[],1024,1024,0.9603695
+7181705d-bd1b-4896-94e6-0cc4d7562d56,images/7181705d-bd1b-4896-94e6-0cc4d7562d56.png,1,Lung Opacity,PA,67.0,M,"[[157.0, 594.0, 143.0, 123.0]]",1024,1024,0.13386735
+7123e0c9-ddc9-4a45-9734-86ddf7b2d939,images/7123e0c9-ddc9-4a45-9734-86ddf7b2d939.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.99941635
+a36bcdda-c363-4ae6-a8b9-47bb0e05dc43,images/a36bcdda-c363-4ae6-a8b9-47bb0e05dc43.png,1,Lung Opacity,PA,42.0,M,"[[615.0, 440.0, 297.0, 265.0]]",1024,1024,0.05221205
+9a947d6c-0564-4daf-9a54-ef3a3d5a0df3,images/9a947d6c-0564-4daf-9a54-ef3a3d5a0df3.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.9999999
+ec8593ff-4f35-41d6-9d66-d7b7e06ce3ac,images/ec8593ff-4f35-41d6-9d66-d7b7e06ce3ac.png,0,Normal,PA,46.0,F,[],1024,1024,0.88022006
+72d3d76d-2437-4a88-b495-b8dd8b75c719,images/72d3d76d-2437-4a88-b495-b8dd8b75c719.png,0,No Lung Opacity / Not Normal,PA,22.0,F,[],1024,1024,0.00033901626
+fdfbe45e-d197-4462-900c-bf5f2d489c11,images/fdfbe45e-d197-4462-900c-bf5f2d489c11.png,0,Normal,PA,30.0,F,[],1024,1024,0.9999757
+5ebe32fe-3ee4-4ebe-9bbd-3e91b9a84da3,images/5ebe32fe-3ee4-4ebe-9bbd-3e91b9a84da3.png,0,No Lung Opacity / Not Normal,PA,22.0,M,[],1024,1024,0.9122844
+318ddd27-55ab-49f2-9de1-78a0232946f2,images/318ddd27-55ab-49f2-9de1-78a0232946f2.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.00043842007
+601dd9c6-3544-4a3b-94b7-f9b77ae19451,images/601dd9c6-3544-4a3b-94b7-f9b77ae19451.png,0,Normal,PA,28.0,M,[],1024,1024,0.9996917
+09471800-38bb-448e-9a36-5544dd585676,images/09471800-38bb-448e-9a36-5544dd585676.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,0.5691571
+9960c058-8c83-46c9-b311-5dd7e927eb34,images/9960c058-8c83-46c9-b311-5dd7e927eb34.png,1,Lung Opacity,PA,61.0,M,"[[266.0, 521.0, 279.0, 145.0]]",1024,1024,0.9756423
+9255eef1-ecf0-4f39-9eea-d8ecb88f0f17,images/9255eef1-ecf0-4f39-9eea-d8ecb88f0f17.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.5471876
+989149b3-7b38-4ffe-b996-244dbeaafe4d,images/989149b3-7b38-4ffe-b996-244dbeaafe4d.png,0,Normal,PA,20.0,F,[],1024,1024,0.56728804
+06e40d99-227c-4fa5-a51a-8691b155b837,images/06e40d99-227c-4fa5-a51a-8691b155b837.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.97477776
+d5364bc1-bc2a-4bd0-a1bd-0cfb5a369ccc,images/d5364bc1-bc2a-4bd0-a1bd-0cfb5a369ccc.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.9999999
+d6801444-ee8d-43f5-88d9-8e13614c0f2b,images/d6801444-ee8d-43f5-88d9-8e13614c0f2b.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.5615228
+d9c7d6ac-d99f-4f2d-b50b-52b6df45d5a8,images/d9c7d6ac-d99f-4f2d-b50b-52b6df45d5a8.png,0,Normal,PA,61.0,M,[],1024,1024,0.9533219
+b7f98d86-4068-42f2-8bdf-23868b4fcd37,images/b7f98d86-4068-42f2-8bdf-23868b4fcd37.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.02314141
+c2a9dddb-6c25-40b8-ac8c-09086789f9cd,images/c2a9dddb-6c25-40b8-ac8c-09086789f9cd.png,0,No Lung Opacity / Not Normal,PA,43.0,F,[],1024,1024,0.006365983
+f880d2fc-8720-42f4-b72e-0755aa82b94a,images/f880d2fc-8720-42f4-b72e-0755aa82b94a.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.9999982
+3141838c-603b-47ea-8591-80a7e7c5bf12,images/3141838c-603b-47ea-8591-80a7e7c5bf12.png,0,Normal,PA,59.0,F,[],1024,1024,0.0016780163
+bc38f1c5-36eb-40c1-8bcd-b818fd04951a,images/bc38f1c5-36eb-40c1-8bcd-b818fd04951a.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.98079646
+0f5460cd-0847-4977-9bbf-01de53f44f45,images/0f5460cd-0847-4977-9bbf-01de53f44f45.png,0,No Lung Opacity / Not Normal,PA,43.0,M,[],1024,1024,0.9786395
+f8dbc41b-06f8-4fca-9495-d35f49cf0130,images/f8dbc41b-06f8-4fca-9495-d35f49cf0130.png,0,Normal,PA,52.0,F,[],1024,1024,0.99999857
+cc67a408-4da8-4992-9d07-9ab8cff9917c,images/cc67a408-4da8-4992-9d07-9ab8cff9917c.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.9999857
+e87a8a11-b8ae-4373-b78d-d5ec6f69724e,images/e87a8a11-b8ae-4373-b78d-d5ec6f69724e.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.96612316
+3525e4fa-0fef-4a06-9e09-c94b1709bbaf,images/3525e4fa-0fef-4a06-9e09-c94b1709bbaf.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,1.462084e-05
+b29dcdc8-57c8-443a-a69c-615fa7dc9973,images/b29dcdc8-57c8-443a-a69c-615fa7dc9973.png,1,Lung Opacity,PA,36.0,M,"[[174.0, 592.0, 220.0, 130.0], [603.0, 484.0, 225.0, 257.0]]",1024,1024,0.9986896
+bbdf6d54-a58a-40f7-b7fa-8f3eaf22e414,images/bbdf6d54-a58a-40f7-b7fa-8f3eaf22e414.png,1,Lung Opacity,PA,48.0,F,"[[114.0, 251.0, 310.0, 249.0]]",1024,1024,0.9980216
+c0dec778-b56c-4c6e-8132-a606e845235c,images/c0dec778-b56c-4c6e-8132-a606e845235c.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.9999999
+7d9b4358-60b0-45a6-b564-46b286510811,images/7d9b4358-60b0-45a6-b564-46b286510811.png,0,No Lung Opacity / Not Normal,PA,17.0,F,[],1024,1024,0.18253194
+32520edc-7730-4e75-a132-334f077a963b,images/32520edc-7730-4e75-a132-334f077a963b.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.9995851
+8eac99ab-25bc-4ad7-97cb-4fec4ca1305a,images/8eac99ab-25bc-4ad7-97cb-4fec4ca1305a.png,0,Normal,PA,10.0,F,[],1024,1024,0.99905044
+d65092b0-65b9-49b0-b6ee-c7d7c574b7dc,images/d65092b0-65b9-49b0-b6ee-c7d7c574b7dc.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.31139052
+6b9f7b91-8530-45e3-be03-e2f2c0b0a708,images/6b9f7b91-8530-45e3-be03-e2f2c0b0a708.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.035123292
+bd73138b-5909-47be-bfd7-ae53e4a3c765,images/bd73138b-5909-47be-bfd7-ae53e4a3c765.png,0,No Lung Opacity / Not Normal,PA,45.0,F,[],1024,1024,0.97452646
+d5b43979-19a1-4102-aee8-5aaf1307883c,images/d5b43979-19a1-4102-aee8-5aaf1307883c.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.6061675
+f33a8eaa-d1dd-4084-aa40-9c99392a9039,images/f33a8eaa-d1dd-4084-aa40-9c99392a9039.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.2859389
+7105d840-ed2b-42fa-a32c-ba10ff3604bb,images/7105d840-ed2b-42fa-a32c-ba10ff3604bb.png,1,Lung Opacity,PA,61.0,M,"[[240.0, 439.0, 197.0, 154.0]]",1024,1024,0.058222283
+f5776e96-52ce-4515-88bf-190ab6e0c816,images/f5776e96-52ce-4515-88bf-190ab6e0c816.png,0,Normal,PA,59.0,M,[],1024,1024,0.86941725
+44c1c539-06ac-4c1f-aab0-73bea4afd290,images/44c1c539-06ac-4c1f-aab0-73bea4afd290.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.9999999
+d2dd6b61-572f-4d66-9a5b-05a026fa40c9,images/d2dd6b61-572f-4d66-9a5b-05a026fa40c9.png,0,No Lung Opacity / Not Normal,PA,16.0,M,[],1024,1024,0.0006447183
+52ef86be-c19b-4adb-b331-1629b72eee1e,images/52ef86be-c19b-4adb-b331-1629b72eee1e.png,0,No Lung Opacity / Not Normal,PA,19.0,M,[],1024,1024,1.0
+dbc02d37-5409-41bf-a949-04844da63229,images/dbc02d37-5409-41bf-a949-04844da63229.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.9999825
+36ac7bd2-34b4-4551-96b9-8404ec7d9079,images/36ac7bd2-34b4-4551-96b9-8404ec7d9079.png,1,Lung Opacity,PA,20.0,M,"[[602.0, 354.0, 218.0, 181.0]]",1024,1024,0.999532
+f16e1f39-243d-49ef-ac41-9d932a86ab8e,images/f16e1f39-243d-49ef-ac41-9d932a86ab8e.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.72963345
+e7a1091f-7853-423a-82c9-6f8f6f8ab618,images/e7a1091f-7853-423a-82c9-6f8f6f8ab618.png,0,No Lung Opacity / Not Normal,PA,27.0,M,[],1024,1024,0.30479592
+9df9a10d-09dc-48b5-9b2b-b28c6048acb4,images/9df9a10d-09dc-48b5-9b2b-b28c6048acb4.png,0,Normal,PA,30.0,F,[],1024,1024,1.0
+9fa9dd9a-d129-43b0-8029-1e09798402b4,images/9fa9dd9a-d129-43b0-8029-1e09798402b4.png,0,Normal,PA,12.0,M,[],1024,1024,0.97074616
+068b608d-f71c-4859-b909-62c1665b507f,images/068b608d-f71c-4859-b909-62c1665b507f.png,1,Lung Opacity,PA,58.0,M,"[[181.0, 106.0, 220.0, 265.0]]",1024,1024,0.8829009
+d22b51a8-da87-48b7-98b4-f00314ab8d99,images/d22b51a8-da87-48b7-98b4-f00314ab8d99.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99995565
+c95d0325-9439-461e-8ea3-24d3dd63a5f0,images/c95d0325-9439-461e-8ea3-24d3dd63a5f0.png,1,Lung Opacity,PA,37.0,M,"[[255.0, 455.0, 96.0, 88.0]]",1024,1024,0.9999521
+f7b6c4f3-b7ea-43e5-a4b8-8e893e877ccd,images/f7b6c4f3-b7ea-43e5-a4b8-8e893e877ccd.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.059654124
+09460406-b734-43b0-8233-23055dea6dde,images/09460406-b734-43b0-8233-23055dea6dde.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.99911565
+75741e40-4136-4b9e-986b-83b353cc5183,images/75741e40-4136-4b9e-986b-83b353cc5183.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,9.804243e-07
+a28f364b-faac-4056-aafa-9309215e1412,images/a28f364b-faac-4056-aafa-9309215e1412.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9915957
+d1524efa-1ee4-48a7-8532-00a2cc94b96e,images/d1524efa-1ee4-48a7-8532-00a2cc94b96e.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.999949
+c9d267da-46b5-4444-934c-8a660b0fe092,images/c9d267da-46b5-4444-934c-8a660b0fe092.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99246466
+54e479ff-15e5-421a-aeec-1f3974427b5e,images/54e479ff-15e5-421a-aeec-1f3974427b5e.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9998318
+b776a863-b1da-4a7e-b688-b9a6ce6c3e75,images/b776a863-b1da-4a7e-b688-b9a6ce6c3e75.png,1,Lung Opacity,PA,54.0,M,"[[181.0, 439.0, 230.0, 278.0]]",1024,1024,0.99489033
+f145236e-77ef-4cc3-8289-85a020b56c5e,images/f145236e-77ef-4cc3-8289-85a020b56c5e.png,1,Lung Opacity,PA,63.0,M,"[[236.0, 435.0, 153.0, 316.0]]",1024,1024,0.9901326
+dab1d37b-27b2-450e-9833-70d812c73cb7,images/dab1d37b-27b2-450e-9833-70d812c73cb7.png,0,No Lung Opacity / Not Normal,PA,23.0,M,[],1024,1024,0.9761322
+73c83dfb-5e65-4dd5-a5e1-58372c922259,images/73c83dfb-5e65-4dd5-a5e1-58372c922259.png,0,Normal,PA,45.0,M,[],1024,1024,0.019260786
+49ee0424-95fb-45a6-bc76-f24d06db7ac5,images/49ee0424-95fb-45a6-bc76-f24d06db7ac5.png,0,No Lung Opacity / Not Normal,PA,23.0,M,[],1024,1024,0.9997358
+e9fa532f-2ca2-43c8-b8bb-bd1d86329b5b,images/e9fa532f-2ca2-43c8-b8bb-bd1d86329b5b.png,0,No Lung Opacity / Not Normal,PA,45.0,M,[],1024,1024,0.99618953
+0d9f8e9e-3a29-472a-8a96-7c792d6f3edf,images/0d9f8e9e-3a29-472a-8a96-7c792d6f3edf.png,1,Lung Opacity,PA,49.0,F,"[[657.0, 414.0, 245.0, 291.0], [281.0, 445.0, 113.0, 120.0]]",1024,1024,0.13684371
+4936f212-84a2-41b0-8781-8652763f3cec,images/4936f212-84a2-41b0-8781-8652763f3cec.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.28564903
+5aacbb2b-e0aa-4ddd-8cd1-732d2fefbf48,images/5aacbb2b-e0aa-4ddd-8cd1-732d2fefbf48.png,0,No Lung Opacity / Not Normal,PA,35.0,F,[],1024,1024,0.99899393
+b86e639a-5938-4126-b4fd-fc62f89ae7cf,images/b86e639a-5938-4126-b4fd-fc62f89ae7cf.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.13057195
+a045b782-7673-4f3f-a018-07eb3ae96321,images/a045b782-7673-4f3f-a018-07eb3ae96321.png,0,Normal,PA,28.0,M,[],1024,1024,0.99289036
+477c40d9-9cba-4d45-a5d1-c691fc01adb0,images/477c40d9-9cba-4d45-a5d1-c691fc01adb0.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.018790096
+971befc9-5a0d-4bda-acb5-2cebeaa8163e,images/971befc9-5a0d-4bda-acb5-2cebeaa8163e.png,1,Lung Opacity,PA,32.0,F,"[[268.0, 307.0, 156.0, 389.0]]",1024,1024,0.1329503
+77a50626-2a5d-44a8-8013-af001549b769,images/77a50626-2a5d-44a8-8013-af001549b769.png,1,Lung Opacity,PA,50.0,M,"[[144.0, 382.0, 252.0, 229.0]]",1024,1024,0.99988127
+49819189-845a-49ba-9f8a-d775ab939761,images/49819189-845a-49ba-9f8a-d775ab939761.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.99986005
+87f56687-a6b1-4a99-9e77-f751c9bf0e97,images/87f56687-a6b1-4a99-9e77-f751c9bf0e97.png,0,No Lung Opacity / Not Normal,PA,30.0,M,[],1024,1024,0.048350397
+25d3bbc4-580d-40d1-9b4f-b29bf9741b93,images/25d3bbc4-580d-40d1-9b4f-b29bf9741b93.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.9999999
+38e99364-5995-4b7c-ad87-f8b558a0b5a4,images/38e99364-5995-4b7c-ad87-f8b558a0b5a4.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.9999999
+fb5d92c4-e61a-477b-b32e-1fc6c179c80b,images/fb5d92c4-e61a-477b-b32e-1fc6c179c80b.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.999977
+71ea8f7f-d36d-47a5-89c3-7ec145a201c2,images/71ea8f7f-d36d-47a5-89c3-7ec145a201c2.png,0,No Lung Opacity / Not Normal,PA,43.0,M,[],1024,1024,0.8067895
+7ccacf95-ccc2-446b-8f5c-08b32411bed6,images/7ccacf95-ccc2-446b-8f5c-08b32411bed6.png,0,Normal,PA,52.0,F,[],1024,1024,0.9910567
+a961ccea-6d12-42a5-b788-d0a5633349a7,images/a961ccea-6d12-42a5-b788-d0a5633349a7.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.0010550729
+6207b736-fe0c-4f73-ad9b-9ef1e81aa885,images/6207b736-fe0c-4f73-ad9b-9ef1e81aa885.png,0,Normal,PA,68.0,F,[],1024,1024,0.9999906
+ea77fbc2-8d03-40a4-80c1-fa08ba118d1b,images/ea77fbc2-8d03-40a4-80c1-fa08ba118d1b.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.999998
+99e6d0cc-823b-4452-ba73-08ef4d4ac63e,images/99e6d0cc-823b-4452-ba73-08ef4d4ac63e.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99206984
+31e9cf09-f8bb-4694-b0e6-69a741d3da4c,images/31e9cf09-f8bb-4694-b0e6-69a741d3da4c.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.99817085
+cdda8323-32fb-45ee-afb7-d3133928a052,images/cdda8323-32fb-45ee-afb7-d3133928a052.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.9871329
+858b525c-3663-4ed2-b983-97dded46f183,images/858b525c-3663-4ed2-b983-97dded46f183.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.39404914
+fab1ae5a-5a01-46db-a260-7e6b537f53eb,images/fab1ae5a-5a01-46db-a260-7e6b537f53eb.png,0,Normal,PA,48.0,F,[],1024,1024,0.99973387
+35d5dba1-22ee-4f68-b28f-bd16ae96ae00,images/35d5dba1-22ee-4f68-b28f-bd16ae96ae00.png,1,Lung Opacity,PA,61.0,M,"[[164.0, 189.0, 288.0, 620.0], [580.0, 182.0, 273.0, 679.0]]",1024,1024,0.19427608
+83cb9b93-a13f-47d1-b645-81b540c7e321,images/83cb9b93-a13f-47d1-b645-81b540c7e321.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.23225504
+a986ed31-7616-4e4a-bd62-961a7142a3c6,images/a986ed31-7616-4e4a-bd62-961a7142a3c6.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.99993384
+dec7133d-d8a8-406b-bb74-a6165bda4538,images/dec7133d-d8a8-406b-bb74-a6165bda4538.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.9999608
+e2805622-6164-4945-bd30-f9b472f4019b,images/e2805622-6164-4945-bd30-f9b472f4019b.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.99968386
+0566560d-cbff-4025-b803-64498357df9d,images/0566560d-cbff-4025-b803-64498357df9d.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.99998915
+7ff490a4-7ccf-49d6-8340-cb5c68af31b0,images/7ff490a4-7ccf-49d6-8340-cb5c68af31b0.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.98409826
+454bd649-2755-4dd3-be6c-7690f73775b5,images/454bd649-2755-4dd3-be6c-7690f73775b5.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.9999927
+a01fb62b-62b1-428a-bd43-0e0cbd50ed66,images/a01fb62b-62b1-428a-bd43-0e0cbd50ed66.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.89049405
+71041150-5565-445f-9211-d1e42bc8dde5,images/71041150-5565-445f-9211-d1e42bc8dde5.png,0,No Lung Opacity / Not Normal,PA,37.0,F,[],1024,1024,0.0006236008
+6f6f2177-304d-4174-ad65-7b163f492c33,images/6f6f2177-304d-4174-ad65-7b163f492c33.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.9970067
+5fe9b9af-9b7e-4575-bc16-7c204d3c40a5,images/5fe9b9af-9b7e-4575-bc16-7c204d3c40a5.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,2.3400959e-05
+35c45480-3cfc-4988-8bd7-4c1ee56ed88b,images/35c45480-3cfc-4988-8bd7-4c1ee56ed88b.png,1,Lung Opacity,PA,52.0,M,"[[155.0, 463.0, 289.0, 376.0], [679.0, 450.0, 230.0, 398.0]]",1024,1024,0.99999845
+615b878f-b17c-4453-aa71-53638e9981c8,images/615b878f-b17c-4453-aa71-53638e9981c8.png,0,Normal,PA,16.0,F,[],1024,1024,0.99953437
+b4fe242c-892f-4839-9aa6-d6b140649635,images/b4fe242c-892f-4839-9aa6-d6b140649635.png,0,No Lung Opacity / Not Normal,PA,5.0,F,[],1024,1024,0.93857384
+ac6b624d-71ba-44ca-957e-592a715f0ac2,images/ac6b624d-71ba-44ca-957e-592a715f0ac2.png,1,Lung Opacity,PA,61.0,M,"[[238.0, 494.0, 205.0, 250.0]]",1024,1024,0.013766292
+bf7b0977-4f77-45a7-8c03-77602f82b905,images/bf7b0977-4f77-45a7-8c03-77602f82b905.png,1,Lung Opacity,PA,58.0,F,"[[646.0, 472.0, 195.0, 265.0]]",1024,1024,0.9986357
+bb20b32f-809f-494c-926e-ddad4436f5c2,images/bb20b32f-809f-494c-926e-ddad4436f5c2.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.9993104
+db8e9a3e-3da6-452c-8ea5-e2e082a874ff,images/db8e9a3e-3da6-452c-8ea5-e2e082a874ff.png,0,No Lung Opacity / Not Normal,PA,75.0,M,[],1024,1024,0.0012209767
+5292d196-8ecf-4cc4-98f4-43bc3e9aa243,images/5292d196-8ecf-4cc4-98f4-43bc3e9aa243.png,0,No Lung Opacity / Not Normal,PA,33.0,F,[],1024,1024,0.88441956
+334ebbf2-a210-4051-9629-9ede16de9d3a,images/334ebbf2-a210-4051-9629-9ede16de9d3a.png,0,Normal,PA,49.0,M,[],1024,1024,0.9630797
+25300d70-86f1-4be6-83a9-f6ae31a0b451,images/25300d70-86f1-4be6-83a9-f6ae31a0b451.png,1,Lung Opacity,PA,44.0,F,"[[577.0, 511.0, 195.0, 86.0]]",1024,1024,0.99686074
+eb3ee01c-739c-4c97-b31a-8522f2926981,images/eb3ee01c-739c-4c97-b31a-8522f2926981.png,0,No Lung Opacity / Not Normal,PA,34.0,F,[],1024,1024,0.039806433
+d95cc647-caee-42f2-8229-0d22d64d92f6,images/d95cc647-caee-42f2-8229-0d22d64d92f6.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.99655604
+576d42dd-fb6c-45f0-8245-1808f0a8b07f,images/576d42dd-fb6c-45f0-8245-1808f0a8b07f.png,0,Normal,PA,51.0,M,[],1024,1024,0.9997261
+cfe9db74-671b-46a9-8489-c8f3c76e30a5,images/cfe9db74-671b-46a9-8489-c8f3c76e30a5.png,0,Normal,PA,37.0,M,[],1024,1024,0.51727533
+72fcb14d-5126-4976-b31f-ad2d21d2462e,images/72fcb14d-5126-4976-b31f-ad2d21d2462e.png,1,Lung Opacity,PA,60.0,F,"[[646.0, 717.0, 132.0, 97.0]]",1024,1024,0.9999579
+bb6988b6-86f7-442c-83dc-c013e08aeb65,images/bb6988b6-86f7-442c-83dc-c013e08aeb65.png,0,No Lung Opacity / Not Normal,PA,26.0,F,[],1024,1024,0.9987004
+5f7cbe92-d4b4-456e-a38c-e2f370570e99,images/5f7cbe92-d4b4-456e-a38c-e2f370570e99.png,0,Normal,PA,60.0,M,[],1024,1024,0.9997358
+cab975f6-28c4-418d-b6da-6cd6a4f8d902,images/cab975f6-28c4-418d-b6da-6cd6a4f8d902.png,0,Normal,PA,61.0,M,[],1024,1024,0.9998584
+a2907d58-d777-4ddc-8877-f784f14c0c27,images/a2907d58-d777-4ddc-8877-f784f14c0c27.png,1,Lung Opacity,PA,52.0,F,"[[538.0, 397.0, 214.0, 279.0]]",1024,1024,0.99996054
+5799b0e6-9c17-45b0-9d19-447dbe61b184,images/5799b0e6-9c17-45b0-9d19-447dbe61b184.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.99806124
+4c2d30a8-f815-4f71-b3cf-4a522f0f353e,images/4c2d30a8-f815-4f71-b3cf-4a522f0f353e.png,0,No Lung Opacity / Not Normal,PA,80.0,M,[],1024,1024,0.9582282
+8ba3b713-50ab-46f8-8a70-ee11247390ee,images/8ba3b713-50ab-46f8-8a70-ee11247390ee.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.8503393
+4180b2a9-80cb-4859-b9c8-a9aaf91c1bf6,images/4180b2a9-80cb-4859-b9c8-a9aaf91c1bf6.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.9999846
+6e0dbf20-7070-484e-937d-629f59838638,images/6e0dbf20-7070-484e-937d-629f59838638.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.9999999
+4a7d4dfd-ba92-49a4-9ff6-4526f70b4904,images/4a7d4dfd-ba92-49a4-9ff6-4526f70b4904.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.05011859
+5cb51ae5-e291-40e9-9178-bef26e74979d,images/5cb51ae5-e291-40e9-9178-bef26e74979d.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9993635
+56eaec61-0b13-41db-ba1d-85075dbc0b7b,images/56eaec61-0b13-41db-ba1d-85075dbc0b7b.png,1,Lung Opacity,PA,57.0,M,"[[682.0, 327.0, 154.0, 187.0]]",1024,1024,1.0
+ebef5e0c-ebd3-4d53-9ccd-18b7f800356d,images/ebef5e0c-ebd3-4d53-9ccd-18b7f800356d.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.29246533
+f7107a21-770a-4305-a5ba-1b2a505d9c75,images/f7107a21-770a-4305-a5ba-1b2a505d9c75.png,0,No Lung Opacity / Not Normal,PA,28.0,F,[],1024,1024,1.0
+f6bbce6a-4ebf-4fb5-9981-b0f00111618b,images/f6bbce6a-4ebf-4fb5-9981-b0f00111618b.png,0,Normal,PA,46.0,F,[],1024,1024,0.97811127
+8fffd6af-9fa5-43fd-ae64-e74655077d8c,images/8fffd6af-9fa5-43fd-ae64-e74655077d8c.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,4.4318032e-05
+1aeb19e3-7365-4d66-afef-5157a3aca280,images/1aeb19e3-7365-4d66-afef-5157a3aca280.png,1,Lung Opacity,PA,58.0,F,"[[209.0, 323.0, 177.0, 279.0]]",1024,1024,0.999992
+3338e296-c158-4e4e-9f21-eb4ee725a0b2,images/3338e296-c158-4e4e-9f21-eb4ee725a0b2.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.14488046
+c23444bf-fd79-4fee-81eb-521e9fce470e,images/c23444bf-fd79-4fee-81eb-521e9fce470e.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.7631714
+d7aaead6-13ee-4289-8791-beb5ab117da4,images/d7aaead6-13ee-4289-8791-beb5ab117da4.png,0,Normal,PA,55.0,F,[],1024,1024,0.038886145
+402de17f-6c1c-4b1c-9ae8-d255ad23713d,images/402de17f-6c1c-4b1c-9ae8-d255ad23713d.png,0,Normal,PA,68.0,F,[],1024,1024,0.4389179
+a4e87cc6-a623-4f64-9c68-c8de4760a7de,images/a4e87cc6-a623-4f64-9c68-c8de4760a7de.png,0,No Lung Opacity / Not Normal,PA,45.0,M,[],1024,1024,0.04682834
+ed18339d-0124-4d5a-a9a1-39f689fa2a64,images/ed18339d-0124-4d5a-a9a1-39f689fa2a64.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9999933
+397fe03a-f56e-4903-8132-8494d0e9f82c,images/397fe03a-f56e-4903-8132-8494d0e9f82c.png,0,Normal,PA,59.0,M,[],1024,1024,0.9486374
+621823eb-605b-46b9-82ac-3201b0fe85f0,images/621823eb-605b-46b9-82ac-3201b0fe85f0.png,0,No Lung Opacity / Not Normal,PA,74.0,M,[],1024,1024,0.9995578
+5dcb92b0-639d-48e8-b514-599263534d7d,images/5dcb92b0-639d-48e8-b514-599263534d7d.png,0,Normal,PA,55.0,M,[],1024,1024,0.99999976
+4a7971e0-a4f4-453f-8263-c64ad56f4920,images/4a7971e0-a4f4-453f-8263-c64ad56f4920.png,0,Normal,PA,18.0,M,[],1024,1024,0.9994709
+c4eae7c6-5e5c-475b-be27-6642821d04fa,images/c4eae7c6-5e5c-475b-be27-6642821d04fa.png,0,No Lung Opacity / Not Normal,PA,37.0,M,[],1024,1024,0.028348336
+eeaed128-0f7b-4576-9f1e-3f2a9bbeb2bd,images/eeaed128-0f7b-4576-9f1e-3f2a9bbeb2bd.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,1.0
+65de4a3b-28e1-4574-a691-47b6dccf5dba,images/65de4a3b-28e1-4574-a691-47b6dccf5dba.png,0,No Lung Opacity / Not Normal,PA,37.0,F,[],1024,1024,0.88133395
+cedb4eb3-65e1-40c9-9683-c3b582991877,images/cedb4eb3-65e1-40c9-9683-c3b582991877.png,0,No Lung Opacity / Not Normal,PA,14.0,M,[],1024,1024,0.028136084
+47eb3487-24d7-42de-a896-367cfe7bc894,images/47eb3487-24d7-42de-a896-367cfe7bc894.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.9925734
+6a0e4cb3-f046-4168-b09d-2a6ac99afc15,images/6a0e4cb3-f046-4168-b09d-2a6ac99afc15.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,1.0
+01cfa23b-cc98-43af-a61b-56915f90b7ef,images/01cfa23b-cc98-43af-a61b-56915f90b7ef.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.997071
+2809dd67-ff4a-4508-9e50-54c6f060535f,images/2809dd67-ff4a-4508-9e50-54c6f060535f.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99541676
+bcff3700-de7c-42c2-be5d-1c95d008966a,images/bcff3700-de7c-42c2-be5d-1c95d008966a.png,1,Lung Opacity,PA,37.0,M,"[[333.0, 494.0, 127.0, 238.0]]",1024,1024,1.0
+a3ed1cea-4867-4d2b-966b-aecaef204882,images/a3ed1cea-4867-4d2b-966b-aecaef204882.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.999998
+3dd2b56c-ae47-4a7c-8a18-76f8b4465bf6,images/3dd2b56c-ae47-4a7c-8a18-76f8b4465bf6.png,0,No Lung Opacity / Not Normal,PA,22.0,M,[],1024,1024,0.9845163
+23b10103-d1f2-4180-896a-efde9c4ad10a,images/23b10103-d1f2-4180-896a-efde9c4ad10a.png,1,Lung Opacity,PA,72.0,M,"[[189.0, 484.0, 132.0, 157.0]]",1024,1024,1.0
+b07fc720-9696-4dbb-af78-013c1464b916,images/b07fc720-9696-4dbb-af78-013c1464b916.png,1,Lung Opacity,PA,13.0,M,"[[247.0, 425.0, 148.0, 152.0]]",1024,1024,0.074569575
+cee7adc5-7a3d-4f2b-bd2e-f633d201261a,images/cee7adc5-7a3d-4f2b-bd2e-f633d201261a.png,0,No Lung Opacity / Not Normal,PA,45.0,F,[],1024,1024,0.9405933
+5d9ae0aa-09ad-4271-953b-6c19749af5bc,images/5d9ae0aa-09ad-4271-953b-6c19749af5bc.png,0,Normal,PA,42.0,F,[],1024,1024,0.7881132
+f3e7cfe1-248e-4513-b6b9-712b09f86080,images/f3e7cfe1-248e-4513-b6b9-712b09f86080.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,0.2807986
+08886e85-61de-479a-b2df-99ef3c5d0b05,images/08886e85-61de-479a-b2df-99ef3c5d0b05.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.57450163
+0bad22f7-1833-43bc-92ec-ac2aba6e1ef7,images/0bad22f7-1833-43bc-92ec-ac2aba6e1ef7.png,0,No Lung Opacity / Not Normal,PA,85.0,F,[],1024,1024,0.98435044
+f8cf5335-860a-4248-8ee6-fa92dde76ab8,images/f8cf5335-860a-4248-8ee6-fa92dde76ab8.png,0,Normal,PA,45.0,F,[],1024,1024,0.9999999
+0baa6d29-66e3-40db-8aeb-5ebe80ddc8c8,images/0baa6d29-66e3-40db-8aeb-5ebe80ddc8c8.png,0,Normal,PA,49.0,M,[],1024,1024,0.973436
+652f37d5-445a-4700-8937-9efd52353641,images/652f37d5-445a-4700-8937-9efd52353641.png,0,Normal,PA,25.0,M,[],1024,1024,0.9999449
+9822ebf7-de5c-4132-8d18-894c2d32313c,images/9822ebf7-de5c-4132-8d18-894c2d32313c.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.9998222
+6ff55aab-a116-4030-ab02-b018c7eafa6c,images/6ff55aab-a116-4030-ab02-b018c7eafa6c.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.8478768
+0b696cf6-dac9-4890-810c-0303e6e221bd,images/0b696cf6-dac9-4890-810c-0303e6e221bd.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.01250334
+e67c40c7-339e-4822-b9fd-4958a62c0039,images/e67c40c7-339e-4822-b9fd-4958a62c0039.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.9999994
+18be2116-e8dd-4c42-8c56-8f2672e35bb7,images/18be2116-e8dd-4c42-8c56-8f2672e35bb7.png,0,No Lung Opacity / Not Normal,PA,16.0,M,[],1024,1024,0.99371356
+3a0dc890-7a6b-47b7-bd54-832a2b7c9121,images/3a0dc890-7a6b-47b7-bd54-832a2b7c9121.png,0,Normal,PA,28.0,F,[],1024,1024,0.9994609
+2529eed9-738c-4a5d-9e77-c061d77e3510,images/2529eed9-738c-4a5d-9e77-c061d77e3510.png,0,Normal,PA,49.0,M,[],1024,1024,0.010101395
+3a15d1af-32f7-40bd-86ca-9b5d453cf18d,images/3a15d1af-32f7-40bd-86ca-9b5d453cf18d.png,0,No Lung Opacity / Not Normal,PA,28.0,F,[],1024,1024,0.99538994
+5d2a83c3-3af0-4bac-a412-09dfecc682d7,images/5d2a83c3-3af0-4bac-a412-09dfecc682d7.png,0,No Lung Opacity / Not Normal,PA,15.0,M,[],1024,1024,0.83901584
+4c75f230-f5c5-4ea6-9431-6b592d665aaf,images/4c75f230-f5c5-4ea6-9431-6b592d665aaf.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,1.0
+7f532195-38cd-4ffb-ac6c-d29742e035d6,images/7f532195-38cd-4ffb-ac6c-d29742e035d6.png,0,No Lung Opacity / Not Normal,PA,85.0,F,[],1024,1024,0.457154
+c564f7d2-e018-4a58-b914-0ac5912e7a4a,images/c564f7d2-e018-4a58-b914-0ac5912e7a4a.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.99998724
+c1e228e4-b7b4-432b-a735-36c48fdb806f,images/c1e228e4-b7b4-432b-a735-36c48fdb806f.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.84384334
+d1a8f4a6-bfca-4e3c-8ca4-a7c38cce99d7,images/d1a8f4a6-bfca-4e3c-8ca4-a7c38cce99d7.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.9967969
+88e30597-cf5a-4f8b-a683-5f166bea1cc1,images/88e30597-cf5a-4f8b-a683-5f166bea1cc1.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.9999778
+9b6f8882-b59f-4a4d-8f48-b3f355fd70b9,images/9b6f8882-b59f-4a4d-8f48-b3f355fd70b9.png,1,Lung Opacity,PA,40.0,M,"[[146.0, 354.0, 337.0, 309.0]]",1024,1024,1.0
+74060000-8546-4dff-b85b-7de6eeeb04a4,images/74060000-8546-4dff-b85b-7de6eeeb04a4.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.029672747
+d1d3122f-9567-4c5d-a7e8-d8c00f8e00ae,images/d1d3122f-9567-4c5d-a7e8-d8c00f8e00ae.png,0,Normal,PA,29.0,M,[],1024,1024,0.011682583
+42d528c3-7c42-4d3d-a477-0af31cca9aaf,images/42d528c3-7c42-4d3d-a477-0af31cca9aaf.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,0.32917526
+e574ed60-29a0-4557-9ff4-59cefb52207a,images/e574ed60-29a0-4557-9ff4-59cefb52207a.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.999997
+d11d8c46-2673-4656-8e20-8f5f3791b509,images/d11d8c46-2673-4656-8e20-8f5f3791b509.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.9756925
+ebcf8c7c-4b1a-44ed-a722-4844dadbffd6,images/ebcf8c7c-4b1a-44ed-a722-4844dadbffd6.png,0,No Lung Opacity / Not Normal,PA,16.0,M,[],1024,1024,0.99999774
+e36afeec-266a-4aa8-9d47-72fcaa56cf30,images/e36afeec-266a-4aa8-9d47-72fcaa56cf30.png,0,No Lung Opacity / Not Normal,PA,53.0,F,[],1024,1024,0.9999994
+6e88a38a-9467-4ab9-b517-3664e98bc42b,images/6e88a38a-9467-4ab9-b517-3664e98bc42b.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,0.849408
+775f7e36-39cb-4a1f-8447-0276ac310ef4,images/775f7e36-39cb-4a1f-8447-0276ac310ef4.png,0,No Lung Opacity / Not Normal,PA,16.0,M,[],1024,1024,2.380907e-06
+a269a604-2a1a-4a1c-afcb-f86f2f6c0c13,images/a269a604-2a1a-4a1c-afcb-f86f2f6c0c13.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.98816144
+d17d2c0b-4455-49b6-93b1-26ffc9d0d435,images/d17d2c0b-4455-49b6-93b1-26ffc9d0d435.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.9186711
+a4d1f4c4-9181-4f5d-8582-a25a7d9be048,images/a4d1f4c4-9181-4f5d-8582-a25a7d9be048.png,0,No Lung Opacity / Not Normal,PA,38.0,F,[],1024,1024,0.5473978
+603e0ec2-c196-4486-852d-de43fb375d16,images/603e0ec2-c196-4486-852d-de43fb375d16.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.15867144
+4dff7a1d-b75f-4740-9f95-461bccfc0d24,images/4dff7a1d-b75f-4740-9f95-461bccfc0d24.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.99999726
+317d21c4-c8d5-4d83-af01-755be49aebc8,images/317d21c4-c8d5-4d83-af01-755be49aebc8.png,0,Normal,PA,46.0,M,[],1024,1024,0.35612673
+dc41834d-bf13-424d-9c82-ba4965e210ea,images/dc41834d-bf13-424d-9c82-ba4965e210ea.png,0,Normal,PA,46.0,F,[],1024,1024,0.9954419
+4bb57856-c155-4099-bcd6-d254547994d2,images/4bb57856-c155-4099-bcd6-d254547994d2.png,1,Lung Opacity,PA,34.0,M,"[[270.0, 369.0, 204.0, 267.0]]",1024,1024,0.99739754
+0ad9934b-bf35-497d-8082-1ecbc955d6de,images/0ad9934b-bf35-497d-8082-1ecbc955d6de.png,1,Lung Opacity,PA,16.0,M,"[[341.0, 214.0, 205.0, 227.0]]",1024,1024,0.8872232
+2eec752d-9977-4ea9-b73c-78e1d196d98d,images/2eec752d-9977-4ea9-b73c-78e1d196d98d.png,0,No Lung Opacity / Not Normal,PA,34.0,M,[],1024,1024,0.99874866
+abb7db92-8361-49a9-9d87-d7091beb6ef2,images/abb7db92-8361-49a9-9d87-d7091beb6ef2.png,0,Normal,PA,75.0,M,[],1024,1024,0.9984255
+f79893ef-5f7f-4b63-bcbe-694a2bd8bf42,images/f79893ef-5f7f-4b63-bcbe-694a2bd8bf42.png,0,Normal,PA,59.0,F,[],1024,1024,0.99995804
+770c117a-75c6-4b1e-8ee9-f28a7014adcc,images/770c117a-75c6-4b1e-8ee9-f28a7014adcc.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.013253499
+a833af1b-1648-400c-9969-3d24fd7df8be,images/a833af1b-1648-400c-9969-3d24fd7df8be.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,1.0
+dcd72ac1-3fbf-47b8-b20e-0412c6446fc1,images/dcd72ac1-3fbf-47b8-b20e-0412c6446fc1.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.9999993
+37a0cc02-86a5-4e78-873f-2ace719bd9dc,images/37a0cc02-86a5-4e78-873f-2ace719bd9dc.png,0,No Lung Opacity / Not Normal,PA,36.0,F,[],1024,1024,0.9975261
+3168b733-12d4-475e-8789-8c8b230743c4,images/3168b733-12d4-475e-8789-8c8b230743c4.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.8613737
+ec5a8435-f892-4a3a-af62-0cbb14f56783,images/ec5a8435-f892-4a3a-af62-0cbb14f56783.png,0,No Lung Opacity / Not Normal,PA,34.0,M,[],1024,1024,0.0053768223
+6245bff0-f2da-41a0-a503-4a578f65bcfc,images/6245bff0-f2da-41a0-a503-4a578f65bcfc.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.99999976
+49e2aae8-864d-42df-bd4d-f52c8f261c80,images/49e2aae8-864d-42df-bd4d-f52c8f261c80.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.99942905
+932e918f-17fb-413f-9b17-dea2ff44e35e,images/932e918f-17fb-413f-9b17-dea2ff44e35e.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.99999976
+2449025c-2a16-459c-89ea-f57d43602736,images/2449025c-2a16-459c-89ea-f57d43602736.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.896503
+625a6c34-39e4-4c2a-beac-d61e28bf4457,images/625a6c34-39e4-4c2a-beac-d61e28bf4457.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99995613
+f90241b5-ef89-4fcc-b7d6-c8b3835b8089,images/f90241b5-ef89-4fcc-b7d6-c8b3835b8089.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.9993185
+fb63ea5a-86c0-4deb-b832-da7772d2a758,images/fb63ea5a-86c0-4deb-b832-da7772d2a758.png,0,Normal,PA,57.0,F,[],1024,1024,0.99997914
+e078fb2c-acf6-43bf-8cd0-540bbb460947,images/e078fb2c-acf6-43bf-8cd0-540bbb460947.png,1,Lung Opacity,PA,76.0,M,"[[373.0, 215.0, 130.0, 143.0]]",1024,1024,8.723534e-09
+022b7bbd-963b-49ea-afd7-b6b7986da555,images/022b7bbd-963b-49ea-afd7-b6b7986da555.png,0,Normal,PA,66.0,M,[],1024,1024,0.997486
+f36450a2-0184-4bd9-b168-a62bde57a6d4,images/f36450a2-0184-4bd9-b168-a62bde57a6d4.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.90588623
+e7f28e53-ee59-47f4-8fc5-c43e3ea11b80,images/e7f28e53-ee59-47f4-8fc5-c43e3ea11b80.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.98069304
+51d98c1e-43ac-41c6-829f-9c06a63391bb,images/51d98c1e-43ac-41c6-829f-9c06a63391bb.png,0,Normal,PA,39.0,F,[],1024,1024,0.9996785
+2a54c3ee-7d7f-4c32-9b77-87279b8777a7,images/2a54c3ee-7d7f-4c32-9b77-87279b8777a7.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.19221227
+778e8678-e707-4c48-9c7f-ad4efbe48035,images/778e8678-e707-4c48-9c7f-ad4efbe48035.png,0,Normal,PA,60.0,F,[],1024,1024,0.068004355
+4ab7037d-0c66-41ac-a1fc-964b638f6054,images/4ab7037d-0c66-41ac-a1fc-964b638f6054.png,0,Normal,PA,52.0,M,[],1024,1024,0.008718412
+fa2d2cf7-acfc-4c2a-a231-9e60abcf5d66,images/fa2d2cf7-acfc-4c2a-a231-9e60abcf5d66.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,1.0
+3ebe379f-90fc-44a7-9602-71c5abfdd50a,images/3ebe379f-90fc-44a7-9602-71c5abfdd50a.png,1,Lung Opacity,PA,46.0,M,"[[636.0, 436.0, 219.0, 295.0], [264.0, 405.0, 193.0, 243.0]]",1024,1024,0.99907887
+0ab601ca-5f86-498f-89ab-73208a353e40,images/0ab601ca-5f86-498f-89ab-73208a353e40.png,1,Lung Opacity,PA,74.0,M,"[[132.0, 338.0, 255.0, 398.0], [644.0, 560.0, 178.0, 194.0]]",1024,1024,0.983922
+4c8048cf-7997-4d0c-962b-2f85396449f7,images/4c8048cf-7997-4d0c-962b-2f85396449f7.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.98730576
+a751f1c2-42de-49c0-b975-1eee40c88f43,images/a751f1c2-42de-49c0-b975-1eee40c88f43.png,0,No Lung Opacity / Not Normal,PA,21.0,M,[],1024,1024,0.96600014
+9cb5bc5f-4ac5-4da9-9d67-7d52fd67bc10,images/9cb5bc5f-4ac5-4da9-9d67-7d52fd67bc10.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.81427056
+cfdb2953-3c9b-480e-a9d0-89788ad1771e,images/cfdb2953-3c9b-480e-a9d0-89788ad1771e.png,0,No Lung Opacity / Not Normal,PA,32.0,M,[],1024,1024,0.9828514
+ae4d1747-9c85-413e-9e9c-c269e379354a,images/ae4d1747-9c85-413e-9e9c-c269e379354a.png,0,Normal,PA,46.0,F,[],1024,1024,0.99967694
+98f56f5b-8e5a-4e2f-b448-ab541317d660,images/98f56f5b-8e5a-4e2f-b448-ab541317d660.png,0,Normal,PA,75.0,F,[],1024,1024,0.0001021663
+c7cec1b4-27ef-413d-89a5-7fc0740e73a2,images/c7cec1b4-27ef-413d-89a5-7fc0740e73a2.png,0,No Lung Opacity / Not Normal,PA,17.0,M,[],1024,1024,0.8285745
+931b6fb9-e53d-4748-8d66-0d0cf92c96ce,images/931b6fb9-e53d-4748-8d66-0d0cf92c96ce.png,1,Lung Opacity,PA,28.0,M,"[[681.0, 373.0, 180.0, 208.0]]",1024,1024,0.5954739
+8d11ed1c-a608-47d4-ad04-5d8733c24bdd,images/8d11ed1c-a608-47d4-ad04-5d8733c24bdd.png,0,No Lung Opacity / Not Normal,PA,45.0,F,[],1024,1024,0.999826
+88b4addb-e92d-45a3-91f6-ed710e0d7443,images/88b4addb-e92d-45a3-91f6-ed710e0d7443.png,0,Normal,PA,61.0,M,[],1024,1024,0.9990368
+933fac42-c276-40dd-8106-bc72c8d2ecbd,images/933fac42-c276-40dd-8106-bc72c8d2ecbd.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,1.0
+575477c9-d219-41d3-8997-3265bc6c4a02,images/575477c9-d219-41d3-8997-3265bc6c4a02.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.021240095
+b783741d-64ad-431c-82b7-ba1dab31c043,images/b783741d-64ad-431c-82b7-ba1dab31c043.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,1.0
+8d85ff98-36a9-4763-9238-1fe184b8409e,images/8d85ff98-36a9-4763-9238-1fe184b8409e.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.28301507
+c98eb387-08eb-4a10-ad95-007e8c52c7bc,images/c98eb387-08eb-4a10-ad95-007e8c52c7bc.png,1,Lung Opacity,PA,34.0,F,"[[620.0, 445.0, 203.0, 169.0]]",1024,1024,0.9974367
+9130c6ff-ef18-413c-af5b-7c7f8de455fc,images/9130c6ff-ef18-413c-af5b-7c7f8de455fc.png,1,Lung Opacity,PA,51.0,M,"[[623.0, 334.0, 250.0, 386.0]]",1024,1024,0.64709723
+dfb0b0dd-27fc-46a8-8c43-f24d0beebf4f,images/dfb0b0dd-27fc-46a8-8c43-f24d0beebf4f.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.99998
+b2fea796-29a7-4391-9edf-5a3c087b1b42,images/b2fea796-29a7-4391-9edf-5a3c087b1b42.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.0004195065
+3a9196af-16e0-4a6a-95e4-426614770eb2,images/3a9196af-16e0-4a6a-95e4-426614770eb2.png,1,Lung Opacity,PA,59.0,M,"[[574.0, 519.0, 311.0, 187.0]]",1024,1024,0.87089324
+8873a039-5a87-45b0-9078-087cae4ca4a9,images/8873a039-5a87-45b0-9078-087cae4ca4a9.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.99845254
+42f1188b-852a-4617-a723-3c009c1590b7,images/42f1188b-852a-4617-a723-3c009c1590b7.png,0,No Lung Opacity / Not Normal,PA,19.0,M,[],1024,1024,0.99969125
+6bb95d1b-a502-430f-ba27-550549d70de3,images/6bb95d1b-a502-430f-ba27-550549d70de3.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,0.018578375
+0a0f6755-610d-4b7c-a460-5f5a8f5c0743,images/0a0f6755-610d-4b7c-a460-5f5a8f5c0743.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,1.0
+1328013e-dca0-497b-9523-072bc6b23e17,images/1328013e-dca0-497b-9523-072bc6b23e17.png,1,Lung Opacity,PA,23.0,M,"[[221.0, 341.0, 205.0, 465.0], [706.0, 554.0, 178.0, 310.0]]",1024,1024,0.99702746
+bc48ee69-de8c-416a-b023-b2f841b3be1d,images/bc48ee69-de8c-416a-b023-b2f841b3be1d.png,1,Lung Opacity,PA,62.0,M,"[[269.0, 450.0, 227.0, 307.0], [668.0, 461.0, 274.0, 336.0]]",1024,1024,0.99978215
+ce67e872-fcc3-414b-9410-0fdd862e3c27,images/ce67e872-fcc3-414b-9410-0fdd862e3c27.png,0,No Lung Opacity / Not Normal,PA,16.0,M,[],1024,1024,0.99780804
+e3ac9753-ac4b-4147-9122-8ff5ac139413,images/e3ac9753-ac4b-4147-9122-8ff5ac139413.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.99995637
+35a3198f-d764-4c5e-bed4-87ccd6c1e87a,images/35a3198f-d764-4c5e-bed4-87ccd6c1e87a.png,0,No Lung Opacity / Not Normal,PA,85.0,F,[],1024,1024,0.83652765
+444b2847-8916-416b-a71e-f94d10e281bc,images/444b2847-8916-416b-a71e-f94d10e281bc.png,0,No Lung Opacity / Not Normal,PA,82.0,F,[],1024,1024,0.24575226
+c4a026fa-9b72-4bc4-acb1-0338ebfa30d0,images/c4a026fa-9b72-4bc4-acb1-0338ebfa30d0.png,0,Normal,PA,29.0,M,[],1024,1024,0.05355723
+8d874b22-aa70-4680-9316-bc53f777b887,images/8d874b22-aa70-4680-9316-bc53f777b887.png,0,Normal,PA,26.0,F,[],1024,1024,0.99999166
+646f33bd-0722-49eb-87d6-96179afbc92a,images/646f33bd-0722-49eb-87d6-96179afbc92a.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.9969784
+a6ca60aa-c6e1-4993-8745-0a3ef5f44e66,images/a6ca60aa-c6e1-4993-8745-0a3ef5f44e66.png,0,Normal,PA,55.0,M,[],1024,1024,0.019692147
+2391484d-edaa-4e8d-a993-1ff779eafce7,images/2391484d-edaa-4e8d-a993-1ff779eafce7.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.0035462673
+42542788-db65-48ef-b370-2a46e754b30d,images/42542788-db65-48ef-b370-2a46e754b30d.png,0,No Lung Opacity / Not Normal,PA,38.0,M,[],1024,1024,0.99843055
+3dc86cfa-f3b6-4880-bab7-66e0211de904,images/3dc86cfa-f3b6-4880-bab7-66e0211de904.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.0029675583
+db1d0350-1fe5-496b-bfca-f58b60546d0b,images/db1d0350-1fe5-496b-bfca-f58b60546d0b.png,0,Normal,PA,35.0,F,[],1024,1024,0.9999982
+79d6e398-6ee6-4c5a-b924-a082d3c1cce9,images/79d6e398-6ee6-4c5a-b924-a082d3c1cce9.png,0,Normal,PA,48.0,M,[],1024,1024,0.9999807
+4fe67675-c814-4416-901f-897ef80d437d,images/4fe67675-c814-4416-901f-897ef80d437d.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.99999833
+5827367d-31c6-4527-9ccb-63676d7f230e,images/5827367d-31c6-4527-9ccb-63676d7f230e.png,0,Normal,PA,13.0,F,[],1024,1024,1.0
+dbc55a1e-81a2-48e4-a777-8f606eb3e7b7,images/dbc55a1e-81a2-48e4-a777-8f606eb3e7b7.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.9169279
+0e245423-3ccd-41ee-84a5-b9f0a20dba71,images/0e245423-3ccd-41ee-84a5-b9f0a20dba71.png,0,No Lung Opacity / Not Normal,PA,7.0,M,[],1024,1024,0.6501849
+b460b35c-214c-45b6-8306-3bf234116ca9,images/b460b35c-214c-45b6-8306-3bf234116ca9.png,1,Lung Opacity,PA,62.0,M,"[[312.0, 283.0, 172.0, 304.0]]",1024,1024,0.0012136914
+9984ccca-7c14-4931-8d35-733001ee0a20,images/9984ccca-7c14-4931-8d35-733001ee0a20.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.06743667
+974f7211-ca35-4e3e-968c-46d5b28208d0,images/974f7211-ca35-4e3e-968c-46d5b28208d0.png,0,Normal,PA,52.0,M,[],1024,1024,0.9999783
+5bcdcaca-248f-44e3-bd75-da2bee9287ef,images/5bcdcaca-248f-44e3-bd75-da2bee9287ef.png,0,Normal,PA,45.0,F,[],1024,1024,0.0021157064
+5f866831-9057-4be0-ae41-8164062a0a22,images/5f866831-9057-4be0-ae41-8164062a0a22.png,0,Normal,PA,32.0,M,[],1024,1024,0.9997342
+ea6c9011-6973-44be-9788-6b62609f63cb,images/ea6c9011-6973-44be-9788-6b62609f63cb.png,0,Normal,PA,32.0,M,[],1024,1024,0.9999864
+a679589b-9b88-4010-825a-cb3653587e78,images/a679589b-9b88-4010-825a-cb3653587e78.png,1,Lung Opacity,PA,57.0,F,"[[548.0, 365.0, 270.0, 199.0]]",1024,1024,0.93105966
+74425fb9-d1d5-4813-97d8-6b25a55d62a6,images/74425fb9-d1d5-4813-97d8-6b25a55d62a6.png,0,No Lung Opacity / Not Normal,PA,42.0,M,[],1024,1024,0.9989033
+9a202892-1eda-4fee-a4fa-652e7e835ea3,images/9a202892-1eda-4fee-a4fa-652e7e835ea3.png,0,Normal,PA,48.0,M,[],1024,1024,0.41621926
+a5c7ee06-f2bc-4800-9ac9-7a8b93064826,images/a5c7ee06-f2bc-4800-9ac9-7a8b93064826.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.9999993
+0a72a6fe-0dde-49f0-bb65-d3d73366b83f,images/0a72a6fe-0dde-49f0-bb65-d3d73366b83f.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.9978544
+5fd88893-6d79-4bb9-9ead-c5111c3de622,images/5fd88893-6d79-4bb9-9ead-c5111c3de622.png,0,No Lung Opacity / Not Normal,PA,27.0,F,[],1024,1024,0.998324
+60d3e1bc-5e25-40b6-bd12-ddbd2a3df8f4,images/60d3e1bc-5e25-40b6-bd12-ddbd2a3df8f4.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,0.9811204
+fe4d9dea-1e2e-4ef4-886d-bf9a668b7850,images/fe4d9dea-1e2e-4ef4-886d-bf9a668b7850.png,0,No Lung Opacity / Not Normal,PA,20.0,M,[],1024,1024,1.0
+11d0e217-7779-4446-bf81-7529de124d89,images/11d0e217-7779-4446-bf81-7529de124d89.png,0,Normal,PA,33.0,F,[],1024,1024,0.9996306
+6ad45a45-f694-466a-a19a-40636162958f,images/6ad45a45-f694-466a-a19a-40636162958f.png,0,No Lung Opacity / Not Normal,PA,11.0,F,[],1024,1024,0.29177833
+dd84fb76-ce09-4dff-811e-a25e82bbbc3f,images/dd84fb76-ce09-4dff-811e-a25e82bbbc3f.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.9996232
+339d0607-e869-4869-ac6d-379172682713,images/339d0607-e869-4869-ac6d-379172682713.png,1,Lung Opacity,PA,58.0,F,"[[566.0, 427.0, 282.0, 142.0], [315.0, 408.0, 131.0, 130.0]]",1024,1024,0.9612445
+705e295a-8832-4e26-bc45-0a35a14d1cd8,images/705e295a-8832-4e26-bc45-0a35a14d1cd8.png,0,No Lung Opacity / Not Normal,PA,34.0,F,[],1024,1024,0.99999046
+8ab3130a-e4f5-4e80-853a-57a5bbc9e225,images/8ab3130a-e4f5-4e80-853a-57a5bbc9e225.png,0,No Lung Opacity / Not Normal,PA,71.0,M,[],1024,1024,0.9999968
+fc4d2474-5814-4244-a1b7-7ab7328d9071,images/fc4d2474-5814-4244-a1b7-7ab7328d9071.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.0034686842
+419d2d79-4bdc-482f-9a21-560f833ae232,images/419d2d79-4bdc-482f-9a21-560f833ae232.png,0,No Lung Opacity / Not Normal,PA,21.0,F,[],1024,1024,0.9824576
+a49c891b-2ffa-40ce-b2a9-2aa9fcdf376b,images/a49c891b-2ffa-40ce-b2a9-2aa9fcdf376b.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9999665
+5af4d243-2bbb-44c4-9a74-12893d3b4489,images/5af4d243-2bbb-44c4-9a74-12893d3b4489.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.0016957087
+eadab655-474b-4bdf-9018-0adb6dbed310,images/eadab655-474b-4bdf-9018-0adb6dbed310.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.018812299
+42654256-e7f8-400b-a879-f1686bc4f820,images/42654256-e7f8-400b-a879-f1686bc4f820.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.9988213
+ddfb874c-8d96-4548-9f5b-eab93d0e9398,images/ddfb874c-8d96-4548-9f5b-eab93d0e9398.png,0,Normal,PA,48.0,F,[],1024,1024,0.35222527
+bd319ae5-2b35-4353-a82b-fa46563bff2e,images/bd319ae5-2b35-4353-a82b-fa46563bff2e.png,0,Normal,PA,31.0,M,[],1024,1024,0.99988866
+f06b985f-1424-44e3-9c57-530a93012786,images/f06b985f-1424-44e3-9c57-530a93012786.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.07055989
+c603dfd6-ab59-453a-83dc-dc0a261e5232,images/c603dfd6-ab59-453a-83dc-dc0a261e5232.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.0024102803
+1c20a2ed-7081-4e30-b5f8-a329c51d14f1,images/1c20a2ed-7081-4e30-b5f8-a329c51d14f1.png,1,Lung Opacity,PA,62.0,F,"[[308.0, 286.0, 152.0, 76.0]]",1024,1024,2.9973558e-05
+9fbc34a0-5af2-4ce3-a672-c7d90c78aaa8,images/9fbc34a0-5af2-4ce3-a672-c7d90c78aaa8.png,1,Lung Opacity,PA,67.0,M,"[[161.0, 457.0, 215.0, 294.0]]",1024,1024,1.0
+69affe5b-c780-4488-8e0b-4de2e1c014d5,images/69affe5b-c780-4488-8e0b-4de2e1c014d5.png,0,Normal,PA,56.0,M,[],1024,1024,0.96426487
+4c738b1a-40a0-4b4f-9eb1-9379fd53a12b,images/4c738b1a-40a0-4b4f-9eb1-9379fd53a12b.png,0,No Lung Opacity / Not Normal,PA,24.0,M,[],1024,1024,0.0019297273
+a06005c4-6c77-463d-b63e-88ee9f8ca7f0,images/a06005c4-6c77-463d-b63e-88ee9f8ca7f0.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.0052806824
+9d44d645-bfb4-4fe8-8670-4974c638b4e9,images/9d44d645-bfb4-4fe8-8670-4974c638b4e9.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.9999994
+d325fbfc-2b75-49c0-ad11-42f673673b49,images/d325fbfc-2b75-49c0-ad11-42f673673b49.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.9594372
+312920e7-f9a9-4064-aa35-96b805637bcc,images/312920e7-f9a9-4064-aa35-96b805637bcc.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,1.763001e-05
+3aa28a0b-fc2f-4f03-87ab-26808d456527,images/3aa28a0b-fc2f-4f03-87ab-26808d456527.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.00055731274
+cd9d12ca-cf21-4375-8f64-0e1bcf3fd0c0,images/cd9d12ca-cf21-4375-8f64-0e1bcf3fd0c0.png,0,Normal,PA,56.0,M,[],1024,1024,0.9999449
+62c63b51-ab42-4904-8667-a0e3cb939ebf,images/62c63b51-ab42-4904-8667-a0e3cb939ebf.png,0,No Lung Opacity / Not Normal,PA,33.0,F,[],1024,1024,0.9999994
+575014d8-3cea-4d15-9c5b-5b7323131fca,images/575014d8-3cea-4d15-9c5b-5b7323131fca.png,1,Lung Opacity,PA,62.0,M,"[[181.0, 436.0, 105.0, 90.0]]",1024,1024,0.52345186
+313a3547-7b54-4b60-af7f-2f53977681c2,images/313a3547-7b54-4b60-af7f-2f53977681c2.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.9999999
+9bcac162-cc50-487d-a716-e922ebe2ebf0,images/9bcac162-cc50-487d-a716-e922ebe2ebf0.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.003780372
+82764af4-85dc-4512-bdfe-d9e9f66e0fc4,images/82764af4-85dc-4512-bdfe-d9e9f66e0fc4.png,1,Lung Opacity,PA,38.0,M,"[[125.0, 528.0, 278.0, 305.0]]",1024,1024,0.78725326
+3bbe8ee8-cb32-4b89-ac39-77ac56e063d2,images/3bbe8ee8-cb32-4b89-ac39-77ac56e063d2.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,0.99999845
+518c6313-7d9c-4b30-8100-38813a8095c0,images/518c6313-7d9c-4b30-8100-38813a8095c0.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,1.0
+6480ace6-1b94-482a-8023-78f13c130c57,images/6480ace6-1b94-482a-8023-78f13c130c57.png,0,Normal,PA,14.0,M,[],1024,1024,0.9998815
+3036fb15-305b-4e9b-93ab-4e555a0fd323,images/3036fb15-305b-4e9b-93ab-4e555a0fd323.png,1,Lung Opacity,PA,31.0,F,"[[675.0, 491.0, 234.0, 106.0], [295.0, 479.0, 154.0, 86.0]]",1024,1024,0.9739352
+32261a33-4fb0-4222-bd6a-29532bfbd7df,images/32261a33-4fb0-4222-bd6a-29532bfbd7df.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.9832972
+afe2b157-f962-4a14-b637-4962c5852724,images/afe2b157-f962-4a14-b637-4962c5852724.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.9998442
+6f3ccbda-6bc1-4bbf-aa49-f789335a22b3,images/6f3ccbda-6bc1-4bbf-aa49-f789335a22b3.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.9941963
+afef1dff-d4a2-47fa-bfbc-ce4f4e16e9eb,images/afef1dff-d4a2-47fa-bfbc-ce4f4e16e9eb.png,0,No Lung Opacity / Not Normal,PA,21.0,M,[],1024,1024,0.97714704
+63ef3455-8f9c-47d2-a1c5-1a4c55221aee,images/63ef3455-8f9c-47d2-a1c5-1a4c55221aee.png,0,No Lung Opacity / Not Normal,PA,72.0,F,[],1024,1024,0.9987914
+36592e9e-7b4e-4b39-8106-cdbf56160e07,images/36592e9e-7b4e-4b39-8106-cdbf56160e07.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.99161524
+bfe6ec73-b9bb-42c5-995a-ab0be88df385,images/bfe6ec73-b9bb-42c5-995a-ab0be88df385.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.14775695
+3e3072de-40f5-4862-82f9-3226cfcf91d9,images/3e3072de-40f5-4862-82f9-3226cfcf91d9.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.9999372
+c48681c7-91e0-4325-8b2a-fe2e7bdebe83,images/c48681c7-91e0-4325-8b2a-fe2e7bdebe83.png,0,No Lung Opacity / Not Normal,PA,28.0,F,[],1024,1024,0.0027609838
+b0e93c09-2d99-4e63-bc19-68d938095223,images/b0e93c09-2d99-4e63-bc19-68d938095223.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99835676
+90e11e95-02e8-4c4c-8729-bf643f9625b4,images/90e11e95-02e8-4c4c-8729-bf643f9625b4.png,0,Normal,PA,67.0,F,[],1024,1024,0.09325886
+054eb541-ccd9-4e3c-a654-dc9855ac8e47,images/054eb541-ccd9-4e3c-a654-dc9855ac8e47.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,0.9812366
+818c3ac1-b27c-4d9e-8849-f97127647c97,images/818c3ac1-b27c-4d9e-8849-f97127647c97.png,0,No Lung Opacity / Not Normal,PA,24.0,F,[],1024,1024,1.4788852e-05
+42bfb1f3-9f7e-4e47-8983-49b16d73697f,images/42bfb1f3-9f7e-4e47-8983-49b16d73697f.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,0.9784807
+49a0c701-8e14-4651-9184-91870fdcd073,images/49a0c701-8e14-4651-9184-91870fdcd073.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.9991352
+a2f00821-a074-451d-8e0f-32a6a400d69b,images/a2f00821-a074-451d-8e0f-32a6a400d69b.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.9804105
+e5f5d529-7f51-40a6-9301-0b6ed0cfa941,images/e5f5d529-7f51-40a6-9301-0b6ed0cfa941.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.9997774
+bb4ba6c1-947b-4b84-a9f0-10d5d300a31e,images/bb4ba6c1-947b-4b84-a9f0-10d5d300a31e.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.64832354
+16fbf1ae-c5fb-45f4-ba27-8880b5bdb1be,images/16fbf1ae-c5fb-45f4-ba27-8880b5bdb1be.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.5991956
+71f400da-5f22-4731-be8a-e86919df1a2c,images/71f400da-5f22-4731-be8a-e86919df1a2c.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.99029845
+c9965593-c591-4c07-946d-32682f8e3296,images/c9965593-c591-4c07-946d-32682f8e3296.png,0,No Lung Opacity / Not Normal,PA,32.0,M,[],1024,1024,0.81432384
+16210269-f47e-47a3-be2c-9cd49ad47343,images/16210269-f47e-47a3-be2c-9cd49ad47343.png,0,No Lung Opacity / Not Normal,PA,19.0,F,[],1024,1024,0.24938692
+238157f2-9ef0-4be0-8385-4c36b494045e,images/238157f2-9ef0-4be0-8385-4c36b494045e.png,0,No Lung Opacity / Not Normal,PA,68.0,F,[],1024,1024,0.93052906
+c957ddf3-2ce6-4022-b747-6e92b5401342,images/c957ddf3-2ce6-4022-b747-6e92b5401342.png,0,No Lung Opacity / Not Normal,PA,79.0,F,[],1024,1024,0.99949574
+fb24b346-0d92-44fa-9f1f-93524248cb60,images/fb24b346-0d92-44fa-9f1f-93524248cb60.png,0,No Lung Opacity / Not Normal,PA,83.0,F,[],1024,1024,0.18373664
+7bd663e2-0ced-434c-9db9-d333071ef06c,images/7bd663e2-0ced-434c-9db9-d333071ef06c.png,0,Normal,PA,47.0,M,[],1024,1024,0.9449167
+086c0080-f9e5-4f22-ab06-7ad7248e814c,images/086c0080-f9e5-4f22-ab06-7ad7248e814c.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.99935335
+b939ebe7-a1d4-47b1-b52f-2a8dce3e82a3,images/b939ebe7-a1d4-47b1-b52f-2a8dce3e82a3.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.0002656775
+5848e2cd-4a74-400f-8fe8-f78c136a2ec3,images/5848e2cd-4a74-400f-8fe8-f78c136a2ec3.png,1,Lung Opacity,PA,57.0,M,"[[590.0, 365.0, 244.0, 242.0]]",1024,1024,0.030998597
+85ae17cb-e7dd-4d77-9bf5-8bccdae0f9a4,images/85ae17cb-e7dd-4d77-9bf5-8bccdae0f9a4.png,1,Lung Opacity,PA,64.0,M,"[[595.0, 442.0, 241.0, 286.0], [258.0, 111.0, 209.0, 192.0]]",1024,1024,0.9999883
+ef730449-a3ce-46c5-8709-dc16abbcd9a7,images/ef730449-a3ce-46c5-8709-dc16abbcd9a7.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,2.553318e-05
+ea6a872b-dab5-42aa-8329-2dd502c00c69,images/ea6a872b-dab5-42aa-8329-2dd502c00c69.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.99964714
+fd43dbd5-4dcb-4b62-ae2a-e991a703b48d,images/fd43dbd5-4dcb-4b62-ae2a-e991a703b48d.png,1,Lung Opacity,PA,62.0,M,"[[152.0, 276.0, 212.0, 382.0]]",1024,1024,0.9997336
+9405a1ba-63e1-4c5e-9430-4952d1d27496,images/9405a1ba-63e1-4c5e-9430-4952d1d27496.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99704474
+6166c4b4-4eef-42d9-9b09-593d92af3f83,images/6166c4b4-4eef-42d9-9b09-593d92af3f83.png,0,Normal,PA,54.0,M,[],1024,1024,0.859168
+f2c99cd5-cbd9-484a-82c2-538696fa186f,images/f2c99cd5-cbd9-484a-82c2-538696fa186f.png,0,No Lung Opacity / Not Normal,PA,23.0,M,[],1024,1024,0.9999827
+3721db11-ec23-4e08-8432-d82fe3efb754,images/3721db11-ec23-4e08-8432-d82fe3efb754.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.9999505
+53e8706e-4bd3-45d8-89e9-af18bf665e67,images/53e8706e-4bd3-45d8-89e9-af18bf665e67.png,0,Normal,PA,36.0,F,[],1024,1024,0.13775156
+965b6d9e-1718-4f01-9663-cac87d376477,images/965b6d9e-1718-4f01-9663-cac87d376477.png,0,Normal,PA,51.0,F,[],1024,1024,0.9999862
+54682db5-0e1e-4c93-b109-3c7048f963fa,images/54682db5-0e1e-4c93-b109-3c7048f963fa.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.98912036
+af0894a8-0a8b-4327-add9-a3bdcb425b76,images/af0894a8-0a8b-4327-add9-a3bdcb425b76.png,1,Lung Opacity,PA,61.0,M,"[[121.0, 514.0, 258.0, 246.0]]",1024,1024,0.8511308
+57906d1b-d8dc-473e-8be1-c0e11e217054,images/57906d1b-d8dc-473e-8be1-c0e11e217054.png,1,Lung Opacity,PA,62.0,F,"[[256.0, 564.0, 199.0, 173.0]]",1024,1024,0.088393494
+17fe6438-981c-41de-a6fd-ac01708de1a9,images/17fe6438-981c-41de-a6fd-ac01708de1a9.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.08006067
+7e5673a6-f9fd-40ee-87b3-bea2c84a0575,images/7e5673a6-f9fd-40ee-87b3-bea2c84a0575.png,0,Normal,PA,31.0,F,[],1024,1024,0.9627783
+6f6cda1b-3cc0-4fc4-bf39-20ca11b11778,images/6f6cda1b-3cc0-4fc4-bf39-20ca11b11778.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.58885807
+1705a701-d5b2-486b-b9a3-3d5e8f580d1a,images/1705a701-d5b2-486b-b9a3-3d5e8f580d1a.png,0,No Lung Opacity / Not Normal,PA,68.0,F,[],1024,1024,0.73375815
+3f21ced9-2155-4c73-9b00-c4747d5bf31d,images/3f21ced9-2155-4c73-9b00-c4747d5bf31d.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.991228
+e6d3c126-47d8-4ecb-a6d9-0eefb3293caf,images/e6d3c126-47d8-4ecb-a6d9-0eefb3293caf.png,0,No Lung Opacity / Not Normal,PA,68.0,M,[],1024,1024,0.00025075057
+f43eef3c-d1f8-41c9-b931-f31ee378175b,images/f43eef3c-d1f8-41c9-b931-f31ee378175b.png,0,No Lung Opacity / Not Normal,PA,30.0,M,[],1024,1024,0.22912171
+c79c91fa-f96d-45c8-bc10-44770c7b8371,images/c79c91fa-f96d-45c8-bc10-44770c7b8371.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.0014561684
+3f33bafd-eb7a-41c0-b888-b1269f241c9c,images/3f33bafd-eb7a-41c0-b888-b1269f241c9c.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.99977845
+5d07d002-81e4-40f6-8ec9-1db9eeea10cd,images/5d07d002-81e4-40f6-8ec9-1db9eeea10cd.png,0,No Lung Opacity / Not Normal,PA,74.0,M,[],1024,1024,0.06078907
+5e49c8fe-ec55-4fdd-a136-78538f480898,images/5e49c8fe-ec55-4fdd-a136-78538f480898.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.99986494
+06a7e767-3117-45d3-8921-8501e710ed0a,images/06a7e767-3117-45d3-8921-8501e710ed0a.png,0,No Lung Opacity / Not Normal,PA,25.0,F,[],1024,1024,1.0
+b489923b-d8be-4e8d-8620-bea0343a2f67,images/b489923b-d8be-4e8d-8620-bea0343a2f67.png,1,Lung Opacity,PA,41.0,M,"[[584.0, 381.0, 163.0, 159.0]]",1024,1024,1.0
+3ed5e37a-df95-4bf3-9ea9-fab48fc42f86,images/3ed5e37a-df95-4bf3-9ea9-fab48fc42f86.png,1,Lung Opacity,PA,56.0,M,"[[298.0, 476.0, 161.0, 146.0]]",1024,1024,0.71949565
+f47ff61f-e517-455a-9e14-2e8daf40ddc6,images/f47ff61f-e517-455a-9e14-2e8daf40ddc6.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.9933536
+d1cd3958-3094-4323-90ec-8904029f0e50,images/d1cd3958-3094-4323-90ec-8904029f0e50.png,0,No Lung Opacity / Not Normal,PA,36.0,F,[],1024,1024,0.999954
+d7553f34-d3da-4385-8689-609f0a313167,images/d7553f34-d3da-4385-8689-609f0a313167.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.9999734
+27036455-3da7-42f5-a0ef-ba2805d06e79,images/27036455-3da7-42f5-a0ef-ba2805d06e79.png,0,Normal,PA,34.0,F,[],1024,1024,0.0001173431
+13ebcd6e-6a66-40c4-9d58-a5c177f8b037,images/13ebcd6e-6a66-40c4-9d58-a5c177f8b037.png,0,No Lung Opacity / Not Normal,PA,68.0,F,[],1024,1024,0.99999964
+6b0bb2d0-aeb5-46b9-88cc-73db366cae5b,images/6b0bb2d0-aeb5-46b9-88cc-73db366cae5b.png,0,No Lung Opacity / Not Normal,PA,18.0,M,[],1024,1024,0.8730779
+ec3bdec5-13df-49c0-862a-c8dd8124bfce,images/ec3bdec5-13df-49c0-862a-c8dd8124bfce.png,0,Normal,PA,23.0,F,[],1024,1024,0.009983843
+4c05690d-628a-4ac5-8a41-6ee4e97a2663,images/4c05690d-628a-4ac5-8a41-6ee4e97a2663.png,0,Normal,PA,59.0,M,[],1024,1024,0.99993384
+56678286-ee43-4883-b1a0-ecf27f27aee3,images/56678286-ee43-4883-b1a0-ecf27f27aee3.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.9999914
+909d12be-061f-42c4-a9ae-09e3a25af08c,images/909d12be-061f-42c4-a9ae-09e3a25af08c.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,0.0015302021
+f3d574fd-fbf5-46fc-819f-649dacf56c70,images/f3d574fd-fbf5-46fc-819f-649dacf56c70.png,0,No Lung Opacity / Not Normal,PA,22.0,F,[],1024,1024,0.9964275
+44c38355-5ef3-4835-9a3d-bdd32ce7954c,images/44c38355-5ef3-4835-9a3d-bdd32ce7954c.png,0,No Lung Opacity / Not Normal,PA,77.0,M,[],1024,1024,0.9555535
+a34abb30-f9a7-4967-987f-d7a99e132d1a,images/a34abb30-f9a7-4967-987f-d7a99e132d1a.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.6786013
+5d76b90a-e59d-4031-a49a-fca0f14aef78,images/5d76b90a-e59d-4031-a49a-fca0f14aef78.png,1,Lung Opacity,PA,24.0,F,"[[671.0, 540.0, 168.0, 82.0]]",1024,1024,0.30546045
+6d13500d-05ee-4f4f-bc08-aeda019858fe,images/6d13500d-05ee-4f4f-bc08-aeda019858fe.png,1,Lung Opacity,PA,45.0,F,"[[219.0, 393.0, 149.0, 149.0], [311.0, 193.0, 100.0, 78.0], [680.0, 428.0, 138.0, 114.0]]",1024,1024,0.9999393
+da6c861a-4fbd-4c9c-873d-a29411dce36b,images/da6c861a-4fbd-4c9c-873d-a29411dce36b.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,0.9997571
+9943ede9-e63e-444e-9039-a563119f5359,images/9943ede9-e63e-444e-9039-a563119f5359.png,0,No Lung Opacity / Not Normal,PA,74.0,M,[],1024,1024,0.08689367
+3f1d7f08-05a4-4ce7-923e-7b1159c509d8,images/3f1d7f08-05a4-4ce7-923e-7b1159c509d8.png,1,Lung Opacity,PA,56.0,F,"[[187.0, 303.0, 207.0, 203.0], [623.0, 316.0, 95.0, 165.0]]",1024,1024,0.06881335
+81eb8d7c-9e42-4a4a-ba8b-9ff05164ba72,images/81eb8d7c-9e42-4a4a-ba8b-9ff05164ba72.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9999994
+f8868bd7-01d1-43b6-aa99-29a98665dedc,images/f8868bd7-01d1-43b6-aa99-29a98665dedc.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.8257709
+e0561453-95c2-4f18-907c-6604a98a2752,images/e0561453-95c2-4f18-907c-6604a98a2752.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.9666845
+f9ea85a3-2279-431c-bbbd-5151bce5d1c1,images/f9ea85a3-2279-431c-bbbd-5151bce5d1c1.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.9841308
+f707e47d-3fc7-4837-92e2-541bd4b6c655,images/f707e47d-3fc7-4837-92e2-541bd4b6c655.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.8188788
+0dd92ecf-3247-4a0c-a77e-21d20fddcc2a,images/0dd92ecf-3247-4a0c-a77e-21d20fddcc2a.png,0,Normal,PA,54.0,M,[],1024,1024,0.28104427
+cdd90da1-0fa8-4704-b75e-ab38320b14ed,images/cdd90da1-0fa8-4704-b75e-ab38320b14ed.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.9999988
+60987fd5-7434-4345-876e-365c8338ce75,images/60987fd5-7434-4345-876e-365c8338ce75.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,1.0
+82a2e069-1e54-45f5-9c96-49cd1d31f661,images/82a2e069-1e54-45f5-9c96-49cd1d31f661.png,0,Normal,PA,66.0,F,[],1024,1024,0.00010273585
+405dcab3-d806-46ff-83bf-62829ed2710f,images/405dcab3-d806-46ff-83bf-62829ed2710f.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.99949145
+4b18a44a-5d6b-4bf3-9a4b-c8f5211e4f07,images/4b18a44a-5d6b-4bf3-9a4b-c8f5211e4f07.png,0,No Lung Opacity / Not Normal,PA,25.0,M,[],1024,1024,0.8038001
+ecf5754d-1c05-4471-94b4-4dbb20f938bc,images/ecf5754d-1c05-4471-94b4-4dbb20f938bc.png,0,No Lung Opacity / Not Normal,PA,71.0,M,[],1024,1024,0.9829959
+c6d961b8-706e-4d1e-a82b-8cb156ee0938,images/c6d961b8-706e-4d1e-a82b-8cb156ee0938.png,0,Normal,PA,52.0,F,[],1024,1024,0.9999908
+33145a24-b38e-45ca-a78d-58508adb84fe,images/33145a24-b38e-45ca-a78d-58508adb84fe.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.9990476
+9a3512ea-820e-481e-b0fb-2b4a53dfb43b,images/9a3512ea-820e-481e-b0fb-2b4a53dfb43b.png,0,Normal,PA,29.0,M,[],1024,1024,0.059259273
+c7f7e305-0ea2-41e6-96d5-4e207066389e,images/c7f7e305-0ea2-41e6-96d5-4e207066389e.png,0,Normal,PA,3.0,F,[],1024,1024,0.9998766
+fe636998-9cd9-4b7c-af55-7368857485f0,images/fe636998-9cd9-4b7c-af55-7368857485f0.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.99854517
+425f3402-d4c7-451e-a68d-db11e70e2183,images/425f3402-d4c7-451e-a68d-db11e70e2183.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.9999865
+7e3562b1-6f8e-4182-94da-e8df9d6e9282,images/7e3562b1-6f8e-4182-94da-e8df9d6e9282.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.9999993
+eb168d38-e24e-46ab-a20c-0b929a612355,images/eb168d38-e24e-46ab-a20c-0b929a612355.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.03581072
+bec4c195-3308-4a5f-9a98-8abba25deda7,images/bec4c195-3308-4a5f-9a98-8abba25deda7.png,0,Normal,PA,55.0,F,[],1024,1024,0.97880083
+d955b013-2d49-4afd-8218-40f5e3af8312,images/d955b013-2d49-4afd-8218-40f5e3af8312.png,0,Normal,PA,19.0,M,[],1024,1024,0.039157227
+48b71876-62c7-44c0-91b1-0952bbca6291,images/48b71876-62c7-44c0-91b1-0952bbca6291.png,1,Lung Opacity,PA,68.0,F,"[[411.0, 366.0, 137.0, 121.0]]",1024,1024,0.87276274
+112bbb1f-9e2a-4421-b276-39868ef35904,images/112bbb1f-9e2a-4421-b276-39868ef35904.png,1,Lung Opacity,PA,70.0,M,"[[681.0, 670.0, 208.0, 98.0], [232.0, 659.0, 188.0, 124.0]]",1024,1024,0.094120584
+d451ba32-c341-4588-9b12-5afcdcf0eea1,images/d451ba32-c341-4588-9b12-5afcdcf0eea1.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,1.0
+78667635-bb1e-4e03-b3cd-d181422c558b,images/78667635-bb1e-4e03-b3cd-d181422c558b.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,1.0
+96ae3a17-271e-453e-a3a8-436ca485fb51,images/96ae3a17-271e-453e-a3a8-436ca485fb51.png,0,Normal,PA,65.0,F,[],1024,1024,0.82224464
+16775991-c274-45ad-8413-6c3382db4418,images/16775991-c274-45ad-8413-6c3382db4418.png,0,No Lung Opacity / Not Normal,PA,53.0,F,[],1024,1024,0.99883395
+c81b0940-6aa0-4f6c-abdb-3733ff3f606c,images/c81b0940-6aa0-4f6c-abdb-3733ff3f606c.png,0,No Lung Opacity / Not Normal,PA,22.0,M,[],1024,1024,0.9614723
+6de46d7a-2863-463d-a46a-fd85af10783b,images/6de46d7a-2863-463d-a46a-fd85af10783b.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.99835396
+8e44e59e-25d8-4fe2-ad22-914f715eeddc,images/8e44e59e-25d8-4fe2-ad22-914f715eeddc.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.9986375
+597b4e4c-88b0-407b-84c9-f752cd23d447,images/597b4e4c-88b0-407b-84c9-f752cd23d447.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.98138547
+56481000-ebf9-4006-9160-39a409d5a1ad,images/56481000-ebf9-4006-9160-39a409d5a1ad.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,1.0
+bad052e9-4ac1-4412-87cb-5cb92b55027b,images/bad052e9-4ac1-4412-87cb-5cb92b55027b.png,1,Lung Opacity,PA,46.0,F,"[[559.0, 411.0, 286.0, 194.0]]",1024,1024,0.97312105
+2877c9be-1665-4131-ac0f-7b145696ebc5,images/2877c9be-1665-4131-ac0f-7b145696ebc5.png,0,Normal,PA,50.0,F,[],1024,1024,0.35618111
+f10fb878-e7ca-46d6-a8f4-8347fa3682e7,images/f10fb878-e7ca-46d6-a8f4-8347fa3682e7.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.9994012
+a6af588f-2947-40c0-a084-54d7760199fa,images/a6af588f-2947-40c0-a084-54d7760199fa.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,1.0
+a8594b24-2a4b-4081-a679-d70c2607ca42,images/a8594b24-2a4b-4081-a679-d70c2607ca42.png,0,No Lung Opacity / Not Normal,PA,75.0,M,[],1024,1024,0.99999976
+dfe4d5f6-b365-4bff-a051-f272f810def2,images/dfe4d5f6-b365-4bff-a051-f272f810def2.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,1.0
+4882f71f-14c8-4165-a736-504b088bf0a5,images/4882f71f-14c8-4165-a736-504b088bf0a5.png,0,No Lung Opacity / Not Normal,PA,30.0,M,[],1024,1024,1.0
+62ead050-f18d-44da-b85e-7b37d59fd402,images/62ead050-f18d-44da-b85e-7b37d59fd402.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,1.0
+28bcb9b0-b5a9-4631-81d0-0b889807ab49,images/28bcb9b0-b5a9-4631-81d0-0b889807ab49.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.011816666
+bca8b087-edfe-4f63-aeea-992b5b9bc851,images/bca8b087-edfe-4f63-aeea-992b5b9bc851.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.98913586
+4743faf1-c26f-4b94-a796-c724ff2cdd17,images/4743faf1-c26f-4b94-a796-c724ff2cdd17.png,0,Normal,PA,25.0,M,[],1024,1024,0.55789304
+f91faf5e-488b-4a56-8175-85ab2b16b012,images/f91faf5e-488b-4a56-8175-85ab2b16b012.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,0.9999944
+fec211b1-ab13-4012-bc20-0f0f049d554a,images/fec211b1-ab13-4012-bc20-0f0f049d554a.png,0,No Lung Opacity / Not Normal,PA,22.0,F,[],1024,1024,0.37371823
+7e661b68-1762-41a8-93b1-349924935a36,images/7e661b68-1762-41a8-93b1-349924935a36.png,0,No Lung Opacity / Not Normal,PA,34.0,M,[],1024,1024,0.9762858
+8736a34d-c090-422e-bc99-6281271d6554,images/8736a34d-c090-422e-bc99-6281271d6554.png,1,Lung Opacity,PA,49.0,F,"[[594.0, 333.0, 259.0, 304.0], [209.0, 429.0, 300.0, 196.0]]",1024,1024,0.9999453
+f62c81d2-f85c-432f-861d-1911b66d9727,images/f62c81d2-f85c-432f-861d-1911b66d9727.png,0,No Lung Opacity / Not Normal,PA,30.0,M,[],1024,1024,1.0
+81689cf1-d16b-466a-b90c-e9a780dc1f1f,images/81689cf1-d16b-466a-b90c-e9a780dc1f1f.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,1.6555703e-05
+3a1c6cb8-cb42-44c7-8d5a-925f813427c7,images/3a1c6cb8-cb42-44c7-8d5a-925f813427c7.png,1,Lung Opacity,PA,55.0,M,"[[245.0, 560.0, 170.0, 177.0]]",1024,1024,1.0
+f47ca753-31a2-4db1-993a-8eaf62f109c4,images/f47ca753-31a2-4db1-993a-8eaf62f109c4.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.9972972
+b3cf158f-1275-4a42-9073-447d96c19a21,images/b3cf158f-1275-4a42-9073-447d96c19a21.png,1,Lung Opacity,PA,71.0,M,"[[168.0, 404.0, 218.0, 348.0]]",1024,1024,0.9999999
+c2b0bd87-1ca3-4b69-b651-07772efc1d90,images/c2b0bd87-1ca3-4b69-b651-07772efc1d90.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.065175176
+329c254a-e6bc-44cf-bc09-365d5d43f4df,images/329c254a-e6bc-44cf-bc09-365d5d43f4df.png,1,Lung Opacity,PA,62.0,M,"[[217.0, 517.0, 189.0, 159.0]]",1024,1024,0.97818726
+82d1c9a4-49f0-4e33-b359-06e9b4a38e11,images/82d1c9a4-49f0-4e33-b359-06e9b4a38e11.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.9886961
+6b5e9acb-ca13-4607-b482-92a40ef3a6db,images/6b5e9acb-ca13-4607-b482-92a40ef3a6db.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.99022114
+bc4fb949-f968-4360-a856-2b506e6bf2e3,images/bc4fb949-f968-4360-a856-2b506e6bf2e3.png,1,Lung Opacity,PA,13.0,M,"[[199.0, 592.0, 250.0, 116.0]]",1024,1024,0.954993
+766d3d32-c4a5-4318-a1a9-4db74ef0de80,images/766d3d32-c4a5-4318-a1a9-4db74ef0de80.png,0,Normal,PA,42.0,M,[],1024,1024,0.9971867
+5340047d-295c-4b89-aabf-03889f4acb42,images/5340047d-295c-4b89-aabf-03889f4acb42.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.358292
+4f561099-ebc5-4c7e-8e90-8a27785bd52c,images/4f561099-ebc5-4c7e-8e90-8a27785bd52c.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.9999945
+9ae26474-0da3-437d-a0dc-744b8c474bba,images/9ae26474-0da3-437d-a0dc-744b8c474bba.png,1,Lung Opacity,PA,53.0,M,"[[535.0, 425.0, 297.0, 275.0]]",1024,1024,0.98689926
+f1e281c6-abc1-40cb-b4ca-64d61ccfa3f6,images/f1e281c6-abc1-40cb-b4ca-64d61ccfa3f6.png,0,No Lung Opacity / Not Normal,PA,25.0,M,[],1024,1024,0.99999976
+984cd375-7583-4995-86df-589b28fd51be,images/984cd375-7583-4995-86df-589b28fd51be.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.9999999
+f07a5a20-cc7e-426a-a56b-e7efd91419c3,images/f07a5a20-cc7e-426a-a56b-e7efd91419c3.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.9980387
+833439b8-aabd-47d9-a485-dfdc861c0d11,images/833439b8-aabd-47d9-a485-dfdc861c0d11.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.99997413
+2bc72e37-294d-4d3a-b018-298c35c11f29,images/2bc72e37-294d-4d3a-b018-298c35c11f29.png,0,No Lung Opacity / Not Normal,PA,48.0,F,[],1024,1024,0.26573172
+b3207c07-7b40-4208-92e3-156de1fcbbdf,images/b3207c07-7b40-4208-92e3-156de1fcbbdf.png,0,No Lung Opacity / Not Normal,PA,72.0,M,[],1024,1024,0.9999924
+a084828d-3381-4b68-b09f-dda2b2753455,images/a084828d-3381-4b68-b09f-dda2b2753455.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.4154795
+e794dbb2-5075-4cd3-98f1-e9876e4f7a04,images/e794dbb2-5075-4cd3-98f1-e9876e4f7a04.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.8437735
+99f1c96c-3b5f-4767-a618-38e88989a5ef,images/99f1c96c-3b5f-4767-a618-38e88989a5ef.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.9999987
+6f8f2795-cae9-4c41-9130-cd23fd840e7f,images/6f8f2795-cae9-4c41-9130-cd23fd840e7f.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,1.0
+f3700f5c-2540-4b61-aa4c-1ea915725b37,images/f3700f5c-2540-4b61-aa4c-1ea915725b37.png,0,Normal,PA,69.0,M,[],1024,1024,0.9985696
+8dc879c5-3ddf-48e9-a27c-6719a032c627,images/8dc879c5-3ddf-48e9-a27c-6719a032c627.png,0,No Lung Opacity / Not Normal,PA,72.0,M,[],1024,1024,0.99818546
+f78069b2-dc85-42f7-b210-9ca0f6630f94,images/f78069b2-dc85-42f7-b210-9ca0f6630f94.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.9999479
+79d35ee0-5b92-43ce-ab21-69f8addd7cb1,images/79d35ee0-5b92-43ce-ab21-69f8addd7cb1.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.60685974
+5cc3f4b6-2185-4016-98c8-704f65c568bf,images/5cc3f4b6-2185-4016-98c8-704f65c568bf.png,0,Normal,PA,52.0,M,[],1024,1024,0.88048893
+1be3fba5-6b8b-47b4-aa7b-9d0d08d42f1f,images/1be3fba5-6b8b-47b4-aa7b-9d0d08d42f1f.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9999963
+31a7fd05-b49d-4220-9268-33a61f4663a3,images/31a7fd05-b49d-4220-9268-33a61f4663a3.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.98480123
+878227c2-2982-4efc-a5c4-80fd2995d17a,images/878227c2-2982-4efc-a5c4-80fd2995d17a.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.00062058173
+40b2c95d-4ee7-4b81-abc9-2c5f97e5442c,images/40b2c95d-4ee7-4b81-abc9-2c5f97e5442c.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.9999629
+ac36c55b-581a-4af8-bbf6-2334f565ce06,images/ac36c55b-581a-4af8-bbf6-2334f565ce06.png,0,Normal,PA,61.0,F,[],1024,1024,0.0002737979
+e4aa4784-5c72-46be-bede-aaa85f35adaa,images/e4aa4784-5c72-46be-bede-aaa85f35adaa.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.00094458845
+cbc1bba2-a09e-49eb-a8e5-169ebfca2317,images/cbc1bba2-a09e-49eb-a8e5-169ebfca2317.png,0,Normal,PA,37.0,M,[],1024,1024,0.972408
+4cbec4c1-fa1f-4b6e-88b9-13cc9d92b6c4,images/4cbec4c1-fa1f-4b6e-88b9-13cc9d92b6c4.png,0,No Lung Opacity / Not Normal,PA,48.0,M,[],1024,1024,0.51647496
+edeb2201-6de9-4604-90ac-d028bf151084,images/edeb2201-6de9-4604-90ac-d028bf151084.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.91983104
+bfe41d70-219e-478e-85ba-9c8226b572f4,images/bfe41d70-219e-478e-85ba-9c8226b572f4.png,1,Lung Opacity,PA,34.0,M,"[[187.0, 356.0, 251.0, 343.0], [599.0, 372.0, 172.0, 309.0]]",1024,1024,1.0
+9376802f-f3d1-441a-b4de-6a68eded580a,images/9376802f-f3d1-441a-b4de-6a68eded580a.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.999987
+72dd6992-f8a2-48a3-af61-2cf71e4a0c47,images/72dd6992-f8a2-48a3-af61-2cf71e4a0c47.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.0064965556
+3e3babaa-b242-4dac-a549-9c87dec28ead,images/3e3babaa-b242-4dac-a549-9c87dec28ead.png,1,Lung Opacity,PA,55.0,F,"[[298.0, 366.0, 222.0, 161.0]]",1024,1024,0.99998915
+a09657a3-bfe4-43f9-823e-52f00d1f8769,images/a09657a3-bfe4-43f9-823e-52f00d1f8769.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.0002367989
+9f0cf002-f237-4706-bbf5-a4f337e5f3f5,images/9f0cf002-f237-4706-bbf5-a4f337e5f3f5.png,0,Normal,PA,50.0,F,[],1024,1024,0.10852494
+dec82d02-d4f0-4b57-9634-42795ad9fff0,images/dec82d02-d4f0-4b57-9634-42795ad9fff0.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.99999833
+7c7efe9b-37a6-4272-b49d-0886ccda52ef,images/7c7efe9b-37a6-4272-b49d-0886ccda52ef.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.896828
+fa4a5234-c908-42fc-8b29-ea34b6bc7a31,images/fa4a5234-c908-42fc-8b29-ea34b6bc7a31.png,0,No Lung Opacity / Not Normal,PA,78.0,F,[],1024,1024,0.9639355
+bcb1273c-d917-4a7b-b882-928223847250,images/bcb1273c-d917-4a7b-b882-928223847250.png,0,No Lung Opacity / Not Normal,PA,21.0,F,[],1024,1024,0.31121084
+233fa720-d58a-4db3-beac-e99002f7080e,images/233fa720-d58a-4db3-beac-e99002f7080e.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.9976432
+45058a01-5993-477d-abeb-6d12587d1360,images/45058a01-5993-477d-abeb-6d12587d1360.png,0,No Lung Opacity / Not Normal,PA,37.0,M,[],1024,1024,0.007017435
+7fc0a6af-82e2-4f70-9cd9-8e4047794c59,images/7fc0a6af-82e2-4f70-9cd9-8e4047794c59.png,0,Normal,PA,23.0,M,[],1024,1024,0.00039937106
+cbf6a640-0b18-4b92-b363-7abb14588164,images/cbf6a640-0b18-4b92-b363-7abb14588164.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,9.3176044e-05
+9f00ee9d-2d51-4ff2-845c-583904f36fd1,images/9f00ee9d-2d51-4ff2-845c-583904f36fd1.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,1.0
+658f8602-ffec-40d2-96dd-70ced6c85b2e,images/658f8602-ffec-40d2-96dd-70ced6c85b2e.png,0,No Lung Opacity / Not Normal,PA,27.0,F,[],1024,1024,0.9604843
+97138ac3-1b5b-4b62-8d13-c8b733c74095,images/97138ac3-1b5b-4b62-8d13-c8b733c74095.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9995654
+c3e2a1e6-f5b2-4bf5-956f-b37dd052c1d4,images/c3e2a1e6-f5b2-4bf5-956f-b37dd052c1d4.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.79646647
+c23dc547-3570-4f78-a1d9-deb885ad9583,images/c23dc547-3570-4f78-a1d9-deb885ad9583.png,0,Normal,PA,31.0,M,[],1024,1024,0.9999367
+5e79685b-7bcc-49d2-986c-e3d07a319a3a,images/5e79685b-7bcc-49d2-986c-e3d07a319a3a.png,1,Lung Opacity,PA,48.0,F,"[[194.0, 474.0, 203.0, 152.0]]",1024,1024,0.99999344
+3e442e69-887d-42d4-b78e-099437e65365,images/3e442e69-887d-42d4-b78e-099437e65365.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.9997826
+32eb1efb-96c1-41a9-b6a1-498ee55a371b,images/32eb1efb-96c1-41a9-b6a1-498ee55a371b.png,0,No Lung Opacity / Not Normal,PA,27.0,M,[],1024,1024,0.9999857
+a6f211a6-43f4-4f15-aa2a-cf72fb29bd3b,images/a6f211a6-43f4-4f15-aa2a-cf72fb29bd3b.png,1,Lung Opacity,PA,34.0,M,"[[186.0, 178.0, 252.0, 282.0]]",1024,1024,0.9120677
+50845a20-98db-47d2-8254-5e3e07acb6a0,images/50845a20-98db-47d2-8254-5e3e07acb6a0.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.36530468
+e57b484a-0757-465f-a136-736200c1a2d8,images/e57b484a-0757-465f-a136-736200c1a2d8.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99849606
+c96b3f7d-9a75-4248-a00b-a66b060349ed,images/c96b3f7d-9a75-4248-a00b-a66b060349ed.png,0,No Lung Opacity / Not Normal,PA,42.0,M,[],1024,1024,0.9997551
+6bbe814d-e291-4e8c-b6d2-83475f61bd3d,images/6bbe814d-e291-4e8c-b6d2-83475f61bd3d.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.010133339
+0ba96c88-a3ed-4f28-9981-36c340f4996b,images/0ba96c88-a3ed-4f28-9981-36c340f4996b.png,0,No Lung Opacity / Not Normal,PA,39.0,M,[],1024,1024,0.3250792
+77db5083-8f5d-40d3-af29-722ddadc0638,images/77db5083-8f5d-40d3-af29-722ddadc0638.png,0,No Lung Opacity / Not Normal,PA,39.0,M,[],1024,1024,0.9999101
+98d730a6-d474-4fe3-893f-c6cdf8f6ad90,images/98d730a6-d474-4fe3-893f-c6cdf8f6ad90.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.0011617292
+a782d9c2-e190-4e03-9310-5750dba6ff81,images/a782d9c2-e190-4e03-9310-5750dba6ff81.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.24483244
+887be5e0-0e44-453b-a76b-88d06df5e3a0,images/887be5e0-0e44-453b-a76b-88d06df5e3a0.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99521035
+b4e32a32-9c48-4edd-86a7-ee03a1995c9b,images/b4e32a32-9c48-4edd-86a7-ee03a1995c9b.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.9995646
+f51d825e-be93-4428-bcd6-3feedc5ffe61,images/f51d825e-be93-4428-bcd6-3feedc5ffe61.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,1.0
+d1a8412a-1f42-42dc-84ca-4faa5c570620,images/d1a8412a-1f42-42dc-84ca-4faa5c570620.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.92197025
+94508cdd-9336-4c52-a10e-a82a3085b9e4,images/94508cdd-9336-4c52-a10e-a82a3085b9e4.png,0,Normal,PA,54.0,M,[],1024,1024,0.9978397
+474c28ea-3798-48df-b93c-c90472423623,images/474c28ea-3798-48df-b93c-c90472423623.png,1,Lung Opacity,PA,73.0,M,"[[574.0, 568.0, 232.0, 259.0]]",1024,1024,0.9979462
+3838db1d-2236-4c84-b6bc-2c81606dd34d,images/3838db1d-2236-4c84-b6bc-2c81606dd34d.png,1,Lung Opacity,PA,68.0,F,"[[262.0, 354.0, 188.0, 301.0], [629.0, 316.0, 239.0, 338.0]]",1024,1024,1.0
+e4893d4a-f3d7-4d25-b733-da36f13f9981,images/e4893d4a-f3d7-4d25-b733-da36f13f9981.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.9992792
+8f460d7d-164d-4f3e-b3eb-1c9f0c43b49e,images/8f460d7d-164d-4f3e-b3eb-1c9f0c43b49e.png,1,Lung Opacity,PA,63.0,F,"[[645.0, 360.0, 188.0, 129.0], [185.0, 406.0, 230.0, 166.0]]",1024,1024,0.9585928
+58c4329e-c507-43a9-beed-26c49b1c9da9,images/58c4329e-c507-43a9-beed-26c49b1c9da9.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.10050866
+f7742dff-46c8-4431-b6b2-d7cc9033f071,images/f7742dff-46c8-4431-b6b2-d7cc9033f071.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,1.0
+c3ce9cfc-2c8c-4a24-a966-1f79ad820fe0,images/c3ce9cfc-2c8c-4a24-a966-1f79ad820fe0.png,0,Normal,PA,54.0,F,[],1024,1024,0.99335396
+617d8a06-9de7-4b9e-b7c8-a9c234a44602,images/617d8a06-9de7-4b9e-b7c8-a9c234a44602.png,1,Lung Opacity,PA,52.0,M,"[[634.0, 483.0, 201.0, 147.0]]",1024,1024,0.99983776
+d8199d6b-6115-4d38-be03-2ed16e5a52c3,images/d8199d6b-6115-4d38-be03-2ed16e5a52c3.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9634759
+69571ac9-2ac8-4256-9584-cdc1848870bc,images/69571ac9-2ac8-4256-9584-cdc1848870bc.png,0,No Lung Opacity / Not Normal,PA,68.0,M,[],1024,1024,0.99880135
+55d4013d-62ec-43f1-a1dd-f8aaafe63efb,images/55d4013d-62ec-43f1-a1dd-f8aaafe63efb.png,0,No Lung Opacity / Not Normal,PA,15.0,F,[],1024,1024,0.018257063
+1651bc42-0024-445d-862a-55a35c04b954,images/1651bc42-0024-445d-862a-55a35c04b954.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.9998666
+3accffe1-5980-4990-9d08-93a5a696a0cd,images/3accffe1-5980-4990-9d08-93a5a696a0cd.png,0,No Lung Opacity / Not Normal,PA,30.0,F,[],1024,1024,0.668851
+b26151b2-5f68-4af1-9730-4d608dfde81a,images/b26151b2-5f68-4af1-9730-4d608dfde81a.png,1,Lung Opacity,PA,47.0,F,"[[388.0, 402.0, 123.0, 129.0], [667.0, 336.0, 184.0, 196.0]]",1024,1024,0.9805135
+c4a9e5af-2b13-4dd5-b5e7-094c2ce33c34,images/c4a9e5af-2b13-4dd5-b5e7-094c2ce33c34.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.20772445
+88d49b03-ce28-4de5-beb6-373ca79e78d7,images/88d49b03-ce28-4de5-beb6-373ca79e78d7.png,0,No Lung Opacity / Not Normal,PA,25.0,F,[],1024,1024,1.0
+64618072-4f84-44db-8582-145fbc9bc868,images/64618072-4f84-44db-8582-145fbc9bc868.png,0,Normal,PA,38.0,F,[],1024,1024,0.042890653
+970bd81b-72e1-460a-acf5-f82ebb0127b0,images/970bd81b-72e1-460a-acf5-f82ebb0127b0.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.9998481
+c7e8542c-f8ca-475d-80d2-73882238e8a9,images/c7e8542c-f8ca-475d-80d2-73882238e8a9.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.99996245
+cd700048-37aa-49c2-938e-3583660046b2,images/cd700048-37aa-49c2-938e-3583660046b2.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.99992645
+608d7f22-b74c-4762-ab79-56dc49676f19,images/608d7f22-b74c-4762-ab79-56dc49676f19.png,0,Normal,PA,49.0,M,[],1024,1024,0.9997594
+e13ae969-5bec-4c52-af98-bf00ccba723f,images/e13ae969-5bec-4c52-af98-bf00ccba723f.png,0,No Lung Opacity / Not Normal,PA,43.0,M,[],1024,1024,0.28978008
+e92fea77-9c3c-4837-a3b8-b652b6780b4c,images/e92fea77-9c3c-4837-a3b8-b652b6780b4c.png,0,Normal,PA,75.0,F,[],1024,1024,0.0017148546
+eeb6bd41-6626-4565-889e-0b73d115a6b4,images/eeb6bd41-6626-4565-889e-0b73d115a6b4.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.9986828
+4205aee6-4453-4f1c-8c90-6e5049a9e085,images/4205aee6-4453-4f1c-8c90-6e5049a9e085.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.99414057
+d1c9fdef-cc83-40d0-9ae3-b5b072ff8012,images/d1c9fdef-cc83-40d0-9ae3-b5b072ff8012.png,0,No Lung Opacity / Not Normal,PA,26.0,F,[],1024,1024,0.8060852
+9ceaf2ea-05c0-4531-9e21-df1e40524f45,images/9ceaf2ea-05c0-4531-9e21-df1e40524f45.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.001069435
+93d68340-b862-4e91-9c6c-46f2b0cba3fd,images/93d68340-b862-4e91-9c6c-46f2b0cba3fd.png,0,No Lung Opacity / Not Normal,PA,36.0,M,[],1024,1024,0.99434954
+cefeee67-f8a1-4615-bb27-c55d137c6eb5,images/cefeee67-f8a1-4615-bb27-c55d137c6eb5.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.8733196
+36cdebad-ee74-4e4b-809a-d4e89220ab7c,images/36cdebad-ee74-4e4b-809a-d4e89220ab7c.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.7614016
+a8596b1d-1129-46cd-b534-c9c0be81fba5,images/a8596b1d-1129-46cd-b534-c9c0be81fba5.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99999964
+39ec7b31-4066-4173-bc5e-2f733c95d94a,images/39ec7b31-4066-4173-bc5e-2f733c95d94a.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.9333943
+6a4d75d0-51ae-4952-ad56-132474a2cf7b,images/6a4d75d0-51ae-4952-ad56-132474a2cf7b.png,1,Lung Opacity,PA,43.0,M,"[[659.0, 561.0, 198.0, 211.0]]",1024,1024,0.0025499577
+a6a420f8-b676-49e1-9273-fd1b9f9fdfc9,images/a6a420f8-b676-49e1-9273-fd1b9f9fdfc9.png,1,Lung Opacity,PA,70.0,M,"[[148.0, 232.0, 309.0, 561.0]]",1024,1024,0.9999974
+66745e3d-c11c-487e-ba87-c27d19929462,images/66745e3d-c11c-487e-ba87-c27d19929462.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.22484782
+65c77a9f-d874-47b4-83c8-3468e5100908,images/65c77a9f-d874-47b4-83c8-3468e5100908.png,1,Lung Opacity,PA,47.0,F,"[[664.0, 387.0, 178.0, 210.0], [254.0, 352.0, 165.0, 168.0]]",1024,1024,0.8665129
+edf9ef50-a66f-47b4-b05c-4e322000a587,images/edf9ef50-a66f-47b4-b05c-4e322000a587.png,0,No Lung Opacity / Not Normal,PA,37.0,F,[],1024,1024,0.028209409
+41c5ca32-16da-4e95-8e33-7d9c74310169,images/41c5ca32-16da-4e95-8e33-7d9c74310169.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.9981793
+f468acf0-c324-44c8-b60f-65bb2ca843c5,images/f468acf0-c324-44c8-b60f-65bb2ca843c5.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.9531503
+1992fa74-49e1-4bde-bbf0-2799bfc2b7a4,images/1992fa74-49e1-4bde-bbf0-2799bfc2b7a4.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.98756033
+79e1733a-4ee9-493b-ab73-142e47f1e9ff,images/79e1733a-4ee9-493b-ab73-142e47f1e9ff.png,0,Normal,PA,57.0,M,[],1024,1024,0.99997723
+e7b1796f-0249-45c6-9477-69f49863d509,images/e7b1796f-0249-45c6-9477-69f49863d509.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.97542465
+89b98f9a-d4e7-4234-a047-2e3874155181,images/89b98f9a-d4e7-4234-a047-2e3874155181.png,1,Lung Opacity,PA,63.0,F,"[[660.0, 397.0, 177.0, 372.0], [220.0, 127.0, 220.0, 622.0]]",1024,1024,0.23175967
+79956cb1-e48b-4b95-92f0-c4f41a6bd1f5,images/79956cb1-e48b-4b95-92f0-c4f41a6bd1f5.png,1,Lung Opacity,PA,20.0,M,"[[760.0, 541.0, 160.0, 137.0]]",1024,1024,0.899936
+b6881b42-dbed-4d4b-b631-29def07e2989,images/b6881b42-dbed-4d4b-b631-29def07e2989.png,0,No Lung Opacity / Not Normal,PA,80.0,F,[],1024,1024,0.00011513531
+0a51f668-b7b1-4d8d-9ab9-de1f702f071a,images/0a51f668-b7b1-4d8d-9ab9-de1f702f071a.png,1,Lung Opacity,PA,59.0,M,"[[168.0, 402.0, 295.0, 525.0]]",1024,1024,0.9987662
+c8138fcd-28e9-4a7d-a637-05d56816c864,images/c8138fcd-28e9-4a7d-a637-05d56816c864.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.41749802
+70559288-6edd-4228-85b6-c53776a754ed,images/70559288-6edd-4228-85b6-c53776a754ed.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.9853278
+ecc03b7c-762a-4a5e-abe6-61618d6a0df9,images/ecc03b7c-762a-4a5e-abe6-61618d6a0df9.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.86778635
+a6b1db87-8a39-4dfd-950d-59d9c172dd00,images/a6b1db87-8a39-4dfd-950d-59d9c172dd00.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.3871397
+980d9ab8-93be-44ef-9445-232a839c68db,images/980d9ab8-93be-44ef-9445-232a839c68db.png,0,No Lung Opacity / Not Normal,PA,20.0,M,[],1024,1024,0.99839896
+f25e47fc-ad80-44a0-acb8-bdf668d70a66,images/f25e47fc-ad80-44a0-acb8-bdf668d70a66.png,0,No Lung Opacity / Not Normal,PA,24.0,F,[],1024,1024,0.99939823
+916c275a-d511-4889-9f82-ab4d1fdfbc2f,images/916c275a-d511-4889-9f82-ab4d1fdfbc2f.png,0,No Lung Opacity / Not Normal,PA,22.0,M,[],1024,1024,0.16258834
+8e4596ff-96ee-4b79-97ba-408bef487511,images/8e4596ff-96ee-4b79-97ba-408bef487511.png,0,Normal,PA,29.0,M,[],1024,1024,0.19351928
+702c610f-8655-4062-a914-5b82fcb71be2,images/702c610f-8655-4062-a914-5b82fcb71be2.png,0,No Lung Opacity / Not Normal,PA,83.0,F,[],1024,1024,0.43484527
+c8d4fc8d-fbfc-4e10-aaea-d3078ed1c6f1,images/c8d4fc8d-fbfc-4e10-aaea-d3078ed1c6f1.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.87534016
+339728a0-cc96-409e-af99-8af5c6ce5f23,images/339728a0-cc96-409e-af99-8af5c6ce5f23.png,1,Lung Opacity,PA,57.0,F,"[[595.0, 178.0, 252.0, 299.0], [288.0, 191.0, 203.0, 478.0]]",1024,1024,0.9999999
+61dac1c8-1508-4375-881e-8d3e51272fbf,images/61dac1c8-1508-4375-881e-8d3e51272fbf.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.99629706
+fd69f599-13ac-47fb-bd61-7cc8514792b9,images/fd69f599-13ac-47fb-bd61-7cc8514792b9.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.9809014
+f3142a9f-b625-41d9-a7b7-9a4aba0c2abb,images/f3142a9f-b625-41d9-a7b7-9a4aba0c2abb.png,1,Lung Opacity,PA,25.0,M,"[[136.0, 659.0, 181.0, 129.0], [685.0, 415.0, 194.0, 330.0]]",1024,1024,0.1876096
+f5b67371-5425-4409-9065-3ab3f48afbfb,images/f5b67371-5425-4409-9065-3ab3f48afbfb.png,0,No Lung Opacity / Not Normal,PA,31.0,F,[],1024,1024,0.21898521
+499b0c85-952d-42e5-86b7-8f2345098f2c,images/499b0c85-952d-42e5-86b7-8f2345098f2c.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.96786577
+6cb2fc15-f04c-4fcd-be3d-a964d1467401,images/6cb2fc15-f04c-4fcd-be3d-a964d1467401.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.16303876
+e8868de1-645d-410f-b40b-d226849fde91,images/e8868de1-645d-410f-b40b-d226849fde91.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,3.3725068e-05
+d78166b3-fbdf-4d19-bc24-d805269418f8,images/d78166b3-fbdf-4d19-bc24-d805269418f8.png,1,Lung Opacity,PA,46.0,F,"[[406.0, 273.0, 58.0, 203.0]]",1024,1024,0.9981159
+606aba72-d0db-42d5-97e8-c40d88673dcf,images/606aba72-d0db-42d5-97e8-c40d88673dcf.png,0,Normal,PA,26.0,M,[],1024,1024,0.9999521
+f3eaeb73-c20e-4903-a40a-878664fd3ef2,images/f3eaeb73-c20e-4903-a40a-878664fd3ef2.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99897647
+49f0fa25-89cd-41a7-9c70-4d7d8d9be572,images/49f0fa25-89cd-41a7-9c70-4d7d8d9be572.png,1,Lung Opacity,PA,76.0,M,"[[175.0, 319.0, 235.0, 349.0]]",1024,1024,0.8918204
+eba4d827-0287-4f03-a387-685b7478a38c,images/eba4d827-0287-4f03-a387-685b7478a38c.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.99999976
+8fd19393-b0d1-45eb-aba4-11519def129a,images/8fd19393-b0d1-45eb-aba4-11519def129a.png,0,No Lung Opacity / Not Normal,PA,53.0,F,[],1024,1024,0.99999344
+6c916756-059c-4001-bb3a-8c1ac7c9a062,images/6c916756-059c-4001-bb3a-8c1ac7c9a062.png,0,Normal,PA,42.0,F,[],1024,1024,0.99999726
+0b1d5b23-c3ab-41b5-b82d-a16a3d6b5674,images/0b1d5b23-c3ab-41b5-b82d-a16a3d6b5674.png,1,Lung Opacity,PA,50.0,M,"[[607.0, 131.0, 187.0, 297.0]]",1024,1024,0.72083676
+e432b7bd-aab3-48f1-b186-b859cd01c60b,images/e432b7bd-aab3-48f1-b186-b859cd01c60b.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.52633804
+075d258f-013e-488f-9bd5-ab473413a1b4,images/075d258f-013e-488f-9bd5-ab473413a1b4.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.3691597
+7445103d-6e22-41cc-a79c-a6d0f72c6580,images/7445103d-6e22-41cc-a79c-a6d0f72c6580.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.284787
+de7f8bd9-2892-4bd0-bc3c-dc0bf24370b6,images/de7f8bd9-2892-4bd0-bc3c-dc0bf24370b6.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.114650115
+6ed56555-277d-42bc-9e16-c43b679b62d2,images/6ed56555-277d-42bc-9e16-c43b679b62d2.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.99997544
+5d82d720-46e5-48d8-a672-bd9079321e65,images/5d82d720-46e5-48d8-a672-bd9079321e65.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.999178
+431af61b-bbf6-4c35-842c-4a0679a7738b,images/431af61b-bbf6-4c35-842c-4a0679a7738b.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,1.0
+a1232a0d-19ec-41a6-9f93-c64bb3c44340,images/a1232a0d-19ec-41a6-9f93-c64bb3c44340.png,0,Normal,PA,56.0,M,[],1024,1024,0.9942525
+c3678e72-ceb4-42d0-8e44-5a4de7ebfccb,images/c3678e72-ceb4-42d0-8e44-5a4de7ebfccb.png,1,Lung Opacity,PA,54.0,F,"[[198.0, 192.0, 236.0, 539.0], [565.0, 227.0, 237.0, 403.0]]",1024,1024,0.9999678
+888ae986-40d1-4796-ae6c-fd57260b62bb,images/888ae986-40d1-4796-ae6c-fd57260b62bb.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.98433834
+01e4fd43-4f2c-421f-bd68-c756dceb5742,images/01e4fd43-4f2c-421f-bd68-c756dceb5742.png,0,Normal,PA,62.0,M,[],1024,1024,0.17875457
+eb4341b8-e51f-439c-a766-d77132bbf8fd,images/eb4341b8-e51f-439c-a766-d77132bbf8fd.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.45581624
+9d49e8a3-a382-4765-a6e7-1c865d8b7712,images/9d49e8a3-a382-4765-a6e7-1c865d8b7712.png,1,Lung Opacity,PA,59.0,M,"[[147.0, 303.0, 257.0, 350.0]]",1024,1024,0.9867806
+b6b3de30-3eb7-4c8e-8f61-bdbece52268e,images/b6b3de30-3eb7-4c8e-8f61-bdbece52268e.png,0,Normal,PA,56.0,M,[],1024,1024,0.681346
+3ea0b8a7-708c-4e1d-9a3e-fbac3f326b0d,images/3ea0b8a7-708c-4e1d-9a3e-fbac3f326b0d.png,0,No Lung Opacity / Not Normal,PA,45.0,M,[],1024,1024,0.99999154
+38d7ed91-6f9d-46ba-85b3-fc32a93621a8,images/38d7ed91-6f9d-46ba-85b3-fc32a93621a8.png,0,No Lung Opacity / Not Normal,PA,53.0,F,[],1024,1024,0.9901844
+4cd08263-ec22-4694-b9b0-a5c43c1813de,images/4cd08263-ec22-4694-b9b0-a5c43c1813de.png,0,Normal,PA,33.0,M,[],1024,1024,0.0010758989
+131cd368-4db7-4883-9408-47da2b59650a,images/131cd368-4db7-4883-9408-47da2b59650a.png,1,Lung Opacity,PA,53.0,F,"[[666.0, 549.0, 324.0, 231.0]]",1024,1024,1.0
+c957ab29-0e45-4146-af5a-f40d14155d80,images/c957ab29-0e45-4146-af5a-f40d14155d80.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.79197335
+5209ee0e-95e0-4e24-89b6-d414138d402b,images/5209ee0e-95e0-4e24-89b6-d414138d402b.png,0,No Lung Opacity / Not Normal,PA,68.0,M,[],1024,1024,0.865255
+05dc3a75-2069-4f66-b5b0-ce7fd9efe60f,images/05dc3a75-2069-4f66-b5b0-ce7fd9efe60f.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.9999471
+327a4509-9929-41b6-9e3d-d2bd90117d90,images/327a4509-9929-41b6-9e3d-d2bd90117d90.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.9999032
+dfdf1e98-ef9c-4534-8f25-c8a2e1ecfa89,images/dfdf1e98-ef9c-4534-8f25-c8a2e1ecfa89.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.9977496
+8ea0b3be-7700-4696-9f85-bb5ec573586f,images/8ea0b3be-7700-4696-9f85-bb5ec573586f.png,0,Normal,PA,25.0,F,[],1024,1024,0.9999536
+71d63444-7863-449b-a3f6-d599b6d00e49,images/71d63444-7863-449b-a3f6-d599b6d00e49.png,0,No Lung Opacity / Not Normal,PA,42.0,M,[],1024,1024,0.9980427
+a90dd8e9-ccb5-4cd8-8408-92fe28c668b8,images/a90dd8e9-ccb5-4cd8-8408-92fe28c668b8.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.9999409
+e2e8e3bc-7902-49d3-aa96-e83237466ef5,images/e2e8e3bc-7902-49d3-aa96-e83237466ef5.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.99995387
+719683e3-b737-483e-a2e6-833083280187,images/719683e3-b737-483e-a2e6-833083280187.png,0,Normal,PA,35.0,F,[],1024,1024,0.022854397
+84d7f055-3374-4d68-9390-cf3b1418355c,images/84d7f055-3374-4d68-9390-cf3b1418355c.png,0,No Lung Opacity / Not Normal,PA,37.0,F,[],1024,1024,1.0
+58e7a5ed-7a8c-4071-9518-fd0a6eda58de,images/58e7a5ed-7a8c-4071-9518-fd0a6eda58de.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99596846
+f2955702-cc5d-480e-91a5-9466f6e0e548,images/f2955702-cc5d-480e-91a5-9466f6e0e548.png,0,No Lung Opacity / Not Normal,PA,48.0,M,[],1024,1024,0.9495595
+3691108a-42af-48ff-ba9f-6e11c63f000b,images/3691108a-42af-48ff-ba9f-6e11c63f000b.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.00020970425
+ab363453-4d09-468b-ac26-99428833fae8,images/ab363453-4d09-468b-ac26-99428833fae8.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.27500996
+cca50e52-2b44-40ba-84e7-430aa3ff3f98,images/cca50e52-2b44-40ba-84e7-430aa3ff3f98.png,0,No Lung Opacity / Not Normal,PA,30.0,M,[],1024,1024,0.99639076
+dddc967d-86ef-4300-a744-3d119d33af3d,images/dddc967d-86ef-4300-a744-3d119d33af3d.png,0,Normal,PA,54.0,F,[],1024,1024,0.07423874
+48030d29-2d30-47a4-b978-7f231637b436,images/48030d29-2d30-47a4-b978-7f231637b436.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.0011883378
+b175c786-48af-49ee-816f-8e01d18885a8,images/b175c786-48af-49ee-816f-8e01d18885a8.png,0,No Lung Opacity / Not Normal,PA,32.0,M,[],1024,1024,0.0021960658
+ccc8ceb3-ff0e-47ef-a114-4643c94cf93d,images/ccc8ceb3-ff0e-47ef-a114-4643c94cf93d.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.9668872
+ce1c3760-65f9-41f2-b0b5-b0db7ec8f992,images/ce1c3760-65f9-41f2-b0b5-b0db7ec8f992.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.99999964
+db9d9677-d418-4ffb-8198-43e36c50c7a2,images/db9d9677-d418-4ffb-8198-43e36c50c7a2.png,0,Normal,PA,48.0,F,[],1024,1024,0.9208356
+b29d8671-94c2-4c12-b609-74f52d95f5e6,images/b29d8671-94c2-4c12-b609-74f52d95f5e6.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.9414474
+0cbe5298-68a4-4de0-a693-46eb8e8858ca,images/0cbe5298-68a4-4de0-a693-46eb8e8858ca.png,1,Lung Opacity,PA,44.0,M,"[[69.0, 480.0, 328.0, 377.0]]",1024,1024,0.9999709
+0db8b03b-efb4-4a92-9c82-39a5bfecb689,images/0db8b03b-efb4-4a92-9c82-39a5bfecb689.png,1,Lung Opacity,PA,26.0,M,"[[648.0, 481.0, 174.0, 181.0]]",1024,1024,0.99985075
+4a2bcce2-c9f0-4990-95b3-58ad1aa0269b,images/4a2bcce2-c9f0-4990-95b3-58ad1aa0269b.png,0,No Lung Opacity / Not Normal,PA,74.0,M,[],1024,1024,0.94292355
+c61ca06e-6de9-42b2-bde3-ed71d3632fef,images/c61ca06e-6de9-42b2-bde3-ed71d3632fef.png,0,Normal,PA,41.0,M,[],1024,1024,0.9135786
+c77b9870-e695-4f5f-b410-577f073279ef,images/c77b9870-e695-4f5f-b410-577f073279ef.png,0,No Lung Opacity / Not Normal,PA,71.0,F,[],1024,1024,0.00035693627
+a0c4fc4a-52c9-49df-8564-5d23e9d0ebc0,images/a0c4fc4a-52c9-49df-8564-5d23e9d0ebc0.png,1,Lung Opacity,PA,60.0,M,"[[617.0, 500.0, 252.0, 345.0]]",1024,1024,0.14341527
+4fbbc333-2706-48f9-9d57-137b372a5a5c,images/4fbbc333-2706-48f9-9d57-137b372a5a5c.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.95429415
+4e5f97d6-aa4b-4d13-a62c-3b934a380f04,images/4e5f97d6-aa4b-4d13-a62c-3b934a380f04.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.0014808254
+9477a011-ac09-4b47-b21d-8d19d322fd06,images/9477a011-ac09-4b47-b21d-8d19d322fd06.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.55899143
+7f8d10f5-fa1f-439a-b7f5-886275d47347,images/7f8d10f5-fa1f-439a-b7f5-886275d47347.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.99993026
+c9ef5e82-7d21-4253-b17f-f6f50f5d2034,images/c9ef5e82-7d21-4253-b17f-f6f50f5d2034.png,0,No Lung Opacity / Not Normal,PA,12.0,F,[],1024,1024,0.98914975
+9e7f7aaa-1fc7-4513-b194-2ac024bc4472,images/9e7f7aaa-1fc7-4513-b194-2ac024bc4472.png,0,No Lung Opacity / Not Normal,PA,48.0,F,[],1024,1024,0.043258443
+a961ef19-ab98-4495-868c-cd268ef256f7,images/a961ef19-ab98-4495-868c-cd268ef256f7.png,0,Normal,PA,19.0,M,[],1024,1024,0.9993973
+fe15b9c9-5c7e-4022-8598-771abbf14490,images/fe15b9c9-5c7e-4022-8598-771abbf14490.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.99345833
+71124f8e-755e-4a2f-b7f7-8e821f7f3522,images/71124f8e-755e-4a2f-b7f7-8e821f7f3522.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.9999995
+36ca4185-52e1-4cf3-b007-5c7680d2ae74,images/36ca4185-52e1-4cf3-b007-5c7680d2ae74.png,1,Lung Opacity,PA,35.0,M,"[[197.0, 543.0, 223.0, 148.0], [619.0, 556.0, 238.0, 193.0]]",1024,1024,0.9482119
+7106dad7-902b-4707-994e-f13826548929,images/7106dad7-902b-4707-994e-f13826548929.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.25163096
+1a9af28f-f757-4d16-92dc-469f2da9fef7,images/1a9af28f-f757-4d16-92dc-469f2da9fef7.png,0,Normal,PA,43.0,F,[],1024,1024,0.9881243
+fa1996ec-770e-4004-8d23-27b7a6cbaaa8,images/fa1996ec-770e-4004-8d23-27b7a6cbaaa8.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.9678987
+e1a397d7-b7ae-4427-862c-ac991dccbcd3,images/e1a397d7-b7ae-4427-862c-ac991dccbcd3.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.99931073
+d0e572e1-e769-4863-9041-be32b9d0d380,images/d0e572e1-e769-4863-9041-be32b9d0d380.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.99999976
+f98256eb-738f-4da3-a36f-84d3df884410,images/f98256eb-738f-4da3-a36f-84d3df884410.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.78017366
+39276e28-456a-46f8-b74d-42601c7ec17e,images/39276e28-456a-46f8-b74d-42601c7ec17e.png,0,Normal,PA,54.0,M,[],1024,1024,0.9993037
+bac5d49a-c506-4db8-b9e6-e3bec2f8abdd,images/bac5d49a-c506-4db8-b9e6-e3bec2f8abdd.png,1,Lung Opacity,PA,65.0,M,"[[511.0, 188.0, 287.0, 499.0], [92.0, 523.0, 266.0, 265.0]]",1024,1024,2.5660743e-06
+91f83ae1-ca25-4777-93d5-72c5995085dd,images/91f83ae1-ca25-4777-93d5-72c5995085dd.png,0,No Lung Opacity / Not Normal,PA,34.0,F,[],1024,1024,0.9998641
+3de7efd4-d074-4fee-95d7-4718e4d7df91,images/3de7efd4-d074-4fee-95d7-4718e4d7df91.png,1,Lung Opacity,PA,63.0,M,"[[577.0, 475.0, 233.0, 292.0]]",1024,1024,0.48378438
+6648e4d4-8073-454a-83a6-f3e7fe775a0b,images/6648e4d4-8073-454a-83a6-f3e7fe775a0b.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.14307167
+b070ebb3-1940-443b-8cca-85eb31ff8b23,images/b070ebb3-1940-443b-8cca-85eb31ff8b23.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.9999379
+a3ff8160-0b83-4f41-9880-201c7981a2e5,images/a3ff8160-0b83-4f41-9880-201c7981a2e5.png,1,Lung Opacity,PA,65.0,F,"[[199.0, 494.0, 224.0, 251.0]]",1024,1024,0.9956045
+4e2468e2-a8f0-4243-831b-6b227c913e64,images/4e2468e2-a8f0-4243-831b-6b227c913e64.png,0,Normal,PA,64.0,F,[],1024,1024,0.9999989
+89821e35-22be-4f81-9aca-15a5192a5c6d,images/89821e35-22be-4f81-9aca-15a5192a5c6d.png,1,Lung Opacity,PA,58.0,M,"[[667.0, 420.0, 222.0, 276.0]]",1024,1024,0.9993006
+490bfbde-9177-4544-bc0b-f5b33d3f6bb5,images/490bfbde-9177-4544-bc0b-f5b33d3f6bb5.png,0,Normal,PA,43.0,F,[],1024,1024,0.6519701
+f6514d42-39c3-4816-8c6f-214ca72b4f87,images/f6514d42-39c3-4816-8c6f-214ca72b4f87.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.9999993
+806a128d-7a2d-48f3-9889-575911eaa129,images/806a128d-7a2d-48f3-9889-575911eaa129.png,0,No Lung Opacity / Not Normal,PA,66.0,F,[],1024,1024,0.9780858
+36cf3250-2ea6-4ef9-8143-c1bbafe83475,images/36cf3250-2ea6-4ef9-8143-c1bbafe83475.png,1,Lung Opacity,PA,63.0,M,"[[599.0, 611.0, 161.0, 154.0]]",1024,1024,0.6645589
+7d3f2d28-c21b-4a64-940c-c635176f35e1,images/7d3f2d28-c21b-4a64-940c-c635176f35e1.png,1,Lung Opacity,PA,68.0,M,"[[676.0, 445.0, 209.0, 321.0], [296.0, 250.0, 172.0, 169.0]]",1024,1024,0.99999404
+fbcf6bcb-5154-445e-93a6-66e7f72af9bb,images/fbcf6bcb-5154-445e-93a6-66e7f72af9bb.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.11688563
+f62f689c-a7a0-4bb2-8321-2dd3dabd424d,images/f62f689c-a7a0-4bb2-8321-2dd3dabd424d.png,0,No Lung Opacity / Not Normal,PA,69.0,M,[],1024,1024,0.9994074
+72d9122c-a3a5-4c75-8218-a5255eb5d528,images/72d9122c-a3a5-4c75-8218-a5255eb5d528.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.99997497
+9b3f2b9a-5f17-43b5-9a01-279de84c174c,images/9b3f2b9a-5f17-43b5-9a01-279de84c174c.png,0,Normal,PA,33.0,M,[],1024,1024,0.9999558
+fd060e38-c89d-4bef-b9aa-427a97a1cf9a,images/fd060e38-c89d-4bef-b9aa-427a97a1cf9a.png,0,Normal,PA,77.0,M,[],1024,1024,0.09898266
+a613b9d5-b499-48e2-b23f-f78b657019ef,images/a613b9d5-b499-48e2-b23f-f78b657019ef.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.048457403
+f93d61c1-097d-4fbb-872d-d420c6a8d563,images/f93d61c1-097d-4fbb-872d-d420c6a8d563.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.9267389
+84b73a5d-ace9-4727-bf05-dac3e36cb3e2,images/84b73a5d-ace9-4727-bf05-dac3e36cb3e2.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.80002683
+ce421618-e170-4cb1-bab4-4faa22cac209,images/ce421618-e170-4cb1-bab4-4faa22cac209.png,0,No Lung Opacity / Not Normal,PA,22.0,F,[],1024,1024,0.9999862
+d0da70f4-e597-4261-ac43-d639c6f78f15,images/d0da70f4-e597-4261-ac43-d639c6f78f15.png,0,Normal,PA,23.0,F,[],1024,1024,1.0
+cf1d2961-31eb-47b8-b2da-7e79b63710a5,images/cf1d2961-31eb-47b8-b2da-7e79b63710a5.png,0,No Lung Opacity / Not Normal,PA,53.0,F,[],1024,1024,0.91852313
+f477d62a-f037-4a8e-9749-ae8d43558c69,images/f477d62a-f037-4a8e-9749-ae8d43558c69.png,0,No Lung Opacity / Not Normal,PA,77.0,M,[],1024,1024,0.971068
+3747c54e-e425-451d-90c0-943e99b873d4,images/3747c54e-e425-451d-90c0-943e99b873d4.png,1,Lung Opacity,PA,64.0,F,"[[703.0, 517.0, 136.0, 139.0], [279.0, 641.0, 127.0, 112.0]]",1024,1024,0.0838986
+3d259836-0ac3-4608-8384-ea7b8473709d,images/3d259836-0ac3-4608-8384-ea7b8473709d.png,1,Lung Opacity,PA,24.0,M,"[[612.0, 494.0, 172.0, 216.0], [168.0, 476.0, 226.0, 220.0]]",1024,1024,0.038515624
+ec4126de-1712-4507-8ed1-59662058375b,images/ec4126de-1712-4507-8ed1-59662058375b.png,0,No Lung Opacity / Not Normal,PA,72.0,F,[],1024,1024,0.9993305
+a97efa60-c7e0-4a4e-9037-0f72e1476377,images/a97efa60-c7e0-4a4e-9037-0f72e1476377.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.17009082
+8fa5de8b-d395-4ff4-8549-4c76386849ec,images/8fa5de8b-d395-4ff4-8549-4c76386849ec.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,0.95835143
+7608a2ca-0709-4cba-b685-3bf55d3a7041,images/7608a2ca-0709-4cba-b685-3bf55d3a7041.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.99844825
+f34899e1-3927-4191-b50c-bec95808139c,images/f34899e1-3927-4191-b50c-bec95808139c.png,1,Lung Opacity,PA,57.0,F,"[[604.0, 356.0, 149.0, 199.0]]",1024,1024,0.0010110303
+dca15a56-637e-4a0f-b705-a8992a9b11cc,images/dca15a56-637e-4a0f-b705-a8992a9b11cc.png,0,No Lung Opacity / Not Normal,PA,10.0,M,[],1024,1024,0.0015917016
+fdeff9e3-54ca-487e-a00b-71c9072eed25,images/fdeff9e3-54ca-487e-a00b-71c9072eed25.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.4166785
+e7f67f50-2929-431f-a9fc-adc24518a87a,images/e7f67f50-2929-431f-a9fc-adc24518a87a.png,1,Lung Opacity,PA,61.0,M,"[[329.0, 579.0, 94.0, 166.0]]",1024,1024,0.6400225
+39efe67e-f7a2-4042-8525-062c18aa96f9,images/39efe67e-f7a2-4042-8525-062c18aa96f9.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.7159709
+6b36b729-a050-42b7-afdf-47aefddd81c1,images/6b36b729-a050-42b7-afdf-47aefddd81c1.png,0,Normal,PA,42.0,F,[],1024,1024,0.9999975
+e6a58e74-2b7b-4acc-b15f-1af4cdbd9a4e,images/e6a58e74-2b7b-4acc-b15f-1af4cdbd9a4e.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,0.005093389
+cd60ad78-1b2f-48f6-bdaa-6bf401d8ce2f,images/cd60ad78-1b2f-48f6-bdaa-6bf401d8ce2f.png,0,No Lung Opacity / Not Normal,PA,29.0,F,[],1024,1024,1.0
+3247efbe-0804-4aa6-865b-155e6b9bbb86,images/3247efbe-0804-4aa6-865b-155e6b9bbb86.png,1,Lung Opacity,PA,43.0,F,"[[198.0, 466.0, 185.0, 122.0], [596.0, 402.0, 182.0, 257.0]]",1024,1024,0.99994385
+a131840e-a6b9-4672-a837-e244596447ce,images/a131840e-a6b9-4672-a837-e244596447ce.png,0,Normal,PA,10.0,M,[],1024,1024,0.9854337
+cfbe870f-3ed6-429b-a0f3-c65118aacd3e,images/cfbe870f-3ed6-429b-a0f3-c65118aacd3e.png,0,No Lung Opacity / Not Normal,PA,45.0,F,[],1024,1024,0.9997571
+1df724c0-ccf5-4299-9037-81b1470f115a,images/1df724c0-ccf5-4299-9037-81b1470f115a.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.9999566
+317ee2f4-c102-4558-b6c4-3a613f01bf84,images/317ee2f4-c102-4558-b6c4-3a613f01bf84.png,0,No Lung Opacity / Not Normal,PA,23.0,M,[],1024,1024,0.45332387
+76b19fb3-d631-4152-8f46-830d0593fc69,images/76b19fb3-d631-4152-8f46-830d0593fc69.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.9603448
+fba0309a-edbe-4d97-b806-f6fe8460ced3,images/fba0309a-edbe-4d97-b806-f6fe8460ced3.png,1,Lung Opacity,PA,59.0,M,"[[637.0, 404.0, 229.0, 350.0]]",1024,1024,0.9999665
+39d8b259-c37f-4e07-b128-b768d8d7a010,images/39d8b259-c37f-4e07-b128-b768d8d7a010.png,1,Lung Opacity,PA,55.0,M,"[[696.0, 398.0, 161.0, 301.0], [263.0, 475.0, 215.0, 170.0]]",1024,1024,0.99987316
+f6ba1426-6cf9-42a8-ab35-ab0dcead78e2,images/f6ba1426-6cf9-42a8-ab35-ab0dcead78e2.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,0.9999945
+a1055459-ab82-42b8-94f9-349a4ed5ec62,images/a1055459-ab82-42b8-94f9-349a4ed5ec62.png,0,Normal,PA,22.0,M,[],1024,1024,0.9999999
+18343850-b51a-4ce1-8d09-9b3bc4910a9b,images/18343850-b51a-4ce1-8d09-9b3bc4910a9b.png,0,Normal,PA,68.0,F,[],1024,1024,0.22651514
+fdfce1ff-203e-4b23-a360-3803558a7f7a,images/fdfce1ff-203e-4b23-a360-3803558a7f7a.png,1,Lung Opacity,PA,51.0,M,"[[625.0, 466.0, 186.0, 190.0]]",1024,1024,0.5391377
+bc6dbf80-6754-4d9e-8bd8-2c225594cf7c,images/bc6dbf80-6754-4d9e-8bd8-2c225594cf7c.png,1,Lung Opacity,PA,78.0,F,"[[226.0, 385.0, 170.0, 194.0]]",1024,1024,0.82168126
+0ac7133f-2b44-44c3-b377-de36af4dbc87,images/0ac7133f-2b44-44c3-b377-de36af4dbc87.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9947826
+18229219-aeb9-4687-ad23-29bed791d76e,images/18229219-aeb9-4687-ad23-29bed791d76e.png,1,Lung Opacity,PA,21.0,F,"[[361.0, 132.0, 168.0, 319.0]]",1024,1024,0.9856366
+897f3a77-4254-491c-8d23-7d94d02f30d6,images/897f3a77-4254-491c-8d23-7d94d02f30d6.png,0,Normal,PA,54.0,M,[],1024,1024,0.99909616
+5b622e5e-09c0-4ade-b82a-c73010b7f47a,images/5b622e5e-09c0-4ade-b82a-c73010b7f47a.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,0.999681
+36235ca3-ecd1-4565-a2d7-41ad3f776ffe,images/36235ca3-ecd1-4565-a2d7-41ad3f776ffe.png,0,Normal,PA,11.0,F,[],1024,1024,0.99999917
+f9b51197-b08a-44ed-9d86-d88488319ef8,images/f9b51197-b08a-44ed-9d86-d88488319ef8.png,0,Normal,PA,21.0,M,[],1024,1024,0.8297316
+1721fcab-c6fb-4688-a1b9-bb3677213085,images/1721fcab-c6fb-4688-a1b9-bb3677213085.png,0,Normal,PA,68.0,M,[],1024,1024,1.0
+f146f9d6-761e-4615-a25f-f4023161e937,images/f146f9d6-761e-4615-a25f-f4023161e937.png,0,No Lung Opacity / Not Normal,PA,69.0,F,[],1024,1024,0.320432
+a32d7568-68e2-4abc-ba46-64ccd84c97f5,images/a32d7568-68e2-4abc-ba46-64ccd84c97f5.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.99591523
+3f2b878e-9e3b-410b-a739-b43d81b98692,images/3f2b878e-9e3b-410b-a739-b43d81b98692.png,1,Lung Opacity,PA,69.0,M,"[[200.0, 372.0, 189.0, 242.0], [566.0, 583.0, 115.0, 73.0]]",1024,1024,0.9999993
+45dbab59-4056-4f20-91f6-cff7c36bce3c,images/45dbab59-4056-4f20-91f6-cff7c36bce3c.png,0,No Lung Opacity / Not Normal,PA,43.0,F,[],1024,1024,0.991621
+f58819c4-260b-4825-b9b6-d643e96cf1b0,images/f58819c4-260b-4825-b9b6-d643e96cf1b0.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.99998796
+853ef66f-999b-4ee1-821c-39ab2d744d47,images/853ef66f-999b-4ee1-821c-39ab2d744d47.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.047024798
+56a10b62-f721-4bbe-805f-3a90af981515,images/56a10b62-f721-4bbe-805f-3a90af981515.png,0,Normal,PA,20.0,F,[],1024,1024,0.0022879501
+041bf0ac-a841-4c4a-9f91-45f4b3b34671,images/041bf0ac-a841-4c4a-9f91-45f4b3b34671.png,0,No Lung Opacity / Not Normal,PA,20.0,F,[],1024,1024,0.2345076
+a52d38b8-f4eb-4aad-bc8d-6d1f9a6a36a2,images/a52d38b8-f4eb-4aad-bc8d-6d1f9a6a36a2.png,0,No Lung Opacity / Not Normal,PA,24.0,M,[],1024,1024,0.46771663
+158e77f6-1345-402b-8718-4d5788718509,images/158e77f6-1345-402b-8718-4d5788718509.png,0,Normal,PA,51.0,F,[],1024,1024,0.9999982
+43a5363f-500d-41f0-b958-3cc8bf47d651,images/43a5363f-500d-41f0-b958-3cc8bf47d651.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.9939069
+3a3f05fa-bead-4d09-9031-a203a1c15d21,images/3a3f05fa-bead-4d09-9031-a203a1c15d21.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.9816906
+bedd9c49-ec7f-4891-92ae-0073d46a537b,images/bedd9c49-ec7f-4891-92ae-0073d46a537b.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.99773717
+ed2fe8a5-d35d-48d5-ab25-fd4b791575e9,images/ed2fe8a5-d35d-48d5-ab25-fd4b791575e9.png,0,No Lung Opacity / Not Normal,PA,35.0,F,[],1024,1024,0.003143202
+55a78545-0545-4f31-8c9f-311a3faeddb5,images/55a78545-0545-4f31-8c9f-311a3faeddb5.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,0.9992716
+0c066cf2-d552-4843-b613-38a8bddddcd2,images/0c066cf2-d552-4843-b613-38a8bddddcd2.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.4373066
+4cbab323-9aa3-49cd-97c7-5fbae3e53a66,images/4cbab323-9aa3-49cd-97c7-5fbae3e53a66.png,0,No Lung Opacity / Not Normal,PA,27.0,F,[],1024,1024,0.9999409
+1d5fdb0a-0f8d-4972-9630-f36eb12c694b,images/1d5fdb0a-0f8d-4972-9630-f36eb12c694b.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.04969672
+83bb5bb9-f084-4b12-8057-4c370e34490f,images/83bb5bb9-f084-4b12-8057-4c370e34490f.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9999938
+b364396e-eb60-471b-9065-1eac897e5d69,images/b364396e-eb60-471b-9065-1eac897e5d69.png,1,Lung Opacity,PA,25.0,M,"[[242.0, 184.0, 183.0, 203.0]]",1024,1024,0.9922072
+83d2803f-0327-4971-8812-8ddce716b372,images/83d2803f-0327-4971-8812-8ddce716b372.png,1,Lung Opacity,PA,35.0,F,"[[571.0, 142.0, 290.0, 630.0]]",1024,1024,0.9999994
+0b92e1e9-78ae-4477-8b7e-f7cac9c79104,images/0b92e1e9-78ae-4477-8b7e-f7cac9c79104.png,0,Normal,PA,49.0,M,[],1024,1024,0.9999999
+46e5e19b-ef7b-4b93-bae5-e95a1bc1cd91,images/46e5e19b-ef7b-4b93-bae5-e95a1bc1cd91.png,0,No Lung Opacity / Not Normal,PA,21.0,M,[],1024,1024,0.99875546
+c4dcc930-7bdf-4d8a-99ed-13f557c93635,images/c4dcc930-7bdf-4d8a-99ed-13f557c93635.png,0,No Lung Opacity / Not Normal,PA,38.0,M,[],1024,1024,0.00330189
+4e337ede-1529-4d30-a213-40cb7e91e4cf,images/4e337ede-1529-4d30-a213-40cb7e91e4cf.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.00051469234
+4c445a68-b7af-455c-b8f0-a94a4cc6eb13,images/4c445a68-b7af-455c-b8f0-a94a4cc6eb13.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.9999987
+fbbd0b3f-2305-450b-950f-0f88754ebd94,images/fbbd0b3f-2305-450b-950f-0f88754ebd94.png,1,Lung Opacity,PA,34.0,M,"[[251.0, 286.0, 198.0, 273.0]]",1024,1024,0.99495393
+607fe277-69f8-4958-bc45-4ecf5ebdfa07,images/607fe277-69f8-4958-bc45-4ecf5ebdfa07.png,0,No Lung Opacity / Not Normal,PA,20.0,M,[],1024,1024,0.9999999
+e397dc92-c9c8-4b93-b8fd-831514c74254,images/e397dc92-c9c8-4b93-b8fd-831514c74254.png,0,Normal,PA,52.0,M,[],1024,1024,0.9998393
+b9114176-0ece-4eb7-9972-dfdd6b867196,images/b9114176-0ece-4eb7-9972-dfdd6b867196.png,0,No Lung Opacity / Not Normal,PA,45.0,M,[],1024,1024,0.91029865
+86f34519-a36e-462e-a8f3-842b992dc46b,images/86f34519-a36e-462e-a8f3-842b992dc46b.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,0.9994573
+493e5b80-9f5e-4e2a-9963-452d270891f5,images/493e5b80-9f5e-4e2a-9963-452d270891f5.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.39116818
+9aeac4e0-68d4-4214-9e22-72facf654789,images/9aeac4e0-68d4-4214-9e22-72facf654789.png,0,No Lung Opacity / Not Normal,PA,79.0,F,[],1024,1024,0.8145183
+c3ce51d2-26b0-4996-aaef-5e4886de4c24,images/c3ce51d2-26b0-4996-aaef-5e4886de4c24.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,0.0002266065
+172062d8-d20b-4900-9627-d4855e2a3630,images/172062d8-d20b-4900-9627-d4855e2a3630.png,0,No Lung Opacity / Not Normal,PA,75.0,F,[],1024,1024,0.6620389
+4ecdf6b3-8548-4b91-a5e8-3ac330b4145d,images/4ecdf6b3-8548-4b91-a5e8-3ac330b4145d.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.9999995
+3811df6f-1111-4ee5-9565-f0fc197981f8,images/3811df6f-1111-4ee5-9565-f0fc197981f8.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.9892448
+666b0b84-6cab-47e4-b0df-2cffbb42de9a,images/666b0b84-6cab-47e4-b0df-2cffbb42de9a.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.5141188
+e40663c4-3234-43fa-9955-e3abdd430255,images/e40663c4-3234-43fa-9955-e3abdd430255.png,0,Normal,PA,49.0,M,[],1024,1024,0.9999496
+c79355c0-dac6-4727-9210-00bf0147a0be,images/c79355c0-dac6-4727-9210-00bf0147a0be.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9922178
+483eb36d-93dc-4414-9af1-f9e10ae2754b,images/483eb36d-93dc-4414-9af1-f9e10ae2754b.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.92117983
+8d50a2bd-0e09-4675-9c89-198b6e8756f7,images/8d50a2bd-0e09-4675-9c89-198b6e8756f7.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.002763858
+e9b7e142-24ba-4d46-83f6-1093b4bef4ea,images/e9b7e142-24ba-4d46-83f6-1093b4bef4ea.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.9998398
+09ca5945-7f34-475b-92fe-33b028e15247,images/09ca5945-7f34-475b-92fe-33b028e15247.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.9946884
+2fd90436-1b1e-4352-abe6-ea41ec5df91a,images/2fd90436-1b1e-4352-abe6-ea41ec5df91a.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,1.0
+5ae70f1f-2b80-409e-8347-993f58185f3b,images/5ae70f1f-2b80-409e-8347-993f58185f3b.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,4.0342107e-05
+81972ecd-eba5-4267-b11e-88245d3f1176,images/81972ecd-eba5-4267-b11e-88245d3f1176.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.9999839
+d6888434-1370-4969-be75-16b241256fe3,images/d6888434-1370-4969-be75-16b241256fe3.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.928312
+16989af1-a5ad-4840-b79b-e0f29aaa88f9,images/16989af1-a5ad-4840-b79b-e0f29aaa88f9.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,1.0
+eeb9d6d1-695b-4fee-8884-4847a28c337b,images/eeb9d6d1-695b-4fee-8884-4847a28c337b.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.4549702
+6fe2f116-bde2-4a5d-b178-92139de9ef2d,images/6fe2f116-bde2-4a5d-b178-92139de9ef2d.png,0,No Lung Opacity / Not Normal,PA,41.0,M,[],1024,1024,0.64963853
+d7db833f-a5e8-4c64-bc5f-5385bc534597,images/d7db833f-a5e8-4c64-bc5f-5385bc534597.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.13514787
+e5bff349-8b02-4c62-8c64-b32344fa690c,images/e5bff349-8b02-4c62-8c64-b32344fa690c.png,1,Lung Opacity,PA,56.0,M,"[[666.0, 96.0, 133.0, 142.0], [138.0, 123.0, 231.0, 178.0]]",1024,1024,0.9999671
+7dd38aad-d538-4068-8ddd-c1c401b7e2b2,images/7dd38aad-d538-4068-8ddd-c1c401b7e2b2.png,0,Normal,PA,69.0,F,[],1024,1024,0.0008300055
+f466e5b6-259b-4d94-8300-623d39861f57,images/f466e5b6-259b-4d94-8300-623d39861f57.png,0,No Lung Opacity / Not Normal,PA,34.0,M,[],1024,1024,0.99959666
+4a66f161-a35d-4e18-8f17-5b0e596e40aa,images/4a66f161-a35d-4e18-8f17-5b0e596e40aa.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.9999856
+72692f34-7a4b-4252-80fb-9d77b6288a47,images/72692f34-7a4b-4252-80fb-9d77b6288a47.png,0,Normal,PA,37.0,M,[],1024,1024,0.24850307
+3a8a880f-c71c-4130-b220-77896771715b,images/3a8a880f-c71c-4130-b220-77896771715b.png,0,No Lung Opacity / Not Normal,PA,89.0,F,[],1024,1024,0.98963356
+5bd3e1eb-3b86-4531-8b6c-049a37fdd8ad,images/5bd3e1eb-3b86-4531-8b6c-049a37fdd8ad.png,1,Lung Opacity,PA,25.0,F,"[[605.0, 552.0, 175.0, 172.0]]",1024,1024,0.99993634
+6a916cc2-28a9-4ecd-a4f8-e838d776393b,images/6a916cc2-28a9-4ecd-a4f8-e838d776393b.png,0,No Lung Opacity / Not Normal,PA,26.0,F,[],1024,1024,0.99996877
+e71052e4-9d93-4992-a607-0bf65032099c,images/e71052e4-9d93-4992-a607-0bf65032099c.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.99662364
+e2d04f6e-b30d-4454-8200-815b05343f2b,images/e2d04f6e-b30d-4454-8200-815b05343f2b.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99997354
+92e64cff-df51-4747-9203-fb083bdc520a,images/92e64cff-df51-4747-9203-fb083bdc520a.png,1,Lung Opacity,PA,61.0,F,"[[163.0, 258.0, 288.0, 521.0]]",1024,1024,0.9258298
+837513f0-2f97-472d-b2f7-82de8c1d7664,images/837513f0-2f97-472d-b2f7-82de8c1d7664.png,0,No Lung Opacity / Not Normal,PA,17.0,M,[],1024,1024,0.99262905
+9b782d00-7521-4843-919b-cd9dfc6f4769,images/9b782d00-7521-4843-919b-cd9dfc6f4769.png,0,Normal,PA,10.0,M,[],1024,1024,0.98446923
+e7471c03-7ba6-4ccc-98fc-9d40a6347cba,images/e7471c03-7ba6-4ccc-98fc-9d40a6347cba.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.9999995
+c5fcfb08-e3b2-428d-a32e-bc4a72cfb763,images/c5fcfb08-e3b2-428d-a32e-bc4a72cfb763.png,0,No Lung Opacity / Not Normal,PA,31.0,F,[],1024,1024,0.99996054
+6f6afc4a-cc1d-49ba-a986-c170e38c7c00,images/6f6afc4a-cc1d-49ba-a986-c170e38c7c00.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.026392717
+a3d7d366-e56a-4f7a-81ae-cf3922497b5a,images/a3d7d366-e56a-4f7a-81ae-cf3922497b5a.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.9996209
+fdf04bbb-d289-4421-9ec5-020f71535fab,images/fdf04bbb-d289-4421-9ec5-020f71535fab.png,0,No Lung Opacity / Not Normal,PA,19.0,M,[],1024,1024,0.9999999
+83f84af0-3376-4352-8a13-2649e66f35eb,images/83f84af0-3376-4352-8a13-2649e66f35eb.png,1,Lung Opacity,PA,60.0,M,"[[238.0, 278.0, 196.0, 336.0], [610.0, 304.0, 241.0, 292.0]]",1024,1024,0.9408668
+e15aeca6-1ab9-477d-8b29-8a4736caa8ea,images/e15aeca6-1ab9-477d-8b29-8a4736caa8ea.png,0,No Lung Opacity / Not Normal,PA,29.0,F,[],1024,1024,0.9999893
+8adad269-d24c-4a1f-bc9a-e923da4dfc1e,images/8adad269-d24c-4a1f-bc9a-e923da4dfc1e.png,0,Normal,PA,49.0,F,[],1024,1024,0.9757227
+05231d4d-f492-495f-9ab2-9a847a5483dc,images/05231d4d-f492-495f-9ab2-9a847a5483dc.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.0015550769
+3208e231-f146-41b6-b726-1d4267728342,images/3208e231-f146-41b6-b726-1d4267728342.png,1,Lung Opacity,PA,47.0,M,"[[220.0, 610.0, 179.0, 199.0]]",1024,1024,0.14804775
+3a364ace-4994-4be2-a3e2-cab2627c740e,images/3a364ace-4994-4be2-a3e2-cab2627c740e.png,1,Lung Opacity,PA,20.0,M,"[[319.0, 351.0, 146.0, 300.0]]",1024,1024,0.99999976
+7d9e7d82-aed5-4fa3-878b-8073834a7277,images/7d9e7d82-aed5-4fa3-878b-8073834a7277.png,0,No Lung Opacity / Not Normal,PA,77.0,F,[],1024,1024,4.447816e-05
+7413e93f-a32c-4d1a-82bf-363b67f4a642,images/7413e93f-a32c-4d1a-82bf-363b67f4a642.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.9999962
+cd747701-e664-4aed-b303-b54ccdd1af28,images/cd747701-e664-4aed-b303-b54ccdd1af28.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.99281
+524c87a2-8072-4062-b6f7-7a7785164092,images/524c87a2-8072-4062-b6f7-7a7785164092.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.6563324
+46050138-e8d0-4de6-964e-e2747df3d073,images/46050138-e8d0-4de6-964e-e2747df3d073.png,0,No Lung Opacity / Not Normal,PA,24.0,F,[],1024,1024,0.5592304
+6c22fb61-ac93-4224-be10-b939e28f5f5e,images/6c22fb61-ac93-4224-be10-b939e28f5f5e.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.9999695
+f7da035b-b3c6-4288-9e0f-82074cf5473d,images/f7da035b-b3c6-4288-9e0f-82074cf5473d.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,1.0
+7996a166-20a2-4794-bac2-02f2cdacfc05,images/7996a166-20a2-4794-bac2-02f2cdacfc05.png,0,Normal,PA,21.0,F,[],1024,1024,0.8172142
+9ecdf9f3-f20f-42fe-9862-ca55d68a1261,images/9ecdf9f3-f20f-42fe-9862-ca55d68a1261.png,0,No Lung Opacity / Not Normal,PA,22.0,M,[],1024,1024,0.976385
+8d609680-2a71-49e7-949f-a4971ffc035b,images/8d609680-2a71-49e7-949f-a4971ffc035b.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.9115413
+2e5dc881-3eef-4f78-96f8-2e240bbede2a,images/2e5dc881-3eef-4f78-96f8-2e240bbede2a.png,0,Normal,PA,67.0,M,[],1024,1024,0.008871305
+89beedca-e0ce-45df-b840-218f54de8fae,images/89beedca-e0ce-45df-b840-218f54de8fae.png,0,Normal,PA,20.0,M,[],1024,1024,0.99649954
+3a0c1a58-6d13-43f3-a5a0-07d8ecdf7fd5,images/3a0c1a58-6d13-43f3-a5a0-07d8ecdf7fd5.png,1,Lung Opacity,PA,32.0,F,"[[184.0, 372.0, 239.0, 187.0]]",1024,1024,0.45252725
+fbca4f58-4356-4658-8abe-95d73dfbeba8,images/fbca4f58-4356-4658-8abe-95d73dfbeba8.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.011194329
+bdab9178-1161-44cb-a754-07107092b61a,images/bdab9178-1161-44cb-a754-07107092b61a.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.9999999
+e78f8480-f3d3-4409-bd28-5f6d905fadef,images/e78f8480-f3d3-4409-bd28-5f6d905fadef.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.075416364
+5bcee483-ed6d-4e9c-b9db-1e48e5bb2403,images/5bcee483-ed6d-4e9c-b9db-1e48e5bb2403.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.9999807
+c2a5babf-0f62-4d68-9d96-7e10842a524d,images/c2a5babf-0f62-4d68-9d96-7e10842a524d.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.71367264
+20fa542a-4930-46eb-8e1b-3e938980e6ea,images/20fa542a-4930-46eb-8e1b-3e938980e6ea.png,1,Lung Opacity,PA,57.0,F,"[[634.0, 206.0, 302.0, 242.0], [145.0, 228.0, 264.0, 195.0]]",1024,1024,0.99999654
+e6465833-2118-4dcf-a6e6-388320ab55c2,images/e6465833-2118-4dcf-a6e6-388320ab55c2.png,0,Normal,PA,73.0,M,[],1024,1024,0.9992287
+ec9a1416-a59a-4dec-9611-bda202f13e93,images/ec9a1416-a59a-4dec-9611-bda202f13e93.png,0,No Lung Opacity / Not Normal,PA,34.0,F,[],1024,1024,0.99998593
+39a77f09-4cc6-435b-90ad-489a894cf6ff,images/39a77f09-4cc6-435b-90ad-489a894cf6ff.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.042286668
+008c19e8-a820-403a-930a-bc74a4053664,images/008c19e8-a820-403a-930a-bc74a4053664.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.14031154
+09854bb5-4fed-43e2-96cf-8f24ca71cb6e,images/09854bb5-4fed-43e2-96cf-8f24ca71cb6e.png,0,Normal,PA,16.0,F,[],1024,1024,0.9884672
+58f625bb-b656-4b17-b1d5-dd42de880c1f,images/58f625bb-b656-4b17-b1d5-dd42de880c1f.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.55008566
+b9ff75c0-2087-4791-84ee-e49811ca4889,images/b9ff75c0-2087-4791-84ee-e49811ca4889.png,0,Normal,PA,69.0,F,[],1024,1024,0.011163904
+e1e1ab43-4efc-487f-ad6f-82dacb348ca3,images/e1e1ab43-4efc-487f-ad6f-82dacb348ca3.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.86237866
+7971ccf5-18a3-47d3-a2ea-eea88033404e,images/7971ccf5-18a3-47d3-a2ea-eea88033404e.png,1,Lung Opacity,PA,15.0,F,"[[232.0, 224.0, 162.0, 139.0]]",1024,1024,0.9992699
+83382cf9-8e43-4006-add8-f0ecdfd93ddd,images/83382cf9-8e43-4006-add8-f0ecdfd93ddd.png,0,No Lung Opacity / Not Normal,PA,45.0,M,[],1024,1024,0.9999958
+f9651c64-a88f-46fd-9ca1-63a55f50873c,images/f9651c64-a88f-46fd-9ca1-63a55f50873c.png,1,Lung Opacity,PA,24.0,M,"[[164.0, 306.0, 212.0, 308.0]]",1024,1024,0.6378928
+e96fa677-9c96-4611-aa91-963087217a51,images/e96fa677-9c96-4611-aa91-963087217a51.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.99785703
+380bbb59-0158-4464-94c8-a3c19153cb0d,images/380bbb59-0158-4464-94c8-a3c19153cb0d.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.00043463838
+f9103466-b110-45d8-a51c-96017068fa1e,images/f9103466-b110-45d8-a51c-96017068fa1e.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,1.0
+8d14d37c-f6de-4138-b8b9-20613c8befc2,images/8d14d37c-f6de-4138-b8b9-20613c8befc2.png,1,Lung Opacity,PA,65.0,F,"[[90.0, 280.0, 316.0, 427.0]]",1024,1024,1.0
+c9d6266b-9f27-4471-aa76-c648645b0654,images/c9d6266b-9f27-4471-aa76-c648645b0654.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.54986656
+09232852-c9c0-487a-b656-d6fa013b0453,images/09232852-c9c0-487a-b656-d6fa013b0453.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.9584702
+aa420409-bb01-4c33-bea2-d0b1d04f5f9e,images/aa420409-bb01-4c33-bea2-d0b1d04f5f9e.png,0,Normal,PA,20.0,M,[],1024,1024,0.999522
+b98714cf-6270-4394-a9eb-05454d7799df,images/b98714cf-6270-4394-a9eb-05454d7799df.png,0,Normal,PA,77.0,M,[],1024,1024,0.9706734
+8861a5a5-071b-413a-9000-1d217a75df71,images/8861a5a5-071b-413a-9000-1d217a75df71.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.9994892
+847ec9f4-387b-4655-b357-e0c2b1323feb,images/847ec9f4-387b-4655-b357-e0c2b1323feb.png,0,Normal,PA,46.0,M,[],1024,1024,0.58248746
+96582031-d737-418b-8a3d-3361284816d3,images/96582031-d737-418b-8a3d-3361284816d3.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.91906595
+6b3aabe3-7a8f-43dd-bc7d-09e653f56c69,images/6b3aabe3-7a8f-43dd-bc7d-09e653f56c69.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.9991301
+ef6b5be4-cb59-45da-94c3-9f9e1d4f004c,images/ef6b5be4-cb59-45da-94c3-9f9e1d4f004c.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.99999297
+93d88a9f-0593-4691-b4f6-d23b2404caa2,images/93d88a9f-0593-4691-b4f6-d23b2404caa2.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9997694
+e470b835-92bb-480b-8905-5d6ea3f1827b,images/e470b835-92bb-480b-8905-5d6ea3f1827b.png,0,No Lung Opacity / Not Normal,PA,19.0,F,[],1024,1024,0.0019824924
+65104c2a-0b48-4c84-9cc5-706751fde2c2,images/65104c2a-0b48-4c84-9cc5-706751fde2c2.png,0,Normal,PA,84.0,F,[],1024,1024,0.99380976
+71717f82-c96f-491d-84aa-7fe0eaa477bc,images/71717f82-c96f-491d-84aa-7fe0eaa477bc.png,0,No Lung Opacity / Not Normal,PA,39.0,M,[],1024,1024,1.0
+6ec8cf52-32f7-4995-91d2-07b4d6bd9d1f,images/6ec8cf52-32f7-4995-91d2-07b4d6bd9d1f.png,1,Lung Opacity,PA,52.0,F,"[[165.0, 385.0, 256.0, 166.0]]",1024,1024,0.9999213
+df06f4d2-c39c-429d-b845-98f6fe68f109,images/df06f4d2-c39c-429d-b845-98f6fe68f109.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.9995158
+09326eb7-f4cb-4d8f-83c6-8ba7fb8b5ac7,images/09326eb7-f4cb-4d8f-83c6-8ba7fb8b5ac7.png,1,Lung Opacity,PA,28.0,F,"[[210.0, 53.0, 282.0, 317.0]]",1024,1024,1.0
+1edbfc97-bf4e-4c36-ad0e-f824ca6d64e5,images/1edbfc97-bf4e-4c36-ad0e-f824ca6d64e5.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.99999607
+d3b473a8-9135-40c6-82f9-e909e0b47358,images/d3b473a8-9135-40c6-82f9-e909e0b47358.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,1.0
+10223464-9ce5-4445-ba26-cd5a01ed5d4f,images/10223464-9ce5-4445-ba26-cd5a01ed5d4f.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.99999285
+0a0f91dc-6015-4342-b809-d19610854a21,images/0a0f91dc-6015-4342-b809-d19610854a21.png,1,Lung Opacity,PA,18.0,F,"[[646.0, 465.0, 200.0, 168.0]]",1024,1024,0.00034320002
+88035956-1e69-4f8f-a9cb-fc3c471b03d3,images/88035956-1e69-4f8f-a9cb-fc3c471b03d3.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.9966904
+d5293a3e-f050-4b98-8bbf-1f40e25bced5,images/d5293a3e-f050-4b98-8bbf-1f40e25bced5.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.9993691
+45128bfb-0967-46b2-a4b8-23ba3f4f247b,images/45128bfb-0967-46b2-a4b8-23ba3f4f247b.png,1,Lung Opacity,PA,33.0,M,"[[260.0, 493.0, 165.0, 155.0]]",1024,1024,0.42787114
+16d8d1b9-1430-4043-acb3-d3938a354028,images/16d8d1b9-1430-4043-acb3-d3938a354028.png,1,Lung Opacity,PA,30.0,F,"[[566.0, 252.0, 300.0, 375.0], [182.0, 231.0, 237.0, 363.0]]",1024,1024,0.9990571
+b75e156c-58d8-41f1-90a2-4ec23a55afd8,images/b75e156c-58d8-41f1-90a2-4ec23a55afd8.png,0,Normal,PA,77.0,M,[],1024,1024,0.11045424
+c4b1d97c-b451-4015-928c-bf66de300a08,images/c4b1d97c-b451-4015-928c-bf66de300a08.png,0,No Lung Opacity / Not Normal,PA,25.0,M,[],1024,1024,0.021420728
+348cedc4-4e08-4bae-b5dc-d68fe804aa65,images/348cedc4-4e08-4bae-b5dc-d68fe804aa65.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.6543965
+cb464057-22d6-46ea-85fe-d47f41cc84e5,images/cb464057-22d6-46ea-85fe-d47f41cc84e5.png,0,No Lung Opacity / Not Normal,PA,74.0,F,[],1024,1024,0.99612206
+61e09ab3-94a9-46a7-bd05-6457a35f78d7,images/61e09ab3-94a9-46a7-bd05-6457a35f78d7.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9927886
+7d93788d-2fb5-41f1-ba86-477681241879,images/7d93788d-2fb5-41f1-ba86-477681241879.png,1,Lung Opacity,PA,56.0,M,"[[206.0, 577.0, 166.0, 208.0]]",1024,1024,0.99653864
+a3d252ca-0faa-42ca-82db-fb199b26cae1,images/a3d252ca-0faa-42ca-82db-fb199b26cae1.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.7169991
+50292299-72e4-4729-bf27-e480aa6fa2e2,images/50292299-72e4-4729-bf27-e480aa6fa2e2.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,1.0
+c800d83c-f3e8-4f01-aba7-04d0ac6add0e,images/c800d83c-f3e8-4f01-aba7-04d0ac6add0e.png,0,No Lung Opacity / Not Normal,PA,66.0,F,[],1024,1024,0.005429448
+85c11381-f062-4bcf-9446-c3b79d528cb2,images/85c11381-f062-4bcf-9446-c3b79d528cb2.png,0,Normal,PA,38.0,M,[],1024,1024,0.70169276
+93b22d27-07ea-457d-83a7-48cdf089ac56,images/93b22d27-07ea-457d-83a7-48cdf089ac56.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.0067255977
+5e36040b-0804-4c66-a879-32afdacf18ce,images/5e36040b-0804-4c66-a879-32afdacf18ce.png,1,Lung Opacity,PA,24.0,M,"[[344.0, 550.0, 115.0, 144.0]]",1024,1024,0.68305945
+76639f5a-541f-4053-b71e-658298f7a8ce,images/76639f5a-541f-4053-b71e-658298f7a8ce.png,0,No Lung Opacity / Not Normal,PA,74.0,F,[],1024,1024,0.003590645
+43fe8d49-f87f-4fbe-8e6b-d715ac8905db,images/43fe8d49-f87f-4fbe-8e6b-d715ac8905db.png,0,Normal,PA,48.0,F,[],1024,1024,0.9992385
+435655ed-87ce-4814-80e8-95cceec2abf0,images/435655ed-87ce-4814-80e8-95cceec2abf0.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.99239844
+83217a2d-df03-4e4f-8fca-2debf5e161f6,images/83217a2d-df03-4e4f-8fca-2debf5e161f6.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.9982975
+efc7bbac-8adb-4422-9249-282df5ccb6c9,images/efc7bbac-8adb-4422-9249-282df5ccb6c9.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.99978584
+9154fa10-92c5-4d23-800a-887ef8928eff,images/9154fa10-92c5-4d23-800a-887ef8928eff.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.9999975
+d1eab5df-2182-42ce-aaae-b79d9b510294,images/d1eab5df-2182-42ce-aaae-b79d9b510294.png,0,No Lung Opacity / Not Normal,PA,31.0,M,[],1024,1024,0.079796694
+a31f99ac-9209-415a-986a-75566e0c033b,images/a31f99ac-9209-415a-986a-75566e0c033b.png,0,Normal,PA,37.0,F,[],1024,1024,0.9666482
+c6c03b5d-a672-486d-b246-5058591b07ad,images/c6c03b5d-a672-486d-b246-5058591b07ad.png,0,Normal,PA,57.0,M,[],1024,1024,0.99931955
+4699eae3-390a-4a76-9be0-7646d1a36425,images/4699eae3-390a-4a76-9be0-7646d1a36425.png,1,Lung Opacity,PA,15.0,F,"[[249.0, 455.0, 225.0, 108.0], [778.0, 420.0, 93.0, 173.0]]",1024,1024,0.94433
+cc4e0483-9ba7-4d4e-84f2-2589399e7961,images/cc4e0483-9ba7-4d4e-84f2-2589399e7961.png,0,No Lung Opacity / Not Normal,PA,76.0,M,[],1024,1024,0.9999727
+d60cfe34-6753-44e1-ba22-7a106ff7be83,images/d60cfe34-6753-44e1-ba22-7a106ff7be83.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.9999995
+958ef5a8-9119-4b34-b009-6a3fa8abff64,images/958ef5a8-9119-4b34-b009-6a3fa8abff64.png,1,Lung Opacity,PA,43.0,F,"[[303.0, 587.0, 162.0, 244.0]]",1024,1024,0.9999418
+1d9dde4e-97cc-4163-a3d5-8b845ad60ded,images/1d9dde4e-97cc-4163-a3d5-8b845ad60ded.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.9999957
+64f2b57e-5be6-461a-bdf9-15b85c767182,images/64f2b57e-5be6-461a-bdf9-15b85c767182.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,1.0
+16dd5796-1dd9-466b-ab05-e50ae5fafe39,images/16dd5796-1dd9-466b-ab05-e50ae5fafe39.png,0,Normal,PA,70.0,M,[],1024,1024,0.00056824624
+b97e765e-a0c1-4f91-b62f-07df0bae33a7,images/b97e765e-a0c1-4f91-b62f-07df0bae33a7.png,1,Lung Opacity,PA,65.0,F,"[[278.0, 323.0, 222.0, 209.0]]",1024,1024,0.99812657
+3df39560-4e3b-4ff2-95a2-6de4eaa019e4,images/3df39560-4e3b-4ff2-95a2-6de4eaa019e4.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.9911069
+5cc6b134-74ea-4443-b2f2-9e6d81d2010b,images/5cc6b134-74ea-4443-b2f2-9e6d81d2010b.png,0,No Lung Opacity / Not Normal,PA,24.0,F,[],1024,1024,0.82762915
+f0576862-a1b3-4029-8ab0-d7dae5d973f7,images/f0576862-a1b3-4029-8ab0-d7dae5d973f7.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.99999964
+f5926c42-623f-4a7d-9214-bf9f0964e9fd,images/f5926c42-623f-4a7d-9214-bf9f0964e9fd.png,1,Lung Opacity,PA,52.0,M,"[[132.0, 730.0, 211.0, 99.0]]",1024,1024,0.39470118
+b9b5a3db-2692-4fbc-a083-f86a2f3f7e6f,images/b9b5a3db-2692-4fbc-a083-f86a2f3f7e6f.png,0,No Lung Opacity / Not Normal,PA,26.0,F,[],1024,1024,0.9999323
+4653fa74-8e66-486e-9218-280499b160c7,images/4653fa74-8e66-486e-9218-280499b160c7.png,0,No Lung Opacity / Not Normal,PA,62.0,M,[],1024,1024,0.9943591
+bb50ac9d-6cb2-417f-b468-3c1eec9a2f69,images/bb50ac9d-6cb2-417f-b468-3c1eec9a2f69.png,0,No Lung Opacity / Not Normal,PA,42.0,M,[],1024,1024,0.33082244
+dbaa7abd-4d45-4ce6-ac0c-89d961a7f8d2,images/dbaa7abd-4d45-4ce6-ac0c-89d961a7f8d2.png,1,Lung Opacity,PA,66.0,M,"[[185.0, 539.0, 216.0, 130.0]]",1024,1024,0.935935
+e9f534a7-9cec-4b62-b5e6-ae4e8ba5d02d,images/e9f534a7-9cec-4b62-b5e6-ae4e8ba5d02d.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.02904734
+51fc4515-e145-4e05-ad32-feb6cfd2ec0b,images/51fc4515-e145-4e05-ad32-feb6cfd2ec0b.png,0,No Lung Opacity / Not Normal,PA,26.0,F,[],1024,1024,1.0
+7ec3f572-858e-4d0b-8912-5f881722a95c,images/7ec3f572-858e-4d0b-8912-5f881722a95c.png,0,No Lung Opacity / Not Normal,PA,37.0,M,[],1024,1024,0.9919728
+6c1340a8-cf5d-42b2-88e8-cdf280f16458,images/6c1340a8-cf5d-42b2-88e8-cdf280f16458.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.5020767
+3db844f1-9d7c-4072-a982-bc35e05ed46f,images/3db844f1-9d7c-4072-a982-bc35e05ed46f.png,0,No Lung Opacity / Not Normal,PA,45.0,M,[],1024,1024,0.9999138
+96218fe8-d447-42ec-ac00-3776943fddb2,images/96218fe8-d447-42ec-ac00-3776943fddb2.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.0003587792
+ebdf7aa3-a2ec-4388-8086-7eb223a23915,images/ebdf7aa3-a2ec-4388-8086-7eb223a23915.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,0.99994874
+74bf0245-0e19-45d6-9f31-65eaff09fb8a,images/74bf0245-0e19-45d6-9f31-65eaff09fb8a.png,1,Lung Opacity,PA,52.0,F,"[[635.0, 624.0, 143.0, 128.0], [271.0, 576.0, 119.0, 91.0]]",1024,1024,0.9999945
+ed340654-2517-446c-afd8-54ec352c5eec,images/ed340654-2517-446c-afd8-54ec352c5eec.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.01663602
+990fb092-1104-4121-a5a9-4869dd53412e,images/990fb092-1104-4121-a5a9-4869dd53412e.png,0,Normal,PA,61.0,M,[],1024,1024,0.9962126
+e6d2c2e7-7b43-4c72-8e3c-601d071630c0,images/e6d2c2e7-7b43-4c72-8e3c-601d071630c0.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.014627693
+9017da45-72db-446c-bc2f-28c323e73599,images/9017da45-72db-446c-bc2f-28c323e73599.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.9999999
+39140e99-2e5d-427c-9738-2e6d443b074c,images/39140e99-2e5d-427c-9738-2e6d443b074c.png,0,No Lung Opacity / Not Normal,PA,48.0,F,[],1024,1024,0.99998367
+8f8feef4-b211-4d70-83eb-cef152569c34,images/8f8feef4-b211-4d70-83eb-cef152569c34.png,1,Lung Opacity,PA,42.0,M,"[[612.0, 375.0, 226.0, 364.0]]",1024,1024,0.9606157
+842eb0e1-5f81-4167-8e37-66d8dd5355bf,images/842eb0e1-5f81-4167-8e37-66d8dd5355bf.png,1,Lung Opacity,PA,48.0,F,"[[248.0, 435.0, 176.0, 241.0]]",1024,1024,0.9999951
+9d381e77-ebf3-479a-88fd-d1179361f312,images/9d381e77-ebf3-479a-88fd-d1179361f312.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,1.0
+52ee897d-e583-4d07-b18f-2e86a31a3b89,images/52ee897d-e583-4d07-b18f-2e86a31a3b89.png,0,No Lung Opacity / Not Normal,PA,58.0,F,[],1024,1024,0.038529716
+3a2cbb37-3c4d-4fdd-86be-e304ae5b0bcd,images/3a2cbb37-3c4d-4fdd-86be-e304ae5b0bcd.png,1,Lung Opacity,PA,54.0,M,"[[593.0, 491.0, 193.0, 114.0]]",1024,1024,0.9999932
+32a837c1-cd10-431d-9dfe-a4f9c1acf53b,images/32a837c1-cd10-431d-9dfe-a4f9c1acf53b.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.9991703
+f6a91706-c486-40f9-aae4-8d4cccb05e6f,images/f6a91706-c486-40f9-aae4-8d4cccb05e6f.png,0,Normal,PA,16.0,F,[],1024,1024,0.9943626
+997b0ed4-33d5-4f64-8884-9950391e981a,images/997b0ed4-33d5-4f64-8884-9950391e981a.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.98927784
+7f20ad0a-2cf6-452b-91ba-628e6391e63c,images/7f20ad0a-2cf6-452b-91ba-628e6391e63c.png,0,Normal,PA,47.0,F,[],1024,1024,0.20440184
+05f42ea0-fa18-47ba-80a7-e070307300bf,images/05f42ea0-fa18-47ba-80a7-e070307300bf.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9999999
+d467cfac-1e49-4855-8fb4-56bae56e3255,images/d467cfac-1e49-4855-8fb4-56bae56e3255.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.15529892
+6acb1c71-0b62-4b66-9acb-96d9c1eb977f,images/6acb1c71-0b62-4b66-9acb-96d9c1eb977f.png,0,No Lung Opacity / Not Normal,PA,25.0,F,[],1024,1024,0.9997975
+7845cd45-c899-4220-ab6d-e969ed2e1cf3,images/7845cd45-c899-4220-ab6d-e969ed2e1cf3.png,0,No Lung Opacity / Not Normal,PA,72.0,M,[],1024,1024,0.0932588
+686d4879-adec-4499-a1ff-41ef8f5198d4,images/686d4879-adec-4499-a1ff-41ef8f5198d4.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.99988914
+75333cce-9a88-4907-a6d1-b3caf070393d,images/75333cce-9a88-4907-a6d1-b3caf070393d.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.63374496
+f0d89c6a-e677-42d9-8a56-ef6227a771bf,images/f0d89c6a-e677-42d9-8a56-ef6227a771bf.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.00064672483
+d1c7a5ae-e734-4f8c-bebe-66b8f4f65a36,images/d1c7a5ae-e734-4f8c-bebe-66b8f4f65a36.png,0,No Lung Opacity / Not Normal,PA,78.0,F,[],1024,1024,0.9999771
+3cdd4c46-2476-4203-9161-1bdfd56c4278,images/3cdd4c46-2476-4203-9161-1bdfd56c4278.png,1,Lung Opacity,PA,58.0,F,"[[636.0, 362.0, 180.0, 119.0], [243.0, 439.0, 211.0, 106.0]]",1024,1024,0.99586177
+e51ae9d8-2e5b-40a1-89fd-06b60fd64355,images/e51ae9d8-2e5b-40a1-89fd-06b60fd64355.png,1,Lung Opacity,PA,25.0,M,"[[186.0, 457.0, 146.0, 174.0], [670.0, 404.0, 161.0, 177.0]]",1024,1024,0.99420977
+4ba09dcd-acd3-4ef2-9b27-7cfce5adf04e,images/4ba09dcd-acd3-4ef2-9b27-7cfce5adf04e.png,0,Normal,PA,35.0,F,[],1024,1024,0.7337704
+fc05042a-ca30-41ab-b0ec-abe039fcb2b3,images/fc05042a-ca30-41ab-b0ec-abe039fcb2b3.png,0,No Lung Opacity / Not Normal,PA,72.0,M,[],1024,1024,0.9999931
+49e7e3a8-2980-4a6d-b469-ed6b749c3b7f,images/49e7e3a8-2980-4a6d-b469-ed6b749c3b7f.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.99999917
+c9713628-3809-4e51-b6f5-0dd13a5f1ab4,images/c9713628-3809-4e51-b6f5-0dd13a5f1ab4.png,0,No Lung Opacity / Not Normal,PA,49.0,M,[],1024,1024,0.95359874
+20d3f1cf-6f6b-4119-8008-bc5c6e105464,images/20d3f1cf-6f6b-4119-8008-bc5c6e105464.png,1,Lung Opacity,PA,27.0,M,"[[261.0, 480.0, 164.0, 73.0]]",1024,1024,6.9516473e-06
+c3b05294-29be-46e4-8a51-96fd211e4ca5,images/c3b05294-29be-46e4-8a51-96fd211e4ca5.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.61682844
+ae4e1697-0d04-4af4-8a60-a18eaa62ed78,images/ae4e1697-0d04-4af4-8a60-a18eaa62ed78.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.9999987
+a4cae270-0a1f-4232-a009-79499a3f2637,images/a4cae270-0a1f-4232-a009-79499a3f2637.png,0,No Lung Opacity / Not Normal,PA,68.0,F,[],1024,1024,0.996612
+d1e04cd0-3680-4cee-b9ec-310997e049e4,images/d1e04cd0-3680-4cee-b9ec-310997e049e4.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.9985399
+d54e2889-e703-469a-9bea-dd90c34d38a3,images/d54e2889-e703-469a-9bea-dd90c34d38a3.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.9116559
+e5ac46ea-1af8-431d-a2ed-1871463cf87b,images/e5ac46ea-1af8-431d-a2ed-1871463cf87b.png,0,Normal,PA,65.0,F,[],1024,1024,0.9968262
+66dd2ba0-b107-4261-8acd-6a6a782f1d5f,images/66dd2ba0-b107-4261-8acd-6a6a782f1d5f.png,1,Lung Opacity,PA,73.0,M,"[[326.0, 420.0, 101.0, 110.0]]",1024,1024,1.0
+b16cf6b4-c3ec-4368-a95b-59c898c4d655,images/b16cf6b4-c3ec-4368-a95b-59c898c4d655.png,0,No Lung Opacity / Not Normal,PA,11.0,M,[],1024,1024,0.9990387
+46080bfe-5559-4f5a-abed-29e6521639de,images/46080bfe-5559-4f5a-abed-29e6521639de.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,0.98677117
+a7b0fd23-6754-40df-b4d9-c27e61e66c85,images/a7b0fd23-6754-40df-b4d9-c27e61e66c85.png,0,No Lung Opacity / Not Normal,PA,25.0,F,[],1024,1024,0.05339651
+6ead3846-afb7-434c-bb07-95419f2d0432,images/6ead3846-afb7-434c-bb07-95419f2d0432.png,0,No Lung Opacity / Not Normal,PA,25.0,F,[],1024,1024,0.9991742
+ebdce9e1-beba-4412-aa86-9b65c0e1f40d,images/ebdce9e1-beba-4412-aa86-9b65c0e1f40d.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.31269002
+b50fc2e5-6fd9-4d54-badb-97be4b5a733f,images/b50fc2e5-6fd9-4d54-badb-97be4b5a733f.png,0,Normal,PA,10.0,M,[],1024,1024,0.002746658
+50fbba2a-83ea-4c6d-9e6e-1404108e88c1,images/50fbba2a-83ea-4c6d-9e6e-1404108e88c1.png,0,No Lung Opacity / Not Normal,PA,31.0,F,[],1024,1024,0.95937765
+3f30761d-5615-4039-a155-0fd26f461742,images/3f30761d-5615-4039-a155-0fd26f461742.png,1,Lung Opacity,PA,58.0,M,"[[196.0, 457.0, 264.0, 230.0]]",1024,1024,0.9998307
+6ed46d56-93fa-4eda-be49-0b1a6c68ed75,images/6ed46d56-93fa-4eda-be49-0b1a6c68ed75.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.9999908
+0a2c130c-c536-4651-836d-95d07e9a89cf,images/0a2c130c-c536-4651-836d-95d07e9a89cf.png,1,Lung Opacity,PA,30.0,M,"[[118.0, 328.0, 333.0, 219.0]]",1024,1024,0.9999999
+8efbb238-7adc-45d7-84a8-e59fd89f89c0,images/8efbb238-7adc-45d7-84a8-e59fd89f89c0.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.9999894
+e70d0504-3563-464c-b8d7-5e23755416ec,images/e70d0504-3563-464c-b8d7-5e23755416ec.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.0012729367
+ca9f417c-50bc-4ac6-9f73-eaced9d0bf4f,images/ca9f417c-50bc-4ac6-9f73-eaced9d0bf4f.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.99767286
+89d67820-5212-4657-b891-0859868d0097,images/89d67820-5212-4657-b891-0859868d0097.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.99999714
+9177da7d-bf6c-4d5c-953a-89270f2d8f97,images/9177da7d-bf6c-4d5c-953a-89270f2d8f97.png,0,Normal,PA,15.0,F,[],1024,1024,0.9983606
+22bcc9c9-ad28-4fc7-8e3d-0c3ef9a6cbf6,images/22bcc9c9-ad28-4fc7-8e3d-0c3ef9a6cbf6.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.9815461
+54a73e25-c2ce-4109-87c1-2eac19cdc2fd,images/54a73e25-c2ce-4109-87c1-2eac19cdc2fd.png,0,No Lung Opacity / Not Normal,PA,30.0,F,[],1024,1024,1.0
+6a41caa1-bf05-4c9e-9021-9b5677fc25fb,images/6a41caa1-bf05-4c9e-9021-9b5677fc25fb.png,0,No Lung Opacity / Not Normal,PA,16.0,M,[],1024,1024,1.5294422e-06
+9fd1cbef-7996-4414-ab5b-1c68253b7b8b,images/9fd1cbef-7996-4414-ab5b-1c68253b7b8b.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.040949065
+715da589-8300-4ec5-96e4-13dcd52a094b,images/715da589-8300-4ec5-96e4-13dcd52a094b.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.00019824128
+a828d5f4-6b94-44ff-a5c1-77bac3c92685,images/a828d5f4-6b94-44ff-a5c1-77bac3c92685.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.9985886
+17a78211-ea8d-4ac8-8882-170a269cd605,images/17a78211-ea8d-4ac8-8882-170a269cd605.png,0,Normal,PA,65.0,M,[],1024,1024,0.9935725
+ddf22c92-8391-42a2-a93b-66fca45b502a,images/ddf22c92-8391-42a2-a93b-66fca45b502a.png,0,No Lung Opacity / Not Normal,PA,36.0,F,[],1024,1024,0.7578966
+bf5255f6-1130-444c-957b-b2ef01d01167,images/bf5255f6-1130-444c-957b-b2ef01d01167.png,1,Lung Opacity,PA,76.0,M,"[[638.0, 495.0, 275.0, 181.0], [192.0, 421.0, 245.0, 249.0]]",1024,1024,0.9572813
+39919c47-0f93-417f-96fb-1aa8a6d6e7ab,images/39919c47-0f93-417f-96fb-1aa8a6d6e7ab.png,1,Lung Opacity,PA,29.0,F,"[[647.0, 147.0, 241.0, 473.0], [328.0, 203.0, 214.0, 403.0]]",1024,1024,0.013330396
+ed21ee4c-97e4-4306-b473-3cca22b4f13d,images/ed21ee4c-97e4-4306-b473-3cca22b4f13d.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,0.9832857
+e74f4928-63ad-4fb1-b838-447dd71476d7,images/e74f4928-63ad-4fb1-b838-447dd71476d7.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.00060404866
+1847b55c-2fed-494c-8d76-7f76630ba39f,images/1847b55c-2fed-494c-8d76-7f76630ba39f.png,0,Normal,PA,35.0,F,[],1024,1024,0.9997632
+5c362c0e-dab1-4a4a-80c2-eca48c7c0dd0,images/5c362c0e-dab1-4a4a-80c2-eca48c7c0dd0.png,0,Normal,PA,41.0,M,[],1024,1024,0.7880326
+d4eb4cc5-20be-4a1b-a2f9-5e3eeb05c38d,images/d4eb4cc5-20be-4a1b-a2f9-5e3eeb05c38d.png,0,Normal,PA,16.0,F,[],1024,1024,0.99718803
+0f5b56fd-7f0f-4b80-9128-92611763172b,images/0f5b56fd-7f0f-4b80-9128-92611763172b.png,0,No Lung Opacity / Not Normal,PA,28.0,F,[],1024,1024,0.55126107
+5bd9fa0f-7ba4-4d01-a984-ab7e8978aa4a,images/5bd9fa0f-7ba4-4d01-a984-ab7e8978aa4a.png,0,Normal,PA,44.0,F,[],1024,1024,0.2354336
+90b54d47-c32f-452a-822a-d0202bcdc90e,images/90b54d47-c32f-452a-822a-d0202bcdc90e.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.99949217
+c059ced8-e99a-4fff-a734-b01cae2491bb,images/c059ced8-e99a-4fff-a734-b01cae2491bb.png,1,Lung Opacity,PA,69.0,M,"[[295.0, 419.0, 104.0, 96.0]]",1024,1024,0.99887496
+81d27d73-7248-4cab-b618-8bd642f3611e,images/81d27d73-7248-4cab-b618-8bd642f3611e.png,0,No Lung Opacity / Not Normal,PA,22.0,F,[],1024,1024,0.00041603955
+89168da5-8bd2-4c94-8011-5c9305bb85f0,images/89168da5-8bd2-4c94-8011-5c9305bb85f0.png,0,No Lung Opacity / Not Normal,PA,49.0,F,[],1024,1024,0.009339182
+ea6656c5-7926-41f5-b83a-6cb7cbdcfb85,images/ea6656c5-7926-41f5-b83a-6cb7cbdcfb85.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.13973142
+d2df9079-f91a-4fd7-87f2-b5de67ef2afb,images/d2df9079-f91a-4fd7-87f2-b5de67ef2afb.png,0,No Lung Opacity / Not Normal,PA,73.0,F,[],1024,1024,0.004118882
+4c43612d-dc22-473d-8194-6efa0110b39e,images/4c43612d-dc22-473d-8194-6efa0110b39e.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.34611443
+0ecc15e9-fe6a-47ff-a622-43e23c8a73ff,images/0ecc15e9-fe6a-47ff-a622-43e23c8a73ff.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.9978759
+cd95e38b-a837-4b7c-8d00-cf5bfd223c73,images/cd95e38b-a837-4b7c-8d00-cf5bfd223c73.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.99999857
+bf1a0294-0d43-4d78-938c-24c0e426544b,images/bf1a0294-0d43-4d78-938c-24c0e426544b.png,0,Normal,PA,44.0,F,[],1024,1024,0.090374485
+874fb2e8-4d06-4750-b1f1-23c9e45bb8e1,images/874fb2e8-4d06-4750-b1f1-23c9e45bb8e1.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.99859124
+c3540449-bb1d-445e-b38a-215e5b8ef479,images/c3540449-bb1d-445e-b38a-215e5b8ef479.png,0,Normal,PA,60.0,F,[],1024,1024,0.99999475
+740c83f7-49c6-48d8-88d7-989e5a55f285,images/740c83f7-49c6-48d8-88d7-989e5a55f285.png,0,No Lung Opacity / Not Normal,PA,36.0,M,[],1024,1024,0.31452563
+09de3f3c-b46f-4be4-b9a8-f767b000845b,images/09de3f3c-b46f-4be4-b9a8-f767b000845b.png,0,No Lung Opacity / Not Normal,PA,67.0,M,[],1024,1024,0.9934726
+ad04815f-f706-4323-bc71-a99cf971db8a,images/ad04815f-f706-4323-bc71-a99cf971db8a.png,0,Normal,PA,52.0,F,[],1024,1024,0.9998423
+a970d4fd-8a5e-4c93-9c2e-676b9287a81e,images/a970d4fd-8a5e-4c93-9c2e-676b9287a81e.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.9999995
+5f74d71f-3b73-4748-b7df-cc6374890c57,images/5f74d71f-3b73-4748-b7df-cc6374890c57.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.004536278
+401b69a0-3d07-47f8-bfea-4bc30aa51403,images/401b69a0-3d07-47f8-bfea-4bc30aa51403.png,1,Lung Opacity,PA,12.0,F,"[[216.0, 504.0, 122.0, 95.0], [751.0, 593.0, 84.0, 60.0]]",1024,1024,0.99999285
+2ca09b04-a0a9-4592-be28-bb6a47dc1732,images/2ca09b04-a0a9-4592-be28-bb6a47dc1732.png,1,Lung Opacity,PA,16.0,F,"[[164.0, 160.0, 250.0, 171.0]]",1024,1024,0.6320415
+50db214c-aeb4-4798-b35b-e821b7f6c7fd,images/50db214c-aeb4-4798-b35b-e821b7f6c7fd.png,0,No Lung Opacity / Not Normal,PA,29.0,M,[],1024,1024,0.99528366
+e8d9ce93-d80f-4b60-817b-17748104ee12,images/e8d9ce93-d80f-4b60-817b-17748104ee12.png,0,No Lung Opacity / Not Normal,PA,30.0,F,[],1024,1024,0.957809
+57dc292a-8273-4eb8-87e2-2faad0a23288,images/57dc292a-8273-4eb8-87e2-2faad0a23288.png,0,Normal,PA,70.0,M,[],1024,1024,0.9999981
+f0fbcbbe-f0f2-431b-835e-2899ce2b3856,images/f0fbcbbe-f0f2-431b-835e-2899ce2b3856.png,0,No Lung Opacity / Not Normal,PA,68.0,F,[],1024,1024,0.0011577047
+c955bd8d-172b-415d-ae91-c357060bec6a,images/c955bd8d-172b-415d-ae91-c357060bec6a.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.67328894
+c2bf331a-84dd-427c-bdc0-ada7de5f3fea,images/c2bf331a-84dd-427c-bdc0-ada7de5f3fea.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.00025600643
+5e87c22b-dcda-4e24-aedb-113216cf5dbf,images/5e87c22b-dcda-4e24-aedb-113216cf5dbf.png,0,Normal,PA,30.0,F,[],1024,1024,0.48857585
+68abf087-9790-4441-b12d-75ebc081ca4b,images/68abf087-9790-4441-b12d-75ebc081ca4b.png,1,Lung Opacity,PA,44.0,M,"[[739.0, 478.0, 123.0, 116.0]]",1024,1024,0.9999839
+32c39ff5-359a-4a7b-b41d-d7ad312766a3,images/32c39ff5-359a-4a7b-b41d-d7ad312766a3.png,1,Lung Opacity,PA,20.0,M,"[[644.0, 366.0, 174.0, 229.0]]",1024,1024,0.99713814
+8af2c1a4-3598-4a5a-9a29-47fa88ae5e3c,images/8af2c1a4-3598-4a5a-9a29-47fa88ae5e3c.png,0,Normal,PA,53.0,M,[],1024,1024,1.0
+4c6f04e5-f7ca-4316-b5ef-70e305060357,images/4c6f04e5-f7ca-4316-b5ef-70e305060357.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.6201179
+57b03001-72a5-481e-b582-dc397ad0828b,images/57b03001-72a5-481e-b582-dc397ad0828b.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,0.9999958
+71c99471-4012-425d-b52d-17f161aa1262,images/71c99471-4012-425d-b52d-17f161aa1262.png,1,Lung Opacity,PA,46.0,F,"[[150.0, 453.0, 210.0, 109.0]]",1024,1024,0.9999846
+3902eb7b-6c41-4eed-910f-5eb03f58c50d,images/3902eb7b-6c41-4eed-910f-5eb03f58c50d.png,0,No Lung Opacity / Not Normal,PA,75.0,M,[],1024,1024,0.7043024
+65b970c5-56f2-441b-a533-87595d39ae5b,images/65b970c5-56f2-441b-a533-87595d39ae5b.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.850902
+a9d7fd57-d71d-4dc2-9556-418b18771f37,images/a9d7fd57-d71d-4dc2-9556-418b18771f37.png,0,No Lung Opacity / Not Normal,PA,78.0,F,[],1024,1024,0.9932151
+e6b8b863-a0ce-48d8-8de2-9c72ba210f3b,images/e6b8b863-a0ce-48d8-8de2-9c72ba210f3b.png,0,Normal,PA,54.0,M,[],1024,1024,0.96562016
+b852140e-62d4-4ddb-b344-bc694bf9f167,images/b852140e-62d4-4ddb-b344-bc694bf9f167.png,1,Lung Opacity,PA,60.0,F,"[[300.0, 287.0, 225.0, 236.0]]",1024,1024,0.00025064757
+d8ff6d7c-a0f3-4fd1-9f2b-b7da898a6690,images/d8ff6d7c-a0f3-4fd1-9f2b-b7da898a6690.png,0,No Lung Opacity / Not Normal,PA,40.0,F,[],1024,1024,0.9999391
+e6e1dd39-1ee6-42a9-a494-62c9d24af872,images/e6e1dd39-1ee6-42a9-a494-62c9d24af872.png,0,Normal,PA,70.0,F,[],1024,1024,0.23456572
+97843eb6-9b94-4b7b-8590-72fd6a0d70d6,images/97843eb6-9b94-4b7b-8590-72fd6a0d70d6.png,0,Normal,PA,58.0,F,[],1024,1024,0.93289304
+309f54b5-d865-4fa9-a827-a2d567cef1b4,images/309f54b5-d865-4fa9-a827-a2d567cef1b4.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.9998078
+e5f93ebe-8d07-4753-9b2b-a6751f29b799,images/e5f93ebe-8d07-4753-9b2b-a6751f29b799.png,0,No Lung Opacity / Not Normal,PA,70.0,F,[],1024,1024,6.5962886e-05
+efa863b3-24a7-4688-9015-e656c933d04c,images/efa863b3-24a7-4688-9015-e656c933d04c.png,1,Lung Opacity,PA,64.0,M,"[[225.0, 469.0, 184.0, 121.0]]",1024,1024,0.9999994
+99ee2e4b-87c3-499c-8e9f-47c6777e60e6,images/99ee2e4b-87c3-499c-8e9f-47c6777e60e6.png,0,No Lung Opacity / Not Normal,PA,32.0,F,[],1024,1024,0.9994978
+dd6e599d-bba3-4a3e-968c-0dcba546099f,images/dd6e599d-bba3-4a3e-968c-0dcba546099f.png,1,Lung Opacity,PA,11.0,M,"[[190.0, 376.0, 156.0, 130.0]]",1024,1024,0.050628874
+ef61bf9e-8aab-4f41-ab0e-6e060fe4ff0c,images/ef61bf9e-8aab-4f41-ab0e-6e060fe4ff0c.png,0,Normal,PA,50.0,M,[],1024,1024,0.9991743
+3258ba2b-f4fe-45f2-ac47-5d6d1fa5819c,images/3258ba2b-f4fe-45f2-ac47-5d6d1fa5819c.png,1,Lung Opacity,PA,22.0,F,"[[192.0, 518.0, 265.0, 101.0]]",1024,1024,0.75829005
+b2368b39-bba3-4458-87ed-70c19cc5917f,images/b2368b39-bba3-4458-87ed-70c19cc5917f.png,1,Lung Opacity,PA,63.0,M,"[[606.0, 361.0, 269.0, 344.0]]",1024,1024,0.0066611115
+c5549fdb-f566-4076-94b8-4b6a9ce9aa24,images/c5549fdb-f566-4076-94b8-4b6a9ce9aa24.png,0,No Lung Opacity / Not Normal,PA,48.0,F,[],1024,1024,0.99968195
+47a15caf-d139-4fa3-956d-6f8afa5ac376,images/47a15caf-d139-4fa3-956d-6f8afa5ac376.png,1,Lung Opacity,PA,41.0,F,"[[162.0, 176.0, 298.0, 348.0]]",1024,1024,0.9997054
+e0af96b5-9e91-4cc7-84c7-a3d04d4c9405,images/e0af96b5-9e91-4cc7-84c7-a3d04d4c9405.png,1,Lung Opacity,PA,30.0,M,"[[740.0, 304.0, 246.0, 349.0]]",1024,1024,0.9998215
+49ecfd4a-3d3f-463c-be3f-668347655f2a,images/49ecfd4a-3d3f-463c-be3f-668347655f2a.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.9997398
+bc788ea7-ec39-49bc-93e8-a9772a778b75,images/bc788ea7-ec39-49bc-93e8-a9772a778b75.png,0,No Lung Opacity / Not Normal,PA,81.0,M,[],1024,1024,0.9999968
+f8ae7a9c-9168-4a6f-8309-cd004da478b0,images/f8ae7a9c-9168-4a6f-8309-cd004da478b0.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.9978484
+fee72484-77b0-4d59-ad08-5d8f497dde99,images/fee72484-77b0-4d59-ad08-5d8f497dde99.png,0,Normal,PA,41.0,M,[],1024,1024,0.122794256
+d99f3a1f-c063-44f1-8fec-210d5d947118,images/d99f3a1f-c063-44f1-8fec-210d5d947118.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.97246844
+80fa07f6-04fa-48b5-9383-8a1d273eaa42,images/80fa07f6-04fa-48b5-9383-8a1d273eaa42.png,0,Normal,PA,38.0,M,[],1024,1024,0.00068412145
+880432ca-07f0-4806-8432-e1f517844a66,images/880432ca-07f0-4806-8432-e1f517844a66.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.99993944
+bf0aea96-9660-4f72-ad0c-bf1ae80bcf5d,images/bf0aea96-9660-4f72-ad0c-bf1ae80bcf5d.png,0,No Lung Opacity / Not Normal,PA,73.0,F,[],1024,1024,0.9999739
+ffe16061-b19f-4333-8a03-b41aab42b47d,images/ffe16061-b19f-4333-8a03-b41aab42b47d.png,0,Normal,PA,42.0,F,[],1024,1024,1.0
+933d6c77-4ac2-436a-ae58-6ae0f49fd8c3,images/933d6c77-4ac2-436a-ae58-6ae0f49fd8c3.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.40374345
+e6cddc69-9244-4500-b926-d4bcb4c2c3f7,images/e6cddc69-9244-4500-b926-d4bcb4c2c3f7.png,0,Normal,PA,58.0,M,[],1024,1024,0.99486864
+ec930249-0161-46b6-9ba5-4964e066bce3,images/ec930249-0161-46b6-9ba5-4964e066bce3.png,0,No Lung Opacity / Not Normal,PA,36.0,M,[],1024,1024,0.99999857
+afa5b7eb-938a-4c84-ad90-0ea94ffa6878,images/afa5b7eb-938a-4c84-ad90-0ea94ffa6878.png,0,Normal,PA,53.0,F,[],1024,1024,0.030546969
+fc851d76-9c6c-40ec-b06c-ef7bb6820571,images/fc851d76-9c6c-40ec-b06c-ef7bb6820571.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.9999212
+1a32542e-bc47-4703-82a7-d88bedc8c07d,images/1a32542e-bc47-4703-82a7-d88bedc8c07d.png,1,Lung Opacity,PA,52.0,F,"[[219.0, 300.0, 161.0, 174.0], [622.0, 411.0, 217.0, 103.0]]",1024,1024,0.9999999
+589d16d1-77af-4dea-aea0-4455c5d86058,images/589d16d1-77af-4dea-aea0-4455c5d86058.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.6573268
+eb832732-4c11-4126-bb10-f95eb61608bc,images/eb832732-4c11-4126-bb10-f95eb61608bc.png,0,Normal,PA,27.0,F,[],1024,1024,0.9996896
+a1590997-689f-4fb1-996e-823c8dfd4cc7,images/a1590997-689f-4fb1-996e-823c8dfd4cc7.png,0,No Lung Opacity / Not Normal,PA,73.0,F,[],1024,1024,0.9986436
+ade2b6b7-5ee9-4480-844c-5eb07e2c08fc,images/ade2b6b7-5ee9-4480-844c-5eb07e2c08fc.png,1,Lung Opacity,PA,68.0,M,"[[605.0, 181.0, 284.0, 597.0], [123.0, 67.0, 271.0, 628.0]]",1024,1024,0.99990034
+f8a1abfb-bce3-495e-b0e4-ded21381efcb,images/f8a1abfb-bce3-495e-b0e4-ded21381efcb.png,0,No Lung Opacity / Not Normal,PA,47.0,M,[],1024,1024,0.99999857
+15aea21f-d48e-465b-a48d-fb7e4072dcaa,images/15aea21f-d48e-465b-a48d-fb7e4072dcaa.png,0,No Lung Opacity / Not Normal,PA,35.0,F,[],1024,1024,0.0022025513
+b49587fd-c948-456d-a393-f6c186978507,images/b49587fd-c948-456d-a393-f6c186978507.png,0,Normal,PA,19.0,M,[],1024,1024,0.1297713
+ecb8a185-f83a-45bf-b799-e280a0dc8e6c,images/ecb8a185-f83a-45bf-b799-e280a0dc8e6c.png,0,Normal,PA,44.0,M,[],1024,1024,0.06222015
+075ba3ee-9545-4f5b-8d97-e6d0ffd57e3b,images/075ba3ee-9545-4f5b-8d97-e6d0ffd57e3b.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.003389495
+e43ae173-2a08-44bb-a304-4a35bac2cd28,images/e43ae173-2a08-44bb-a304-4a35bac2cd28.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.74119115
+53bae9fc-3bb2-4684-b986-84bf7aa2e5a2,images/53bae9fc-3bb2-4684-b986-84bf7aa2e5a2.png,0,Normal,PA,69.0,F,[],1024,1024,0.99945194
+62ec09ed-1610-4e22-91f1-dab682d5c2cc,images/62ec09ed-1610-4e22-91f1-dab682d5c2cc.png,0,Normal,PA,29.0,F,[],1024,1024,0.9994942
+83027ad0-2098-4d3c-a8c3-8f89a8addc39,images/83027ad0-2098-4d3c-a8c3-8f89a8addc39.png,0,Normal,PA,23.0,M,[],1024,1024,0.98301226
+439e1c42-2ec3-464b-81b4-870e2aee5ba8,images/439e1c42-2ec3-464b-81b4-870e2aee5ba8.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.99850214
+7e2b8ceb-9db2-4159-9e63-96d734dd1218,images/7e2b8ceb-9db2-4159-9e63-96d734dd1218.png,1,Lung Opacity,PA,26.0,M,"[[264.0, 355.0, 192.0, 419.0]]",1024,1024,0.99977094
+60f096a6-8c30-4796-9592-1ac0d82e9bad,images/60f096a6-8c30-4796-9592-1ac0d82e9bad.png,0,No Lung Opacity / Not Normal,PA,72.0,M,[],1024,1024,0.99986994
+4f51a2b4-7d55-4789-a420-e657110ba494,images/4f51a2b4-7d55-4789-a420-e657110ba494.png,0,No Lung Opacity / Not Normal,PA,54.0,M,[],1024,1024,0.81133664
+06ba1322-0274-47e0-b7eb-07c11d96360f,images/06ba1322-0274-47e0-b7eb-07c11d96360f.png,0,Normal,PA,53.0,M,[],1024,1024,0.999097
+bfa3ad39-fdf3-4ce5-b658-e12bb50dace9,images/bfa3ad39-fdf3-4ce5-b658-e12bb50dace9.png,0,No Lung Opacity / Not Normal,PA,83.0,M,[],1024,1024,0.00045439473
+a7e291af-addc-427c-bd14-7406bd4cfe13,images/a7e291af-addc-427c-bd14-7406bd4cfe13.png,0,No Lung Opacity / Not Normal,PA,38.0,M,[],1024,1024,0.999997
+11ff35a5-51dc-41d7-afe1-588ff59cbc4b,images/11ff35a5-51dc-41d7-afe1-588ff59cbc4b.png,1,Lung Opacity,PA,55.0,M,"[[640.0, 352.0, 196.0, 363.0], [192.0, 439.0, 287.0, 229.0]]",1024,1024,0.52327317
+f9663bae-690a-43c4-bfee-e4bf84622407,images/f9663bae-690a-43c4-bfee-e4bf84622407.png,0,Normal,PA,61.0,M,[],1024,1024,0.9998735
+b12523d2-5618-4e33-9ad3-d1e77a9c9fcf,images/b12523d2-5618-4e33-9ad3-d1e77a9c9fcf.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.821348
+9a7493e4-4a5b-4fcd-a3bb-13e724d02ace,images/9a7493e4-4a5b-4fcd-a3bb-13e724d02ace.png,0,Normal,PA,34.0,M,[],1024,1024,0.9999902
+1d7876e7-2229-41a4-b6f5-0ead284ed611,images/1d7876e7-2229-41a4-b6f5-0ead284ed611.png,1,Lung Opacity,PA,32.0,F,"[[189.0, 514.0, 174.0, 105.0]]",1024,1024,0.008332981
+df1179b1-ff4d-4f34-9768-a4abccea5f8b,images/df1179b1-ff4d-4f34-9768-a4abccea5f8b.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.8784477
+f0f1a4b9-07e0-4686-8e62-fad442735516,images/f0f1a4b9-07e0-4686-8e62-fad442735516.png,0,Normal,PA,23.0,M,[],1024,1024,0.999936
+398cd60c-17b9-44bc-8547-5cb6b6dad714,images/398cd60c-17b9-44bc-8547-5cb6b6dad714.png,1,Lung Opacity,PA,55.0,F,"[[223.0, 542.0, 183.0, 133.0]]",1024,1024,0.010343839
+9efa04ab-254a-4047-8f2f-91e5fe93062f,images/9efa04ab-254a-4047-8f2f-91e5fe93062f.png,1,Lung Opacity,PA,43.0,M,"[[584.0, 171.0, 223.0, 236.0], [175.0, 230.0, 256.0, 274.0]]",1024,1024,0.99861324
+ca51e6f6-c3ed-41ab-bf85-6efd3aac966c,images/ca51e6f6-c3ed-41ab-bf85-6efd3aac966c.png,0,No Lung Opacity / Not Normal,PA,52.0,F,[],1024,1024,0.12830886
+502edb24-9dce-4a26-ad3b-4efa7eaa2a9e,images/502edb24-9dce-4a26-ad3b-4efa7eaa2a9e.png,0,No Lung Opacity / Not Normal,PA,38.0,M,[],1024,1024,0.9997156
+8ddd4aaf-983e-4a98-9cc3-b275887b95e5,images/8ddd4aaf-983e-4a98-9cc3-b275887b95e5.png,0,Normal,PA,71.0,F,[],1024,1024,0.999987
+112bf6f9-0ac8-4ca0-a84b-ea29811fd871,images/112bf6f9-0ac8-4ca0-a84b-ea29811fd871.png,1,Lung Opacity,PA,59.0,F,"[[144.0, 243.0, 279.0, 563.0], [584.0, 233.0, 274.0, 514.0]]",1024,1024,0.9607765
+6293bf2f-7dbe-4676-9f55-70682922fd4f,images/6293bf2f-7dbe-4676-9f55-70682922fd4f.png,0,No Lung Opacity / Not Normal,PA,76.0,M,[],1024,1024,0.9991111
+49b4c195-df32-427a-ac69-b13d798b634b,images/49b4c195-df32-427a-ac69-b13d798b634b.png,0,No Lung Opacity / Not Normal,PA,17.0,M,[],1024,1024,0.9835802
+3c3d0e93-09f0-4be5-9fc9-5f0f3efda96b,images/3c3d0e93-09f0-4be5-9fc9-5f0f3efda96b.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.1223138
+9c48549b-ff3c-4009-b132-26a8c2c50cf5,images/9c48549b-ff3c-4009-b132-26a8c2c50cf5.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,1.0
+df86ce3a-571e-424c-b9bf-1d308a807c6b,images/df86ce3a-571e-424c-b9bf-1d308a807c6b.png,0,Normal,PA,40.0,F,[],1024,1024,0.9480801
+3295c5b1-e285-407e-93c3-13f9fd636276,images/3295c5b1-e285-407e-93c3-13f9fd636276.png,0,No Lung Opacity / Not Normal,PA,19.0,M,[],1024,1024,0.9976261
+09fab84b-19f3-42e1-9c90-69a49b7b37d6,images/09fab84b-19f3-42e1-9c90-69a49b7b37d6.png,0,Normal,PA,33.0,F,[],1024,1024,0.999972
+c76522dc-630a-4cc9-a2b7-bc7f21c91f4d,images/c76522dc-630a-4cc9-a2b7-bc7f21c91f4d.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.9742734
+b75b2b8b-971d-4eb6-8b4e-f87a659024d3,images/b75b2b8b-971d-4eb6-8b4e-f87a659024d3.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.99999726
+199ad34d-2478-4948-9f8b-91889c0a4c01,images/199ad34d-2478-4948-9f8b-91889c0a4c01.png,0,Normal,PA,24.0,M,[],1024,1024,0.74520534
+50bb14cb-2a07-475c-8564-56e306d60e83,images/50bb14cb-2a07-475c-8564-56e306d60e83.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.850274
+bf294753-f056-49b4-9aab-a486265a98bb,images/bf294753-f056-49b4-9aab-a486265a98bb.png,1,Lung Opacity,PA,37.0,M,"[[649.0, 291.0, 94.0, 168.0], [217.0, 392.0, 230.0, 277.0]]",1024,1024,0.99746656
+8448316b-3072-4d30-a9d1-cf0b32473fb0,images/8448316b-3072-4d30-a9d1-cf0b32473fb0.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.99992585
+5f557e98-3d6d-46e0-9a0a-40c6da8a3266,images/5f557e98-3d6d-46e0-9a0a-40c6da8a3266.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,0.0028050467
+8cd997ae-cf8b-4fc1-891f-115c502da6db,images/8cd997ae-cf8b-4fc1-891f-115c502da6db.png,0,Normal,PA,65.0,M,[],1024,1024,0.92853487
+163aa468-b519-4109-85ac-58b46a5b8bf7,images/163aa468-b519-4109-85ac-58b46a5b8bf7.png,0,Normal,PA,30.0,M,[],1024,1024,0.0044405605
+5dbc1cfe-7caa-44e3-adb4-fb66694275c3,images/5dbc1cfe-7caa-44e3-adb4-fb66694275c3.png,0,No Lung Opacity / Not Normal,PA,25.0,M,[],1024,1024,0.9995846
+a715e748-ddc3-476d-8650-d8173b5bb897,images/a715e748-ddc3-476d-8650-d8173b5bb897.png,0,No Lung Opacity / Not Normal,PA,63.0,F,[],1024,1024,0.00021199851
+984afed3-af7c-45d3-b202-4788f9522b28,images/984afed3-af7c-45d3-b202-4788f9522b28.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.18332732
+7d3f01b0-1283-49f8-94f9-17d751a8b3a9,images/7d3f01b0-1283-49f8-94f9-17d751a8b3a9.png,0,Normal,PA,30.0,M,[],1024,1024,0.9999882
+636c69a8-5df4-43a5-b723-fd6372cf7f89,images/636c69a8-5df4-43a5-b723-fd6372cf7f89.png,1,Lung Opacity,PA,33.0,M,"[[633.0, 374.0, 128.0, 178.0]]",1024,1024,0.38900775
+c7cea557-31d9-42a6-8177-4a0e4b8ec7c4,images/c7cea557-31d9-42a6-8177-4a0e4b8ec7c4.png,0,No Lung Opacity / Not Normal,PA,45.0,F,[],1024,1024,0.8759449
+99fdf5c0-bb42-4273-9e3e-3f7a23077a0b,images/99fdf5c0-bb42-4273-9e3e-3f7a23077a0b.png,0,No Lung Opacity / Not Normal,PA,74.0,M,[],1024,1024,0.9999943
+80c28f3e-bbf1-44db-a4e0-cd8d6411dd62,images/80c28f3e-bbf1-44db-a4e0-cd8d6411dd62.png,0,Normal,PA,32.0,F,[],1024,1024,0.996761
+43cc99ab-f27c-4fa1-8f6c-3f28a2eb102e,images/43cc99ab-f27c-4fa1-8f6c-3f28a2eb102e.png,0,No Lung Opacity / Not Normal,PA,46.0,M,[],1024,1024,0.93136334
+727363de-e983-48c7-b73b-7eb58f68ccc0,images/727363de-e983-48c7-b73b-7eb58f68ccc0.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.0076075043
+1555c17d-994a-4400-b62b-4b53fc727da3,images/1555c17d-994a-4400-b62b-4b53fc727da3.png,1,Lung Opacity,PA,22.0,F,"[[610.0, 494.0, 229.0, 181.0]]",1024,1024,0.3026728
+fda9946c-adac-4be9-a57d-c1ee75887c3c,images/fda9946c-adac-4be9-a57d-c1ee75887c3c.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.99691075
+58aaec2f-31f1-42f3-964f-815347480fb6,images/58aaec2f-31f1-42f3-964f-815347480fb6.png,1,Lung Opacity,PA,49.0,F,"[[273.0, 550.0, 139.0, 146.0]]",1024,1024,0.91551644
+9ebb860f-63cf-44e6-942c-3be9602ce179,images/9ebb860f-63cf-44e6-942c-3be9602ce179.png,0,No Lung Opacity / Not Normal,PA,68.0,F,[],1024,1024,0.815283
+75549b2e-abb7-4a62-9af2-76ae403818b2,images/75549b2e-abb7-4a62-9af2-76ae403818b2.png,0,No Lung Opacity / Not Normal,PA,19.0,M,[],1024,1024,0.054979306
+111c91e5-d8e8-4766-ac1c-04256d494b73,images/111c91e5-d8e8-4766-ac1c-04256d494b73.png,0,No Lung Opacity / Not Normal,PA,42.0,M,[],1024,1024,2.1642778e-05
+b0eecb36-25c6-45fb-b61c-f0c1a7793a67,images/b0eecb36-25c6-45fb-b61c-f0c1a7793a67.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.9996438
+17aeadce-6ff0-425b-83ab-2bebabd40cad,images/17aeadce-6ff0-425b-83ab-2bebabd40cad.png,0,No Lung Opacity / Not Normal,PA,60.0,F,[],1024,1024,0.99999976
+de74b415-c6cb-40de-8f17-4d9f363bd752,images/de74b415-c6cb-40de-8f17-4d9f363bd752.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.22615378
+c20d2fc9-39c8-4907-bab8-9acd583be0f3,images/c20d2fc9-39c8-4907-bab8-9acd583be0f3.png,0,Normal,PA,28.0,F,[],1024,1024,0.0059626256
+f70553b5-ee4f-45f4-a023-0d696aeedffe,images/f70553b5-ee4f-45f4-a023-0d696aeedffe.png,0,No Lung Opacity / Not Normal,PA,33.0,F,[],1024,1024,0.9317639
+6ca7f663-f2ea-467c-baeb-7662614b3484,images/6ca7f663-f2ea-467c-baeb-7662614b3484.png,1,Lung Opacity,PA,22.0,M,"[[178.0, 376.0, 267.0, 343.0], [599.0, 535.0, 250.0, 194.0]]",1024,1024,1.0
+9ddf1e98-5f30-496e-9c50-5db659effe2a,images/9ddf1e98-5f30-496e-9c50-5db659effe2a.png,0,No Lung Opacity / Not Normal,PA,31.0,F,[],1024,1024,0.065176904
+cea16ea8-3df0-4451-ab83-26616ec0dab4,images/cea16ea8-3df0-4451-ab83-26616ec0dab4.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.9974769
+fd7fbc4b-6bdd-47ca-90cc-48be40f1c089,images/fd7fbc4b-6bdd-47ca-90cc-48be40f1c089.png,0,No Lung Opacity / Not Normal,PA,86.0,F,[],1024,1024,0.01607429
+65cce42a-a48d-4f0b-a7f1-15315afef5d2,images/65cce42a-a48d-4f0b-a7f1-15315afef5d2.png,0,Normal,PA,17.0,M,[],1024,1024,0.019928625
+30258414-64e5-43d9-94bf-b6e175b91542,images/30258414-64e5-43d9-94bf-b6e175b91542.png,0,Normal,PA,32.0,F,[],1024,1024,0.9997167
+86a1e3da-0316-4d88-88d6-0ffa314b3a35,images/86a1e3da-0316-4d88-88d6-0ffa314b3a35.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.99947315
+8dad1a61-dbab-4f1b-a71f-a0a9237b0e2a,images/8dad1a61-dbab-4f1b-a71f-a0a9237b0e2a.png,0,No Lung Opacity / Not Normal,PA,83.0,M,[],1024,1024,0.9972633
+54349eeb-01dd-4ddd-9f9b-f74d28a37524,images/54349eeb-01dd-4ddd-9f9b-f74d28a37524.png,0,No Lung Opacity / Not Normal,PA,75.0,F,[],1024,1024,0.99998367
+4d5bf1c7-fd16-4791-a5a2-cc2175030d94,images/4d5bf1c7-fd16-4791-a5a2-cc2175030d94.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.6068576
+a37e89b4-7aa4-42f0-969f-f92816142442,images/a37e89b4-7aa4-42f0-969f-f92816142442.png,1,Lung Opacity,PA,52.0,F,"[[641.0, 425.0, 176.0, 150.0]]",1024,1024,0.0011228278
+804249b1-2260-408b-9aaf-3f2e3eeae93f,images/804249b1-2260-408b-9aaf-3f2e3eeae93f.png,1,Lung Opacity,PA,50.0,M,"[[274.0, 515.0, 152.0, 147.0]]",1024,1024,0.9997842
+5a9a53b5-6ba4-4923-b7dd-c879e568c7c1,images/5a9a53b5-6ba4-4923-b7dd-c879e568c7c1.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.16350447
+63b85801-c49d-4912-8912-540f737db383,images/63b85801-c49d-4912-8912-540f737db383.png,0,Normal,PA,8.0,M,[],1024,1024,0.022772988
+5c69e1bc-d3a6-43bf-a8e7-b5ff368f331f,images/5c69e1bc-d3a6-43bf-a8e7-b5ff368f331f.png,0,No Lung Opacity / Not Normal,PA,52.0,M,[],1024,1024,0.1527152
+8008f996-bee6-4ed5-b861-6f7de7b59f2c,images/8008f996-bee6-4ed5-b861-6f7de7b59f2c.png,0,Normal,PA,52.0,F,[],1024,1024,0.99988484
+47f592f3-6a04-4859-b019-9150768abc69,images/47f592f3-6a04-4859-b019-9150768abc69.png,0,No Lung Opacity / Not Normal,PA,70.0,M,[],1024,1024,0.9748045
+4bb49620-1d08-4f45-a92d-74d1b47bc7b7,images/4bb49620-1d08-4f45-a92d-74d1b47bc7b7.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9927758
+c2c9dcb4-8cd1-4dd0-b5c5-dc1ddc55f7b6,images/c2c9dcb4-8cd1-4dd0-b5c5-dc1ddc55f7b6.png,0,Normal,PA,45.0,M,[],1024,1024,0.13989824
+c5341086-32e9-4904-ac1d-5efdffd26680,images/c5341086-32e9-4904-ac1d-5efdffd26680.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.97396886
+36deb0a8-4845-4610-88a1-5ba66039f00c,images/36deb0a8-4845-4610-88a1-5ba66039f00c.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.20915274
+aefd1f1f-8310-45d2-8d92-5f9a6c3e4756,images/aefd1f1f-8310-45d2-8d92-5f9a6c3e4756.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.9999994
+0ed69049-8906-4b90-8841-727a7716c42b,images/0ed69049-8906-4b90-8841-727a7716c42b.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.99983895
+f0406bab-d83d-4a90-9f0d-8dcb6992740c,images/f0406bab-d83d-4a90-9f0d-8dcb6992740c.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,0.00050045055
+6ceaefb5-278d-4f7e-ba4f-0715d6fbb2a8,images/6ceaefb5-278d-4f7e-ba4f-0715d6fbb2a8.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.999655
+9089d4a8-bb7a-4090-b7fc-f8954bd3318b,images/9089d4a8-bb7a-4090-b7fc-f8954bd3318b.png,0,Normal,PA,54.0,F,[],1024,1024,0.9891123
+914a6efd-0a20-4202-9059-12cee1d9643f,images/914a6efd-0a20-4202-9059-12cee1d9643f.png,0,Normal,PA,38.0,M,[],1024,1024,1.0
+43d0854c-a7f1-4901-addc-fa88cecf99d5,images/43d0854c-a7f1-4901-addc-fa88cecf99d5.png,0,No Lung Opacity / Not Normal,PA,42.0,F,[],1024,1024,0.1945918
+2152d0ec-5d28-4b15-bb45-422e110aad20,images/2152d0ec-5d28-4b15-bb45-422e110aad20.png,0,No Lung Opacity / Not Normal,PA,55.0,M,[],1024,1024,1.0
+9c3ef41b-2831-4cf7-9e3a-f7a5d976b34a,images/9c3ef41b-2831-4cf7-9e3a-f7a5d976b34a.png,0,No Lung Opacity / Not Normal,PA,32.0,M,[],1024,1024,0.9652487
+8cb60caf-4252-4a22-8417-142b13ceff79,images/8cb60caf-4252-4a22-8417-142b13ceff79.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,3.4069006e-05
+095aecad-1618-4b23-b7b9-342c25c4666b,images/095aecad-1618-4b23-b7b9-342c25c4666b.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.9995486
+e5412f84-f565-465b-92a6-580ddbda0d73,images/e5412f84-f565-465b-92a6-580ddbda0d73.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,0.11087966
+63d4d8a1-3747-4f00-9d64-e2f9b700b07f,images/63d4d8a1-3747-4f00-9d64-e2f9b700b07f.png,0,Normal,PA,51.0,M,[],1024,1024,0.27224988
+3343048f-3d87-46e3-a22c-95ad7f0fa46c,images/3343048f-3d87-46e3-a22c-95ad7f0fa46c.png,0,No Lung Opacity / Not Normal,PA,28.0,F,[],1024,1024,0.9999887
+e862c6c9-71fd-45cf-b589-7714124d7462,images/e862c6c9-71fd-45cf-b589-7714124d7462.png,0,Normal,PA,60.0,M,[],1024,1024,0.00015937565
+ae2732a0-84b0-415e-93e2-bc78da6db59e,images/ae2732a0-84b0-415e-93e2-bc78da6db59e.png,0,No Lung Opacity / Not Normal,PA,77.0,F,[],1024,1024,0.9999858
+0f712b0f-1966-40e9-a66a-1025198a6966,images/0f712b0f-1966-40e9-a66a-1025198a6966.png,0,No Lung Opacity / Not Normal,PA,63.0,M,[],1024,1024,0.6639988
+4b6cf439-a0a3-485f-8de9-950ee632cbca,images/4b6cf439-a0a3-485f-8de9-950ee632cbca.png,0,Normal,PA,69.0,M,[],1024,1024,0.99876654
+bc6a8cf6-bc9a-4be0-b3bb-4e5256d91040,images/bc6a8cf6-bc9a-4be0-b3bb-4e5256d91040.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.99997365
+0637b804-e693-48d1-8716-f7c63ce6162a,images/0637b804-e693-48d1-8716-f7c63ce6162a.png,1,Lung Opacity,PA,70.0,M,"[[507.0, 109.0, 344.0, 808.0]]",1024,1024,0.99265254
+75327d2c-054e-4cdf-ba41-043a9fc78d60,images/75327d2c-054e-4cdf-ba41-043a9fc78d60.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.45412678
+8dfb32ac-ff76-4f27-bc81-37d295f6ddbd,images/8dfb32ac-ff76-4f27-bc81-37d295f6ddbd.png,0,No Lung Opacity / Not Normal,PA,75.0,F,[],1024,1024,0.30278876
+53bc0058-e16e-4102-8f5a-ed2ea73bf534,images/53bc0058-e16e-4102-8f5a-ed2ea73bf534.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,0.9188855
+53b4926c-b9f7-4f84-9317-3d3b8c083698,images/53b4926c-b9f7-4f84-9317-3d3b8c083698.png,0,No Lung Opacity / Not Normal,PA,66.0,F,[],1024,1024,0.05101815
+356ee7e1-8e13-48f4-818c-52f93d0f7aec,images/356ee7e1-8e13-48f4-818c-52f93d0f7aec.png,0,No Lung Opacity / Not Normal,PA,81.0,F,[],1024,1024,0.00069913594
+e03af9b0-0d2e-4cc3-b6b3-c3762bbdcf12,images/e03af9b0-0d2e-4cc3-b6b3-c3762bbdcf12.png,0,Normal,PA,63.0,M,[],1024,1024,0.97844887
+d0eb2e37-45d9-4e99-8297-4f37a9196ddf,images/d0eb2e37-45d9-4e99-8297-4f37a9196ddf.png,0,No Lung Opacity / Not Normal,PA,44.0,M,[],1024,1024,0.9999963
+968e2791-c13d-4d4d-bc98-223bb4302f3f,images/968e2791-c13d-4d4d-bc98-223bb4302f3f.png,0,No Lung Opacity / Not Normal,PA,22.0,M,[],1024,1024,0.99991965
+8e45322d-653e-43a9-8698-fb81595084eb,images/8e45322d-653e-43a9-8698-fb81595084eb.png,0,No Lung Opacity / Not Normal,PA,28.0,M,[],1024,1024,0.9257676
+fd26330c-9f86-4913-af67-00ba521cd1b4,images/fd26330c-9f86-4913-af67-00ba521cd1b4.png,0,No Lung Opacity / Not Normal,PA,30.0,F,[],1024,1024,0.97881854
+d1b82a68-d825-4d3a-8580-645614eaf16c,images/d1b82a68-d825-4d3a-8580-645614eaf16c.png,0,No Lung Opacity / Not Normal,PA,36.0,F,[],1024,1024,0.9994574
+cb1322af-160e-4486-bcff-a7e72fba2ee4,images/cb1322af-160e-4486-bcff-a7e72fba2ee4.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.034161195
+2c43c983-3fb6-4110-87d4-a282af171b69,images/2c43c983-3fb6-4110-87d4-a282af171b69.png,0,Normal,PA,38.0,F,[],1024,1024,0.3709192
+32d8e2d5-48f4-4ae8-ab21-bb48924bc850,images/32d8e2d5-48f4-4ae8-ab21-bb48924bc850.png,0,No Lung Opacity / Not Normal,PA,39.0,M,[],1024,1024,0.92245424
+fefe9ff5-ec06-43bb-a70a-8a7b4b16b3bd,images/fefe9ff5-ec06-43bb-a70a-8a7b4b16b3bd.png,0,No Lung Opacity / Not Normal,PA,71.0,M,[],1024,1024,0.9736077
+a8f16478-b36a-4bc9-ac8a-75477d8ea168,images/a8f16478-b36a-4bc9-ac8a-75477d8ea168.png,0,No Lung Opacity / Not Normal,PA,5.0,F,[],1024,1024,0.0008405869
+e8323241-6935-41d0-a3af-5650efd67fe0,images/e8323241-6935-41d0-a3af-5650efd67fe0.png,0,No Lung Opacity / Not Normal,PA,67.0,F,[],1024,1024,0.99999964
+c4d45255-9719-43d8-a795-2fa36666cb2a,images/c4d45255-9719-43d8-a795-2fa36666cb2a.png,0,No Lung Opacity / Not Normal,PA,73.0,M,[],1024,1024,0.99646795
+e02e0031-7d4a-4f89-baf9-db0f07952ca8,images/e02e0031-7d4a-4f89-baf9-db0f07952ca8.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,0.9975368
+4240c194-667f-498b-989f-ae7bd19e68a0,images/4240c194-667f-498b-989f-ae7bd19e68a0.png,1,Lung Opacity,PA,57.0,M,"[[185.0, 292.0, 300.0, 422.0]]",1024,1024,0.9999995
+d1027667-a69d-42be-bf68-55cd04739347,images/d1027667-a69d-42be-bf68-55cd04739347.png,0,No Lung Opacity / Not Normal,PA,33.0,F,[],1024,1024,0.9999988
+907702e1-0669-4e47-ac16-941ce5a15dca,images/907702e1-0669-4e47-ac16-941ce5a15dca.png,0,No Lung Opacity / Not Normal,PA,33.0,F,[],1024,1024,0.99873537
+b3ca76ce-6f5e-466d-95ca-e7402f7c838b,images/b3ca76ce-6f5e-466d-95ca-e7402f7c838b.png,0,No Lung Opacity / Not Normal,PA,54.0,F,[],1024,1024,0.5795992
+66b1b408-1ce8-44d6-85ef-052e692d313c,images/66b1b408-1ce8-44d6-85ef-052e692d313c.png,0,Normal,PA,28.0,F,[],1024,1024,0.0006653059
+6bbaf85d-e321-4e84-9524-4859004a661c,images/6bbaf85d-e321-4e84-9524-4859004a661c.png,0,Normal,PA,31.0,F,[],1024,1024,0.99999535
+4245f9a9-94fd-4cc5-8df3-0f0c3f9d33d2,images/4245f9a9-94fd-4cc5-8df3-0f0c3f9d33d2.png,0,No Lung Opacity / Not Normal,PA,45.0,F,[],1024,1024,0.99999654
+50059823-7c93-4f6f-b1e5-e3ce3351b4df,images/50059823-7c93-4f6f-b1e5-e3ce3351b4df.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.9999975
+5f120f4d-841e-4716-b622-633ff6c16672,images/5f120f4d-841e-4716-b622-633ff6c16672.png,0,No Lung Opacity / Not Normal,PA,39.0,F,[],1024,1024,0.9999943
+d58a922b-97c8-4ee8-ad84-1c4c6c883c86,images/d58a922b-97c8-4ee8-ad84-1c4c6c883c86.png,1,Lung Opacity,PA,34.0,M,"[[243.0, 537.0, 160.0, 96.0]]",1024,1024,0.9999893
+78fe9142-9b8a-4200-9b2d-129a4e30e7ec,images/78fe9142-9b8a-4200-9b2d-129a4e30e7ec.png,0,Normal,PA,39.0,M,[],1024,1024,0.63999814
+81785a74-18ad-49ba-92c6-e570b0d4ce57,images/81785a74-18ad-49ba-92c6-e570b0d4ce57.png,1,Lung Opacity,PA,21.0,M,"[[199.0, 410.0, 203.0, 227.0]]",1024,1024,0.99891806
+f693f17f-613f-4eec-8076-32b3d957557f,images/f693f17f-613f-4eec-8076-32b3d957557f.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.33930907
+eba7d0e4-62ab-4ee9-b63f-3ceef9829e72,images/eba7d0e4-62ab-4ee9-b63f-3ceef9829e72.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,0.027171312
+cba75100-b006-4542-9e15-d16a73287cc4,images/cba75100-b006-4542-9e15-d16a73287cc4.png,0,No Lung Opacity / Not Normal,PA,30.0,F,[],1024,1024,0.9986563
+0da20cef-4860-4363-b83f-eaa0522c0aab,images/0da20cef-4860-4363-b83f-eaa0522c0aab.png,0,No Lung Opacity / Not Normal,PA,38.0,M,[],1024,1024,0.9994331
+dcc2a340-323c-425d-afd5-432ed61c15a2,images/dcc2a340-323c-425d-afd5-432ed61c15a2.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.26425976
+40f55d75-0e89-4392-a32c-84ff66530a4a,images/40f55d75-0e89-4392-a32c-84ff66530a4a.png,0,No Lung Opacity / Not Normal,PA,19.0,F,[],1024,1024,0.7225177
+62c187a4-0a6b-4df6-8876-f3a45e23bb1e,images/62c187a4-0a6b-4df6-8876-f3a45e23bb1e.png,0,No Lung Opacity / Not Normal,PA,26.0,M,[],1024,1024,0.8528254
+d0898d2d-4b39-45b5-9936-016e3d162eb4,images/d0898d2d-4b39-45b5-9936-016e3d162eb4.png,0,Normal,PA,40.0,F,[],1024,1024,0.9999193
+6eb6709e-9031-41a1-a033-fdecda741b96,images/6eb6709e-9031-41a1-a033-fdecda741b96.png,0,Normal,PA,56.0,F,[],1024,1024,0.9999994
+a449d778-47a8-4edf-a90e-11edbb62ab16,images/a449d778-47a8-4edf-a90e-11edbb62ab16.png,0,No Lung Opacity / Not Normal,PA,34.0,F,[],1024,1024,0.4937325
+925e2507-76c5-4004-8326-52d030810fbd,images/925e2507-76c5-4004-8326-52d030810fbd.png,0,Normal,PA,58.0,F,[],1024,1024,0.957304
+98f7f6be-9f7a-4a57-ab13-d8dc4ba2f3eb,images/98f7f6be-9f7a-4a57-ab13-d8dc4ba2f3eb.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.99999595
+1b167f33-a18a-4aab-8a29-2a9d1d41c054,images/1b167f33-a18a-4aab-8a29-2a9d1d41c054.png,1,Lung Opacity,PA,40.0,F,"[[603.0, 564.0, 184.0, 141.0]]",1024,1024,0.9999988
+b78f2713-e211-408e-a810-e0568fc0f0a0,images/b78f2713-e211-408e-a810-e0568fc0f0a0.png,1,Lung Opacity,PA,47.0,M,"[[626.0, 453.0, 205.0, 123.0], [272.0, 369.0, 184.0, 326.0]]",1024,1024,0.9998683
+eaeb935a-7294-4dd3-8bf5-73ba781d28af,images/eaeb935a-7294-4dd3-8bf5-73ba781d28af.png,0,Normal,PA,46.0,M,[],1024,1024,0.99985313
+b5ba706b-f5f7-45be-ab33-e955db947121,images/b5ba706b-f5f7-45be-ab33-e955db947121.png,0,Normal,PA,29.0,M,[],1024,1024,0.7268083
+9cb84c95-eafa-46e3-9659-63a1fb7e158d,images/9cb84c95-eafa-46e3-9659-63a1fb7e158d.png,0,No Lung Opacity / Not Normal,PA,66.0,M,[],1024,1024,0.99999774
+f2a43464-f2a3-4cb5-a4c8-b8fbe8553813,images/f2a43464-f2a3-4cb5-a4c8-b8fbe8553813.png,0,No Lung Opacity / Not Normal,PA,57.0,M,[],1024,1024,0.00030360985
+426a8a7e-a02a-43fe-aee1-b052cbf0ed57,images/426a8a7e-a02a-43fe-aee1-b052cbf0ed57.png,1,Lung Opacity,PA,48.0,M,"[[309.0, 406.0, 161.0, 250.0]]",1024,1024,0.011389938
+cb195ea7-1d1b-48ba-85ae-57d7a9288aaa,images/cb195ea7-1d1b-48ba-85ae-57d7a9288aaa.png,0,No Lung Opacity / Not Normal,PA,44.0,F,[],1024,1024,0.9996761
+5251daaa-5b65-431e-934a-cd5a75ad33d8,images/5251daaa-5b65-431e-934a-cd5a75ad33d8.png,0,No Lung Opacity / Not Normal,PA,65.0,M,[],1024,1024,0.8921822
+ddcd7ff7-bd2f-4b84-93e8-4d389f34e2f9,images/ddcd7ff7-bd2f-4b84-93e8-4d389f34e2f9.png,0,No Lung Opacity / Not Normal,PA,24.0,M,[],1024,1024,0.808563
+4b99e3a5-a6c0-46b3-b59a-10c4df80d2b5,images/4b99e3a5-a6c0-46b3-b59a-10c4df80d2b5.png,0,Normal,PA,51.0,M,[],1024,1024,0.049535125
+f7197843-6673-4364-a46c-3a783c8540e9,images/f7197843-6673-4364-a46c-3a783c8540e9.png,0,No Lung Opacity / Not Normal,PA,51.0,M,[],1024,1024,0.98149246
+0bf10e67-5532-4177-bc48-c0cb545248b4,images/0bf10e67-5532-4177-bc48-c0cb545248b4.png,0,No Lung Opacity / Not Normal,PA,51.0,F,[],1024,1024,0.004676368
+4a46ea95-0a1d-4f8e-8107-7a7ed421c2ad,images/4a46ea95-0a1d-4f8e-8107-7a7ed421c2ad.png,0,No Lung Opacity / Not Normal,PA,64.0,F,[],1024,1024,0.9745728
+aeeacc25-019f-4e78-b9e5-829c5d916fc2,images/aeeacc25-019f-4e78-b9e5-829c5d916fc2.png,0,No Lung Opacity / Not Normal,PA,62.0,F,[],1024,1024,0.7073037
+85301ae7-1db0-4667-b75b-231b74c70c28,images/85301ae7-1db0-4667-b75b-231b74c70c28.png,0,No Lung Opacity / Not Normal,PA,53.0,M,[],1024,1024,0.99521095
+c4ac804d-a939-4bda-8397-5e7b84cd9431,images/c4ac804d-a939-4bda-8397-5e7b84cd9431.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.95645887
+cbf90d22-07ba-40c0-b043-55ab73851ba3,images/cbf90d22-07ba-40c0-b043-55ab73851ba3.png,0,No Lung Opacity / Not Normal,PA,58.0,M,[],1024,1024,0.99999905
+2598d635-68d5-40a8-9229-f8f242592a0a,images/2598d635-68d5-40a8-9229-f8f242592a0a.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9999733
+596326a1-6f1c-44a6-9737-355668e6938e,images/596326a1-6f1c-44a6-9737-355668e6938e.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.6958606
+f1a16b1b-e3dd-4b75-81e8-f1d05f07f5ba,images/f1a16b1b-e3dd-4b75-81e8-f1d05f07f5ba.png,0,No Lung Opacity / Not Normal,PA,47.0,F,[],1024,1024,0.9517142
+38395193-8ed1-4d49-9f3e-4d9a2418eaed,images/38395193-8ed1-4d49-9f3e-4d9a2418eaed.png,1,Lung Opacity,PA,49.0,M,"[[209.0, 410.0, 201.0, 162.0]]",1024,1024,0.99924195
+f00c52d3-4333-4bd8-8548-c626db9c2c3f,images/f00c52d3-4333-4bd8-8548-c626db9c2c3f.png,0,No Lung Opacity / Not Normal,PA,33.0,F,[],1024,1024,0.9953029
+4f8d32f1-afd9-4679-98cf-a59820bd4848,images/4f8d32f1-afd9-4679-98cf-a59820bd4848.png,0,No Lung Opacity / Not Normal,PA,61.0,F,[],1024,1024,0.9993192
+c5e2703e-72a1-4b76-8520-047eab1e391c,images/c5e2703e-72a1-4b76-8520-047eab1e391c.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.24231324
+501826b8-9e76-4d98-a812-855d1c09e5f7,images/501826b8-9e76-4d98-a812-855d1c09e5f7.png,0,Normal,PA,28.0,M,[],1024,1024,0.003573939
+70c9a320-1095-4c41-b632-d634e2f90bab,images/70c9a320-1095-4c41-b632-d634e2f90bab.png,0,No Lung Opacity / Not Normal,PA,39.0,M,[],1024,1024,0.9999242
+efcd8f7a-b135-4be7-8af5-56ae553d1ab9,images/efcd8f7a-b135-4be7-8af5-56ae553d1ab9.png,0,No Lung Opacity / Not Normal,PA,61.0,M,[],1024,1024,0.010594724
+d7c27a89-a0f7-4c00-aedf-469a6ae9cf59,images/d7c27a89-a0f7-4c00-aedf-469a6ae9cf59.png,0,No Lung Opacity / Not Normal,PA,56.0,M,[],1024,1024,0.9999957
+9efc0b02-fac6-434a-92c8-23532b871175,images/9efc0b02-fac6-434a-92c8-23532b871175.png,0,Normal,PA,71.0,M,[],1024,1024,0.021542104
+e474a668-922e-476f-a640-2f5d4bc9e981,images/e474a668-922e-476f-a640-2f5d4bc9e981.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.99999785
+c391591b-0083-4063-a485-69b0c7e02ebe,images/c391591b-0083-4063-a485-69b0c7e02ebe.png,1,Lung Opacity,PA,38.0,F,"[[196.0, 387.0, 200.0, 187.0], [584.0, 300.0, 179.0, 176.0]]",1024,1024,0.74132407
+19b7a326-bfcf-4ba1-818a-62faec88e01f,images/19b7a326-bfcf-4ba1-818a-62faec88e01f.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,0.7741394
+a4dc58a9-5497-4357-93e7-9ea129005134,images/a4dc58a9-5497-4357-93e7-9ea129005134.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.5100892
+a75e8b4b-4e89-4648-bdf2-4776fc865646,images/a75e8b4b-4e89-4648-bdf2-4776fc865646.png,0,Normal,PA,54.0,M,[],1024,1024,0.7566709
+0c77d941-5f63-4e2a-9c1e-4a58043acd55,images/0c77d941-5f63-4e2a-9c1e-4a58043acd55.png,1,Lung Opacity,PA,49.0,F,"[[582.0, 315.0, 358.0, 232.0]]",1024,1024,0.3754828
+bdb01bbd-59a9-4f7b-abb7-d150e6338299,images/bdb01bbd-59a9-4f7b-abb7-d150e6338299.png,0,No Lung Opacity / Not Normal,PA,16.0,F,[],1024,1024,0.999998
+83f6a107-fee3-4139-9da5-2b3a1241ac7c,images/83f6a107-fee3-4139-9da5-2b3a1241ac7c.png,0,No Lung Opacity / Not Normal,PA,46.0,F,[],1024,1024,0.99984014
+43e034fb-4f9c-4c7e-ae46-abfee29fbc22,images/43e034fb-4f9c-4c7e-ae46-abfee29fbc22.png,0,No Lung Opacity / Not Normal,PA,64.0,M,[],1024,1024,0.99999917
+ef3804ed-e5e2-46db-96d5-4748ac36a15b,images/ef3804ed-e5e2-46db-96d5-4748ac36a15b.png,0,No Lung Opacity / Not Normal,PA,31.0,F,[],1024,1024,0.99999714
+3ee3b4b5-b782-4f60-bf1f-b62589e573e8,images/3ee3b4b5-b782-4f60-bf1f-b62589e573e8.png,1,Lung Opacity,PA,49.0,M,"[[615.0, 463.0, 234.0, 269.0], [228.0, 645.0, 153.0, 117.0]]",1024,1024,0.99963117
+055fde50-adad-457e-9672-05c8ea1533f5,images/055fde50-adad-457e-9672-05c8ea1533f5.png,0,No Lung Opacity / Not Normal,PA,21.0,M,[],1024,1024,0.87770253
+32db1348-d6f7-4512-a4ba-49415004d3b0,images/32db1348-d6f7-4512-a4ba-49415004d3b0.png,0,No Lung Opacity / Not Normal,PA,56.0,F,[],1024,1024,0.99442875
+8365429f-9f70-4967-85f7-e425913820f7,images/8365429f-9f70-4967-85f7-e425913820f7.png,0,No Lung Opacity / Not Normal,PA,35.0,F,[],1024,1024,0.63316435
+15741dba-9bd7-469c-acfc-fb563112ee39,images/15741dba-9bd7-469c-acfc-fb563112ee39.png,1,Lung Opacity,PA,52.0,F,"[[766.0, 314.0, 105.0, 119.0]]",1024,1024,0.8001289
+a95a29b0-7b27-43b8-b211-1afda44a8ceb,images/a95a29b0-7b27-43b8-b211-1afda44a8ceb.png,0,No Lung Opacity / Not Normal,PA,71.0,M,[],1024,1024,0.99963486
+baccc2b6-a7d5-4d89-a110-932adaa6a9ba,images/baccc2b6-a7d5-4d89-a110-932adaa6a9ba.png,1,Lung Opacity,PA,26.0,M,"[[129.0, 300.0, 317.0, 458.0]]",1024,1024,0.1790699
+d8cf8e37-9ba7-47ea-9e78-0c635e550583,images/d8cf8e37-9ba7-47ea-9e78-0c635e550583.png,0,No Lung Opacity / Not Normal,PA,40.0,M,[],1024,1024,0.99407226
+695d57d2-fae3-471c-a0cb-a5950b25dc5a,images/695d57d2-fae3-471c-a0cb-a5950b25dc5a.png,0,Normal,PA,50.0,F,[],1024,1024,0.99984884
+52612351-34e1-426b-b5f8-81a66b6f8f55,images/52612351-34e1-426b-b5f8-81a66b6f8f55.png,0,No Lung Opacity / Not Normal,PA,33.0,M,[],1024,1024,0.9992306
+e57fc5a2-e119-4f17-b4cb-5bd50312bfdc,images/e57fc5a2-e119-4f17-b4cb-5bd50312bfdc.png,0,No Lung Opacity / Not Normal,PA,23.0,M,[],1024,1024,0.90077513
+83209510-bdcc-403e-aed9-baf492a93ff7,images/83209510-bdcc-403e-aed9-baf492a93ff7.png,0,Normal,PA,32.0,F,[],1024,1024,0.61084116
+f412da70-2179-4690-a47a-a3027b6dd5f8,images/f412da70-2179-4690-a47a-a3027b6dd5f8.png,0,No Lung Opacity / Not Normal,PA,18.0,M,[],1024,1024,0.999801
+4f2c125a-38ba-4982-8265-1b6ff5161033,images/4f2c125a-38ba-4982-8265-1b6ff5161033.png,0,No Lung Opacity / Not Normal,PA,37.0,M,[],1024,1024,0.084506884
+0ebc8268-df3d-45d8-8ee7-b34880c62830,images/0ebc8268-df3d-45d8-8ee7-b34880c62830.png,1,Lung Opacity,PA,53.0,M,"[[225.0, 536.0, 225.0, 133.0], [691.0, 505.0, 191.0, 209.0]]",1024,1024,0.99575716
+929f2261-a213-4118-897a-6f63875929ab,images/929f2261-a213-4118-897a-6f63875929ab.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.89753723
+6b2ceaba-4f7a-4808-b910-02d789f9a498,images/6b2ceaba-4f7a-4808-b910-02d789f9a498.png,0,No Lung Opacity / Not Normal,PA,41.0,F,[],1024,1024,0.97724223
+49eb5baa-49a9-4c88-9c29-f12f96b88240,images/49eb5baa-49a9-4c88-9c29-f12f96b88240.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.9999964
+d9c69b69-38f7-4b21-b43c-95dff9cc94b4,images/d9c69b69-38f7-4b21-b43c-95dff9cc94b4.png,0,Normal,PA,23.0,M,[],1024,1024,0.99450547
+e51070d4-b3e5-41b5-984c-e535cb629e21,images/e51070d4-b3e5-41b5-984c-e535cb629e21.png,0,No Lung Opacity / Not Normal,PA,60.0,M,[],1024,1024,0.9999999
+7d1c51a5-6364-43e2-8868-513617376dd3,images/7d1c51a5-6364-43e2-8868-513617376dd3.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.9917488
+549200e0-f78f-403b-b67f-9b7e3ea927a0,images/549200e0-f78f-403b-b67f-9b7e3ea927a0.png,0,No Lung Opacity / Not Normal,PA,48.0,F,[],1024,1024,0.99804616
+dae4f66d-53ce-4910-85af-d4e9e14b59c9,images/dae4f66d-53ce-4910-85af-d4e9e14b59c9.png,0,No Lung Opacity / Not Normal,PA,78.0,M,[],1024,1024,0.99997544
+a31468bb-700c-4430-ae7d-8a547db8fa5f,images/a31468bb-700c-4430-ae7d-8a547db8fa5f.png,1,Lung Opacity,PA,61.0,F,"[[581.0, 387.0, 228.0, 318.0]]",1024,1024,0.98171574
+fa03359d-9704-44e0-9050-987ffecc5435,images/fa03359d-9704-44e0-9050-987ffecc5435.png,0,No Lung Opacity / Not Normal,PA,37.0,M,[],1024,1024,0.049357343
+8748f059-1fe3-4cb3-8595-177a46ceb5e5,images/8748f059-1fe3-4cb3-8595-177a46ceb5e5.png,0,Normal,PA,12.0,F,[],1024,1024,0.9999989
+a681b516-2502-4518-830c-67db38985979,images/a681b516-2502-4518-830c-67db38985979.png,0,No Lung Opacity / Not Normal,PA,65.0,F,[],1024,1024,0.8879193
+fe8dda90-2166-4091-8d0f-77d1ddccdeb7,images/fe8dda90-2166-4091-8d0f-77d1ddccdeb7.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.9999721
+c3146b7e-b141-4f08-84f2-e9c8d88674df,images/c3146b7e-b141-4f08-84f2-e9c8d88674df.png,0,Normal,PA,74.0,M,[],1024,1024,0.99675983
+fcc27b71-0bb3-425c-95f3-063ed01e10b9,images/fcc27b71-0bb3-425c-95f3-063ed01e10b9.png,0,No Lung Opacity / Not Normal,PA,55.0,F,[],1024,1024,0.90408933
+763b843f-f415-4868-b089-d8034ced2918,images/763b843f-f415-4868-b089-d8034ced2918.png,0,No Lung Opacity / Not Normal,PA,24.0,M,[],1024,1024,0.9999949
+4e35d6f7-9cdd-4080-afa1-f16693091aaf,images/4e35d6f7-9cdd-4080-afa1-f16693091aaf.png,0,No Lung Opacity / Not Normal,PA,59.0,F,[],1024,1024,0.023060527
+54173812-e677-48a6-a916-b290b061ea31,images/54173812-e677-48a6-a916-b290b061ea31.png,0,No Lung Opacity / Not Normal,PA,50.0,M,[],1024,1024,1.0
+0965f1e9-2905-40ef-8612-4984e2c7e9ea,images/0965f1e9-2905-40ef-8612-4984e2c7e9ea.png,1,Lung Opacity,PA,78.0,F,"[[261.0, 528.0, 171.0, 142.0]]",1024,1024,0.9992793
+f2e391e5-32f4-4a08-beab-4178b12525ee,images/f2e391e5-32f4-4a08-beab-4178b12525ee.png,0,No Lung Opacity / Not Normal,PA,59.0,M,[],1024,1024,0.9999995
+44dc24f3-2954-4a43-be42-eb8d52fd252f,images/44dc24f3-2954-4a43-be42-eb8d52fd252f.png,0,Normal,PA,63.0,M,[],1024,1024,0.025174318
+94399962-8f89-4dfa-a93f-7a3df88feca5,images/94399962-8f89-4dfa-a93f-7a3df88feca5.png,1,Lung Opacity,PA,52.0,M,"[[305.0, 156.0, 204.0, 496.0], [606.0, 403.0, 302.0, 317.0]]",1024,1024,0.99999976
+06c3982f-b0a4-4e3a-a85c-564c2e47e472,images/06c3982f-b0a4-4e3a-a85c-564c2e47e472.png,0,No Lung Opacity / Not Normal,PA,35.0,M,[],1024,1024,0.99857736
+c7bd1ae2-02fd-4a33-9d4c-34b156f83fe6,images/c7bd1ae2-02fd-4a33-9d4c-34b156f83fe6.png,0,Normal,PA,68.0,F,[],1024,1024,0.006384372
+d00da2d8-d89f-496b-a77b-e5b51b2b79ca,images/d00da2d8-d89f-496b-a77b-e5b51b2b79ca.png,0,No Lung Opacity / Not Normal,PA,50.0,F,[],1024,1024,0.9992429
+36f775ee-d044-43a3-bbe5-000ed7b498b8,images/36f775ee-d044-43a3-bbe5-000ed7b498b8.png,1,Lung Opacity,PA,52.0,F,"[[129.0, 544.0, 241.0, 292.0]]",1024,1024,0.99980825
+1dcc3cdf-c92f-42d1-a0fb-3d0ee823a67a,images/1dcc3cdf-c92f-42d1-a0fb-3d0ee823a67a.png,0,Normal,PA,69.0,M,[],1024,1024,0.20635554
+29e75170-ef12-4e4d-a0fc-4055fe7470c5,images/29e75170-ef12-4e4d-a0fc-4055fe7470c5.png,0,Normal,PA,60.0,M,[],1024,1024,0.9994153
+fcdcd7db-09cc-473d-946d-1e27cbd15297,images/fcdcd7db-09cc-473d-946d-1e27cbd15297.png,0,Normal,PA,62.0,M,[],1024,1024,1.0
+647110e0-1f69-40c8-af7e-e8c3ad526495,images/647110e0-1f69-40c8-af7e-e8c3ad526495.png,0,No Lung Opacity / Not Normal,PA,57.0,F,[],1024,1024,0.999944
+fbbd1c86-6545-4cf7-8273-0c77161c847c,images/fbbd1c86-6545-4cf7-8273-0c77161c847c.png,0,Normal,PA,63.0,M,[],1024,1024,0.6439342
