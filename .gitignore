@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/
+runs/**/best.pt
+external/
+*.dcm
+.ipynb_checkpoints/
+
+# dataset RSNA mentah (jangan di-push, ±3,7 GB)
+stage_2_train_images/
+stage_2_test_images/
+stage_2_*.csv
+GCP Credits Request Link*.txt
