@@ -1,6 +1,6 @@
 """Menjalankan grid eksperimen (latih + evaluasi), dapat dilanjutkan (resume).
 
-Run yang sudah punya best.pt + metrics.json akan dilewati, sehingga aman
+Run yang sudah selesai (history.csv + metrics.json) akan dilewati, sehingga aman
 dijalankan ulang di sesi Kaggle berikutnya (simpan folder runs/ sebagai output).
 
   python scripts/run_experiments.py --group core \
@@ -60,7 +60,8 @@ def main():
             continue
         tag = extra[extra.index("--tag") + 1] if "--tag" in extra else ""
         rd = Path(a.runs) / f"{scen}{tag}" / model / f"seed{seed}"
-        if not (rd / "best.pt").exists():
+        # history.csv baru ditulis setelah pelatihan selesai -> run yang terputus diulang
+        if not (rd / "history.csv").exists():
             run([sys.executable, "-m", "src.train", "--splits", a.splits, "--scenario", scen,
                  "--img_root", a.img_root, "--model", model, "--seed", str(seed),
                  "--out", a.runs, "--workers", a.workers, *extra])
