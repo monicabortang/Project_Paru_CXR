@@ -9,6 +9,9 @@ dijalankan ulang di sesi Kaggle berikutnya (simpan folder runs/ sebagai output).
 
 Grup:
   baseline : S1_all x efficientnet_b0 x seed 0,1,2                         (3 run, Progress 3)
+  main     : S1_all x swin_tiny_patch4_window7_224 x seed 0,1,2            (3 run, Progress 4)
+  p5a      : S2/S3 matched x 2 model x seed 0,1,2                          (12 run, Progress 5)
+  p5b      : S2/S3 natural x 2 model; ablasi CLAHE/pos_weight; LR 1e-4/1e-3 (8 run, Progress 5)
   core     : S1_all, S2_AP_matched, S3_PA_matched  x 2 model x seed 0,1,2  (18 run)
   natural  : S2_AP_natural, S3_PA_natural          x 2 model x seed 0      (4 run)
   s4       : S4_*_f1/f5/f10                        x 2 model x seed 0      (12 run)
@@ -26,6 +29,15 @@ MODELS = ["efficientnet_b0", "swin_tiny_patch4_window7_224"]
 
 GROUPS = {
     "baseline": [("S1_all", "efficientnet_b0", sd, []) for sd in (0, 1, 2)],  # Progress 3
+    "main": [("S1_all", "swin_tiny_patch4_window7_224", sd, []) for sd in (0, 1, 2)],  # Progress 4
+    # Progress 5a: pergeseran posisi (matched) - inti penelitian
+    "p5a": [(s_, m, sd, []) for s_ in ["S2_AP_matched", "S3_PA_matched"] for m in MODELS for sd in (0, 1, 2)],
+    # Progress 5b: versi natural, ablasi (EfficientNet-B0), tuning learning rate
+    "p5b": [(s_, m, 0, []) for s_ in ["S2_AP_natural", "S3_PA_natural"] for m in MODELS]
+           + [("S1_all", "efficientnet_b0", 0, ["--clahe", "--tag", "_clahe"]),
+              ("S1_all", "efficientnet_b0", 0, ["--pos_weight", "--tag", "_posw"]),
+              ("S1_all", "efficientnet_b0", 0, ["--lr", "1e-4", "--tag", "_lr1e-4"]),
+              ("S1_all", "efficientnet_b0", 0, ["--lr", "1e-3", "--tag", "_lr1e-3"])],
     "core": [(s, m, sd, []) for s in ["S1_all", "S2_AP_matched", "S3_PA_matched"]
              for m in MODELS for sd in (0, 1, 2)],
     "natural": [(s, m, 0, []) for s in ["S2_AP_natural", "S3_PA_natural"] for m in MODELS],
