@@ -204,17 +204,21 @@ def main():
            ("S1_all_lr1e-4", "lr 1e-4"), ("S1_all_lr1e-3", "lr 1e-3")]
     if has_b:
         caption(doc, "Tabel 5. Ablasi dan tuning EfficientNet-B0 pada S1 (seed 0)")
-        rows = [["Konfigurasi", "AUC semua", "AUC AP", "AUC PA", "Sens. PA", "AUC Kermany"]]
+        rows = [["Konfigurasi", "AUC validasi*", "AUC uji semua", "AUC AP", "AUC PA", "Sens. PA", "AUC Kermany"]]
         for tag, lab in abl:
             x = res[(res.model == BASE) & (res.run_tag == tag) & (res.seed == 0)]
             if x.empty:
                 continue
+            hf = Path(a.runs) / tag / BASE / "seed0" / "history.csv"
+            vauc = idn(pd.read_csv(hf).val_auc.max()) if hf.exists() else "–"
 
             def g(t, c="auc"):
                 v = x[x.test == t][c]
                 return idn(v.iloc[0]) if len(v) else "–"
-            rows.append([lab, g("all"), g("AP_natural"), g("PA_natural"), g("PA_natural", "sensitivity"), g("kermany")])
-        table(doc, rows, [3.6, 2.4, 2.4, 2.4, 2.4, 2.8], size=9)
+            rows.append([lab, vauc, g("all"), g("AP_natural"), g("PA_natural"), g("PA_natural", "sensitivity"), g("kermany")])
+        table(doc, rows, [3.2, 2.2, 2.2, 2.0, 2.0, 2.0, 2.4], size=9)
+        para(doc, ("*Pemilihan konfigurasi hanya berdasarkan AUC validasi. Angka uji ditampilkan sebagai informasi, "
+                   "tidak dipakai untuk memilih, agar tidak terjadi kebocoran informasi dari set uji."), size=10)
     if not cal.empty:
         caption(doc, "Tabel 6. Kalibrasi ambang: ambang global vs ambang khusus posisi (S1, rerata 3 seed)")
         rows = [["Model", "Set uji", "Sens. global", "Spes. global", "Sens. per posisi", "Spes. per posisi"]]
@@ -243,9 +247,9 @@ def main():
                    "sensitivitas pada PA berasal dari ambang keputusan, bukan dari kemampuan model mengurutkan kasus; "
                    "kalibrasi ambang per lokasi/perangkat menjadi rekomendasi penting sebelum model dipakai."))
     if has_b:
-        para(doc, ("**Ablasi dan tuning.** Lihat Tabel 5: konfigurasi dengan AUC tertinggi menjadi kandidat konfigurasi final "
-                   "pada Progress 6. [CEK] Tuliskan konfigurasi mana yang terbaik dan apakah selisihnya cukup berarti "
-                   "(selisih < 0,005 sebaiknya dianggap setara karena hanya 1 seed)."))
+        para(doc, ("**Ablasi dan tuning.** Lihat Tabel 5: konfigurasi dengan **AUC validasi** tertinggi menjadi kandidat "
+                   "konfigurasi final (set uji tidak dipakai untuk memilih). [CEK] Tuliskan konfigurasi terbaik dan apakah "
+                   "selisihnya berarti (selisih < 0,005 sebaiknya dianggap setara karena hanya 1 seed)."))
 
     heading(doc, "5. Kendala dan Solusi")
     table(doc, [["No", "Kendala", "Dampak", "Solusi / Rencana Penanganan"],

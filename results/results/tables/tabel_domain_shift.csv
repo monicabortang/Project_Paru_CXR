@@ -1,0 +1,17 @@
+varian,model,ukuran,nilai
+matched,efficientnet_b0,drop AP->PA (S2: uji AP - uji PA),0.0845 ± 0.0116
+matched,efficientnet_b0,drop PA->AP (S3: uji PA - uji AP),0.0428 ± 0.0351
+matched,efficientnet_b0,gap di uji PA (S3 - S2),0.0680 ± 0.0072
+matched,efficientnet_b0,gap di uji AP (S2 - S3),0.0593 ± 0.0433
+matched,swin_tiny_patch4_window7_224,drop AP->PA (S2: uji AP - uji PA),0.0652 ± 0.0057
+matched,swin_tiny_patch4_window7_224,drop PA->AP (S3: uji PA - uji AP),0.0309 ± 0.0077
+matched,swin_tiny_patch4_window7_224,gap di uji PA (S3 - S2),0.0636 ± 0.0079
+matched,swin_tiny_patch4_window7_224,gap di uji AP (S2 - S3),0.0325 ± 0.0081
+natural,efficientnet_b0,drop AP->PA (S2: uji AP - uji PA),-0.0015
+natural,efficientnet_b0,drop PA->AP (S3: uji PA - uji AP),0.0602
+natural,efficientnet_b0,gap di uji PA (S3 - S2),0.0070
+natural,efficientnet_b0,gap di uji AP (S2 - S3),0.0517
+natural,swin_tiny_patch4_window7_224,drop AP->PA (S2: uji AP - uji PA),-0.0097
+natural,swin_tiny_patch4_window7_224,drop PA->AP (S3: uji PA - uji AP),0.0556
+natural,swin_tiny_patch4_window7_224,gap di uji PA (S3 - S2),0.0218
+natural,swin_tiny_patch4_window7_224,gap di uji AP (S2 - S3),0.0240
